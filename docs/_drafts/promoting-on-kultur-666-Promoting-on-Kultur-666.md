@@ -1,6 +1,6 @@
 ---
 id: 9062
-title: 'Promoting on Kultur 666'
+title: Promoting on Kultur 666
 date: '2021-11-01T21:54:26+00:00'
 author: syr3fx
 layout: page

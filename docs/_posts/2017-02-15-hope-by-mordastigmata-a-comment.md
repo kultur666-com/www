@@ -1,6 +1,6 @@
 ---
 id: 8601
-title: 'Hope by Mord\'A\'Stigmata - A Comment'
+title: Hope by Mord\'A\'Stigmata - A Comment
 date: '2017-02-15T00:10:16+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Hope album by Mord''A''Stigmata (2017).'

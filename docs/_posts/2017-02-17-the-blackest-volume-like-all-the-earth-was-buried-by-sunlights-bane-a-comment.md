@@ -1,6 +1,6 @@
 ---
 id: 8688
-title: '\'The Blackest Volume: Like All The Earth Was Buried\' by Sunlight\'s Bane - A Comment'
+title: \'The Blackest Volume: Like All The Earth Was Buried\' by Sunlight\'s Bane - A Comment
 date: '2017-02-17T00:27:57+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''The Blackest Volume: Like All The Earth Was Buried'' album by Sunlight''s Bane (2017).'

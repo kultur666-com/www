@@ -1,6 +1,6 @@
 ---
 id: 7564
-title: 'Heta by Krokmitën - A Comment'
+title: Heta by Krokmitën - A Comment
 date: '2017-01-11T04:52:09+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Heta album by Krokmitën (2016).'

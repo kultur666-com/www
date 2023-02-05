@@ -1,6 +1,6 @@
 ---
 id: 4559
-title: 'Kultur 666 Podcast: Episode 5'
+title: Kultur 666 Podcast: Episode 5
 date: '2016-08-31T00:30:34+00:00'
 author: syr3fx
 excerpt: 'Kultur 666 Podcast Episode 5 of August 31st 2016. Playing some HIRS, Pequod, Netherbird, Division Vansinne, Saddiscore, Karmanjaka and Diabolus Amator.'

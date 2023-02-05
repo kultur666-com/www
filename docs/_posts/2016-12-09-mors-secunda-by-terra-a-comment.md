@@ -1,6 +1,6 @@
 ---
 id: 7167
-title: '\'Mors Secunda\' by Terra - A Comment'
+title: \'Mors Secunda\' by Terra - A Comment
 date: '2016-12-09T00:20:59+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Mors Secunda'' album by Terra (2016).'

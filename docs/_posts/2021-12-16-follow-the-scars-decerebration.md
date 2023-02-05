@@ -1,6 +1,6 @@
 ---
 id: 9259
-title: 'Follow The Scars - DECEREBRATION'
+title: Follow The Scars - DECEREBRATION
 date: '2021-12-16T20:31:52+00:00'
 author: syr3fx
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2181
-title: '540 Robots Dancing For The New Lunar Calendar'
+title: 540 Robots Dancing For The New Lunar Calendar
 date: '2016-02-10T22:33:37+00:00'
 author: syr3fx
 excerpt: '540 robots dancing for the new lunar calendar.'

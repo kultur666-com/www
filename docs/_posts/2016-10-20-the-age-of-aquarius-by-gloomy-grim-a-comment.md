@@ -1,6 +1,6 @@
 ---
 id: 5864
-title: '\'The Age Of Aquarius\' by Gloomy Grim - A Comment'
+title: \'The Age Of Aquarius\' by Gloomy Grim - A Comment
 date: '2016-10-20T00:10:00+00:00'
 author: syr3fx
 excerpt: 'A Comment on ''The Age Of Aquarius'' album by Gloomy Grim (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 2266
-title: 'Joran Van Pol - Eventuate (2016)'
+title: Joran Van Pol - Eventuate (2016)
 date: '2016-02-28T20:29:52+00:00'
 author: syr3fx
 excerpt: 'Eventuate mix by Joran Van Pol.'

@@ -1,6 +1,6 @@
 ---
 id: 1837
-title: 'Smoking Cigarettes From A 1951 Military Ration Can'
+title: Smoking Cigarettes From A 1951 Military Ration Can
 date: '2016-01-27T00:36:02+00:00'
 author: syr3fx
 excerpt: 'A youtube video where someone smokes a 1951 Chesterfield cigarette from a military ration can. '

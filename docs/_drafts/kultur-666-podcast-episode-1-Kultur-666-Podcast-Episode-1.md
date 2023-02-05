@@ -1,6 +1,6 @@
 ---
 id: 3999
-title: 'Kultur 666 Podcast: Episode 1'
+title: Kultur 666 Podcast: Episode 1
 date: '2016-08-03T04:17:02+00:00'
 author: syr3fx
 excerpt: "Playing some Urobilinemia, Guttural Corpora Cavernosa, Thirteenth Tambourine, Pit Of \nCarnage, Mist Of Misery, Hail Spirit Noir and Lung Sewage.  All permissions asked."

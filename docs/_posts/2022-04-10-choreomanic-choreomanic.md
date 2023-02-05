@@ -1,6 +1,6 @@
 ---
 id: 9255
-title: 'Choreomanic - Choreomanic'
+title: Choreomanic - Choreomanic
 date: '2022-04-10T00:26:40+00:00'
 author: syr3fx
 layout: post

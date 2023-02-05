@@ -1,6 +1,6 @@
 ---
 id: 5018
-title: 'Entheogenesis by Swine Overlord - A Comment'
+title: Entheogenesis by Swine Overlord - A Comment
 date: '2016-09-23T00:10:21+00:00'
 author: syr3fx
 excerpt: 'A comment on Swine Overlord''s new album Entheogenesis out September 23rd 2016.'

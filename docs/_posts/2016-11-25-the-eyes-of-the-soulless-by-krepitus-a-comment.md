@@ -1,6 +1,6 @@
 ---
 id: 6853
-title: '\'The Eyes of the Soulless\' by Krepitus - A Comment'
+title: \'The Eyes of the Soulless\' by Krepitus - A Comment
 date: '2016-11-25T00:20:10+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''The Eyes of the Soulless'' album by Krepitus (2016).'

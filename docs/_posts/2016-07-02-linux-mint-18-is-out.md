@@ -1,6 +1,6 @@
 ---
 id: 3352
-title: 'Linux Mint 18 Is Out!'
+title: Linux Mint 18 Is Out!
 date: '2016-07-02T03:20:22+00:00'
 author: syr3fx
 excerpt: 'News on Linux Mint 18.'

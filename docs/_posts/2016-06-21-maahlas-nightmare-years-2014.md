@@ -1,6 +1,6 @@
 ---
 id: 3046
-title: 'Maahlas - Nightmare Years (2014)'
+title: Maahlas - Nightmare Years (2014)
 date: '2016-06-21T00:15:00+00:00'
 author: syr3fx
 excerpt: 'Maahlas'' Nightmare Years video.'

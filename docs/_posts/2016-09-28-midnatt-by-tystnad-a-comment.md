@@ -1,6 +1,6 @@
 ---
 id: 5131
-title: 'Midnatt by Tystnad - A Comment'
+title: Midnatt by Tystnad - A Comment
 date: '2016-09-28T00:10:43+00:00'
 author: syr3fx
 excerpt: 'A comment on Midnatt album by Tystnad (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 2507
-title: 'Gezeteld In Zegeruïnen By Cultus - A Comment'
+title: Gezeteld In Zegeruïnen By Cultus - A Comment
 date: '2016-04-11T00:33:37+00:00'
 author: syr3fx
 excerpt: 'A comment of Gezeteld in Zegeruïnen by Cultus''s black metal album.'

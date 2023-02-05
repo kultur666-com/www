@@ -1,6 +1,6 @@
 ---
 id: 4326
-title: '\'In Pulverem Reverteris\' by Antiquus Scriptum - A Comment'
+title: \'In Pulverem Reverteris\' by Antiquus Scriptum - A Comment
 date: '2016-08-19T00:10:01+00:00'
 author: syr3fx
 excerpt: 'A comment of ''In Pulrverem Reverteris'' by Antiquus Scriptum (2000).'

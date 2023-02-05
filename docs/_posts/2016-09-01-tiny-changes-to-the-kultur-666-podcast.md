@@ -1,6 +1,6 @@
 ---
 id: 4608
-title: 'Tiny Changes To The Kultur 666 Podcast'
+title: Tiny Changes To The Kultur 666 Podcast
 date: '2016-09-01T00:10:13+00:00'
 author: syr3fx
 excerpt: 'New podcast host, some tiny changes.'

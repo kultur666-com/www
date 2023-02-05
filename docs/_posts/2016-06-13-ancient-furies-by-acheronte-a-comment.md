@@ -1,6 +1,6 @@
 ---
 id: 3082
-title: 'Ancient Furies by Acheronte - A Comment'
+title: Ancient Furies by Acheronte - A Comment
 date: '2016-06-13T00:24:00+00:00'
 author: syr3fx
 excerpt: 'A comment on Acheronte''s latest album Ancient Furies out June 13th, 2016.'

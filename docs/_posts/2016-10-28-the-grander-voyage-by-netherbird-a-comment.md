@@ -1,6 +1,6 @@
 ---
 id: 6092
-title: '\'The Grander Voyage\' by Netherbird - A Comment'
+title: \'The Grander Voyage\' by Netherbird - A Comment
 date: '2016-10-28T00:10:49+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''The Grander Voyage'' by Netherbird (2016).'

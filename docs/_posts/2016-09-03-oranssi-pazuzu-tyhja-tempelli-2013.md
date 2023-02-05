@@ -1,6 +1,6 @@
 ---
 id: 4653
-title: 'Oranssi Pazuzu - Tyhjä Tempelli (2013)'
+title: Oranssi Pazuzu - Tyhjä Tempelli (2013)
 date: '2016-09-03T00:30:59+00:00'
 author: syr3fx
 excerpt: 'Song Tyhjä Tempelli by Oranssi Pazuzu (2013).'

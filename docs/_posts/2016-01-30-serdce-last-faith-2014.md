@@ -1,6 +1,6 @@
 ---
 id: 1919
-title: 'Serdce - Last Faith (2014)'
+title: Serdce - Last Faith (2014)
 date: '2016-01-30T16:43:21+00:00'
 author: syr3fx
 excerpt: 'Serdce - Last Faith (2014)'

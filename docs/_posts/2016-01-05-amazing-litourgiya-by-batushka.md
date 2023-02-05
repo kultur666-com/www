@@ -1,6 +1,6 @@
 ---
 id: 24
-title: 'Amazing Litourgiya By Batushka'
+title: Amazing Litourgiya By Batushka
 date: '2016-01-05T03:34:17+00:00'
 author: syr3fx
 excerpt: 'Some words on the Black Metal album "Litourgiya" of Batushka from Poland.'

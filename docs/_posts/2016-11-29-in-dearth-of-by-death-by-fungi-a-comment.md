@@ -1,6 +1,6 @@
 ---
 id: 6949
-title: '\'In Dearth Of\' by Death By Fungi - A Comment'
+title: \'In Dearth Of\' by Death By Fungi - A Comment
 date: '2016-11-29T00:10:30+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''In Dearth Of'' album by Death By Fungi (2016).'

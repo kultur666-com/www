@@ -1,6 +1,6 @@
 ---
 id: 8284
-title: 'Phantasmagoria by The Mist - A Comment'
+title: Phantasmagoria by The Mist - A Comment
 date: '2017-02-03T01:42:50+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Phantasmagoria re-issue album by The Mist (1989/2017).'

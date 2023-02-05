@@ -1,6 +1,6 @@
 ---
 id: 7126
-title: '\'Devoured By Damnation\' by Kratornas - A Comment'
+title: \'Devoured By Damnation\' by Kratornas - A Comment
 date: '2016-12-08T15:11:39+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Devoured By Damnation'' album by Kratornas (2016).'

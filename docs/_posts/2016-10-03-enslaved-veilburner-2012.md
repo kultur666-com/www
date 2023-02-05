@@ -1,6 +1,6 @@
 ---
 id: 5310
-title: 'Enslaved - Veilburner (2012)'
+title: Enslaved - Veilburner (2012)
 date: '2016-10-03T00:10:46+00:00'
 author: syr3fx
 excerpt: 'Song Veilburner by Enslaved from the album Riitiir (2012).'

@@ -1,6 +1,6 @@
 ---
 id: 7482
-title: 'Omerta by Misanthropia - A Comment'
+title: Omerta by Misanthropia - A Comment
 date: '2017-01-06T00:10:05+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Omerta album by Misanthropia (2017).'

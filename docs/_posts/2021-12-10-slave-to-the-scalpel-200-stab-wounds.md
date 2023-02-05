@@ -1,6 +1,6 @@
 ---
 id: 9167
-title: 'Slave to the Scalpel - 200 STAB WOUNDS'
+title: Slave to the Scalpel - 200 STAB WOUNDS
 date: '2021-12-10T14:37:28+00:00'
 author: syr3fx
 layout: post

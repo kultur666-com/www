@@ -1,6 +1,6 @@
 ---
 id: 3273
-title: 'Bathed In Filth by Lung Sewage - A Comment'
+title: Bathed In Filth by Lung Sewage - A Comment
 date: '2016-07-09T00:31:17+00:00'
 author: syr3fx
 excerpt: 'A comment on Lung Sewage album "Bathed In Filth" (2016).'

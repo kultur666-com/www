@@ -1,6 +1,6 @@
 ---
 id: 3670
-title: 'The Rise Of The Fallen King by Pit Of Carnage - A Comment'
+title: The Rise Of The Fallen King by Pit Of Carnage - A Comment
 date: '2016-08-03T00:15:59+00:00'
 author: syr3fx
 excerpt: 'A comment on Pit Of Carnage''s "The Rise Of The Fallen King" album (2016).'

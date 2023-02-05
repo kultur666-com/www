@@ -1,6 +1,6 @@
 ---
 id: 9260
-title: 'The Dregs of Hades - Lock Up'
+title: The Dregs of Hades - Lock Up
 date: '2021-12-19T05:45:00+00:00'
 author: syr3fx
 layout: post

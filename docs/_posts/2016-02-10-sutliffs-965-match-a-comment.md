@@ -1,6 +1,6 @@
 ---
 id: 2090
-title: 'Sutliff\'s 965 Match - A Comment'
+title: Sutliff\'s 965 Match - A Comment
 date: '2016-02-10T00:10:18+00:00'
 author: syr3fx
 excerpt: 'A comment on Sutliff''s 965 Match pipe tobacco.'

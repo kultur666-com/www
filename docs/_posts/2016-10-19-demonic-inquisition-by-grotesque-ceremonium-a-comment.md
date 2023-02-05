@@ -1,6 +1,6 @@
 ---
 id: 5836
-title: '\'Demonic Inquisition\' by Grotesque Ceremonium - A Comment'
+title: \'Demonic Inquisition\' by Grotesque Ceremonium - A Comment
 date: '2016-10-19T00:10:22+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Demonic Inquisition'' album by Grotesque Ceremonium (2016).'

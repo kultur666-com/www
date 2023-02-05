@@ -1,6 +1,6 @@
 ---
 id: 5069
-title: 'Phazm - Howling For You (2016)'
+title: Phazm - Howling For You (2016)
 date: '2016-09-26T00:10:34+00:00'
 author: syr3fx
 excerpt: 'Song ''Howling For You'' by Phazm (2016).'

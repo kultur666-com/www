@@ -1,6 +1,6 @@
 ---
 id: 8471
-title: '\'I Become Death\' by Hereza - A Comment'
+title: \'I Become Death\' by Hereza - A Comment
 date: '2017-02-13T00:20:34+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''I Become Death'' album by Hereza (2017).'

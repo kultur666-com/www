@@ -1,6 +1,6 @@
 ---
 id: 7463
-title: 'Via by Derhead - A Comment'
+title: Via by Derhead - A Comment
 date: '2017-01-05T00:10:26+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Via album by Derhead (2017).'

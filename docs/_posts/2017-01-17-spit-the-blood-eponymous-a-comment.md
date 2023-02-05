@@ -1,6 +1,6 @@
 ---
 id: 7746
-title: 'Spit The Blood (Eponymous) - A Comment'
+title: Spit The Blood (Eponymous) - A Comment
 date: '2017-01-17T00:20:52+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Spit The Blood eponymous album (2016).'

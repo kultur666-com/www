@@ -1,6 +1,6 @@
 ---
 id: 6546
-title: 'PrisonEgo by Granada - A Comment'
+title: PrisonEgo by Granada - A Comment
 date: '2016-11-14T00:20:38+00:00'
 author: syr3fx
 excerpt: 'A Comment on the PrisonEgo album by Granada (2016).'

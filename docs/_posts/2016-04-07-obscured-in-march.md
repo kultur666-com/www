@@ -1,6 +1,6 @@
 ---
 id: 2324
-title: 'Obscured in March'
+title: Obscured in March
 date: '2016-04-07T00:11:36+00:00'
 author: syr3fx
 excerpt: 'Poem for the New Year.'

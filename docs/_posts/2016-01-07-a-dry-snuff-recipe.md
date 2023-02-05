@@ -1,6 +1,6 @@
 ---
 id: 464
-title: 'A Dry Snuff Recipe'
+title: A Dry Snuff Recipe
 date: '2016-01-07T01:08:44+00:00'
 author: syr3fx
 excerpt: 'An article about dry snuff and how to mill its own.'

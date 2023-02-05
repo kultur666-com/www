@@ -1,6 +1,6 @@
 ---
 id: 3534
-title: 'Napalm Death - Omnipresent Knife In Your Back (2009)'
+title: Napalm Death - Omnipresent Knife In Your Back (2009)
 date: '2016-07-20T00:31:03+00:00'
 author: syr3fx
 excerpt: 'Song "Omnipresent Knife In Your Back" by Napalm Death  (2009).'

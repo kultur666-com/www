@@ -1,6 +1,6 @@
 ---
 id: 4308
-title: 'Kultur 666 Podcast: Episode 3'
+title: Kultur 666 Podcast: Episode 3
 date: '2016-08-17T00:30:35+00:00'
 author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 3, playing some Plutonium, Zeal &amp; Ardor, Bewitcher, Idolatry, Athame, Shadow Witch and Whipstriker.  All permissions asked.'

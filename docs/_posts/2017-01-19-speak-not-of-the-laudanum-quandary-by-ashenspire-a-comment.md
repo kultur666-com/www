@@ -1,6 +1,6 @@
 ---
 id: 7802
-title: '\'Speak Not Of The Laudanum Quandary\' by Ashenspire - A Comment'
+title: \'Speak Not Of The Laudanum Quandary\' by Ashenspire - A Comment
 date: '2017-01-19T00:10:11+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Speak Not Of The Laudanum Quandary'' album by Ashenspire (2017).'

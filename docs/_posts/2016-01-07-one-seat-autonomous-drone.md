@@ -1,6 +1,6 @@
 ---
 id: 1000
-title: 'One Seat Autonomous Drone'
+title: One Seat Autonomous Drone
 date: '2016-01-07T07:38:23+00:00'
 author: syr3fx
 excerpt: 'The near future of self-driving cars and one-seat autonomous drones. '

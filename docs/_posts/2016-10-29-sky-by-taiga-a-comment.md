@@ -1,6 +1,6 @@
 ---
 id: 6143
-title: 'Sky by Taiga - A Comment'
+title: Sky by Taiga - A Comment
 date: '2016-10-29T00:20:35+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Sky album by Taiga (2016).'

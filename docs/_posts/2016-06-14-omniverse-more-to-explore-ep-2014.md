@@ -1,6 +1,6 @@
 ---
 id: 3110
-title: 'Omniverse - More To Explore EP (2014)'
+title: Omniverse - More To Explore EP (2014)
 date: '2016-06-14T00:01:54+00:00'
 author: syr3fx
 excerpt: 'Omniverse''s album More To Explore EP (2014).'

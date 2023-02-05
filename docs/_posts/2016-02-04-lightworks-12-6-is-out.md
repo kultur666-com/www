@@ -1,6 +1,6 @@
 ---
 id: 2061
-title: 'Lightworks 12.6 Is Out'
+title: Lightworks 12.6 Is Out
 date: '2016-02-04T07:28:24+00:00'
 author: syr3fx
 excerpt: 'A note on the new Lightworks 12.6 version.'

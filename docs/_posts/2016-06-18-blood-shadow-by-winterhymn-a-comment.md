@@ -1,6 +1,6 @@
 ---
 id: 3128
-title: 'Blood &amp; Shadow by Winterhymn - A Comment'
+title: Blood &amp; Shadow by Winterhymn - A Comment
 date: '2016-06-18T08:11:15+00:00'
 author: syr3fx
 excerpt: 'A comment on Winterhymn''s Blood &amp; Shadow album (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 3047
-title: 'Fractured Insanity - The Blame Of Humanity (2016)'
+title: Fractured Insanity - The Blame Of Humanity (2016)
 date: '2016-06-04T00:10:38+00:00'
 author: syr3fx
 excerpt: 'Song The Blame of Humanity by Fractured Insanity (2016)'

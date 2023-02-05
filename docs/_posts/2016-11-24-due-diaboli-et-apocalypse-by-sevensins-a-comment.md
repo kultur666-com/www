@@ -1,6 +1,6 @@
 ---
 id: 6760
-title: '\'Due Diaboli Et Apocalypse\' by SevenSins - A Comment'
+title: \'Due Diaboli Et Apocalypse\' by SevenSins - A Comment
 date: '2016-11-24T00:10:52+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Due Diaboli Et Apocalypse'' album by SevenSins (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 9104
-title: 'Kurdaitcha - Mamaleek'
+title: Kurdaitcha - Mamaleek
 date: '2021-11-14T13:30:27+00:00'
 author: syr3fx
 layout: post

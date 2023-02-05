@@ -1,6 +1,6 @@
 ---
 id: 1979
-title: 'Replacing France\'s AZERTY Keyboard'
+title: Replacing France\'s AZERTY Keyboard
 date: '2016-02-04T00:04:08+00:00'
 author: syr3fx
 excerpt: 'France seeking to replace its AZERTY keyboard.'

@@ -1,6 +1,6 @@
 ---
 id: 6831
-title: 'Hellmouth by Science Of Sleep - A Comment'
+title: Hellmouth by Science Of Sleep - A Comment
 date: '2016-11-26T00:20:17+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Hellmouth album by Science Of Sleep (2016).'

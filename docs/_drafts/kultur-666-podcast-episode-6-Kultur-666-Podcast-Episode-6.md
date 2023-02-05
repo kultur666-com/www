@@ -1,6 +1,6 @@
 ---
 id: 4793
-title: 'Kultur 666 Podcast: Episode 6'
+title: Kultur 666 Podcast: Episode 6
 date: '2016-09-07T00:10:59+00:00'
 author: syr3fx
 excerpt: 'Kultur 666 Podcast Episode 6 published on September 7th 2016. Playing some Pentarium, Mist Of Misery, The Projectionist, Lethal Shock, Zornheym, Acid Age and Vulvodynia.  All permissions asked.'

@@ -1,6 +1,6 @@
 ---
 id: 727
-title: 'Pro Video Editing On Linux With Lightworks'
+title: Pro Video Editing On Linux With Lightworks
 date: '2016-01-09T00:26:40+00:00'
 author: syr3fx
 excerpt: 'A usage account of EditShare''s Lightworks on Linux Mint.'

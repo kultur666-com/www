@@ -1,6 +1,6 @@
 ---
 id: 5436
-title: 'Bringers Of Delusion by Assailant and Ubiquitous Realities [Split] - A Comment'
+title: Bringers Of Delusion by Assailant and Ubiquitous Realities [Split] - A Comment
 date: '2016-10-07T00:10:29+00:00'
 author: syr3fx
 excerpt: 'A comment on the split album ''Bringers Of Delusion'' by Assailant and Ubiquitous Realities (2016).'

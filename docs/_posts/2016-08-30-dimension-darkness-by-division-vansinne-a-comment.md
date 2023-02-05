@@ -1,6 +1,6 @@
 ---
 id: 4567
-title: '\'Dimension Darkness\' by Division Vansinne - A Comment'
+title: \'Dimension Darkness\' by Division Vansinne - A Comment
 date: '2016-08-30T00:10:23+00:00'
 author: syr3fx
 excerpt: 'A comment on ''Dimension Darkness'' by Division Vansinne (2016)'

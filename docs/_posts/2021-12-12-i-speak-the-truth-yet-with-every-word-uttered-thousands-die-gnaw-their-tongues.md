@@ -1,6 +1,6 @@
 ---
 id: 9173
-title: 'I speak the truth, yet with every word uttered, thousands die - Gnaw Their Tongues'
+title: I speak the truth, yet with every word uttered, thousands die - Gnaw Their Tongues
 date: '2021-12-12T19:31:32+00:00'
 author: syr3fx
 layout: post

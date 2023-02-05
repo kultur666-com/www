@@ -1,6 +1,6 @@
 ---
 id: 2889
-title: 'Carry On The Black Flame by Black Pestilence - A Comment'
+title: Carry On The Black Flame by Black Pestilence - A Comment
 date: '2016-05-17T00:12:26+00:00'
 author: syr3fx
 excerpt: 'A comment on Carry On The Black Flame by Black Pestilence.'

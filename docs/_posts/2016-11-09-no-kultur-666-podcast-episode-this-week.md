@@ -1,6 +1,6 @@
 ---
 id: 6455
-title: 'No Kultur 666 Podcast Episode This Week'
+title: No Kultur 666 Podcast Episode This Week
 date: '2016-11-09T21:18:15+00:00'
 author: syr3fx
 excerpt: 'No Kultur 666 Podcast Episode This Week.'

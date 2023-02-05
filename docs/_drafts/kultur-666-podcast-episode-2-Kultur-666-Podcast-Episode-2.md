@@ -1,6 +1,6 @@
 ---
 id: 4167
-title: 'Kultur 666 Podcast: Episode 2'
+title: Kultur 666 Podcast: Episode 2
 date: '2016-08-10T00:20:13+00:00'
 author: syr3fx
 excerpt: 'Playing some Crisis Actor, Infectology, Rotting Repugnancy, Corprophemia, Cuff, Phidion and Eximperitus.  All permissions asked.'

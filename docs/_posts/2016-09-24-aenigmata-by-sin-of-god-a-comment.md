@@ -1,6 +1,6 @@
 ---
 id: 4982
-title: 'Aenigmata by Sin Of God - A Comment'
+title: Aenigmata by Sin Of God - A Comment
 date: '2016-09-24T00:10:40+00:00'
 author: syr3fx
 excerpt: 'A comment on Sin Of God''s album Aenigmata out September 23rd 2016.'

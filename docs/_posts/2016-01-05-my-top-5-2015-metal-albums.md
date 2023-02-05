@@ -1,6 +1,6 @@
 ---
 id: 109
-title: 'My Top 5 2015 Metal Albums'
+title: My Top 5 2015 Metal Albums
 date: '2016-01-05T05:20:10+00:00'
 author: syr3fx
 excerpt: 'My Top 5 of Metal albums from 2015.'

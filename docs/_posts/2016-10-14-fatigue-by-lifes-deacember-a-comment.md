@@ -1,6 +1,6 @@
 ---
 id: 5669
-title: '\'Fatigue\' by Life\'s December - A Comment'
+title: \'Fatigue\' by Life\'s December - A Comment
 date: '2016-10-14T00:10:10+00:00'
 author: syr3fx
 excerpt: 'A comment on Life''s December''s album ''Fatigue'' (2016).'

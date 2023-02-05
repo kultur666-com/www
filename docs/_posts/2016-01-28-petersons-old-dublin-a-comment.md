@@ -1,6 +1,6 @@
 ---
 id: 1666
-title: 'Peterson\'s Old Dublin - A Comment'
+title: Peterson\'s Old Dublin - A Comment
 date: '2016-01-28T00:10:29+00:00'
 author: syr3fx
 excerpt: 'A comment on Peterson''s Old Dublin English pipe tobacco blend.'

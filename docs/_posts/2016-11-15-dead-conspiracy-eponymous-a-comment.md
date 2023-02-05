@@ -1,6 +1,6 @@
 ---
 id: 6632
-title: 'Dead Conspiracy (Eponymous) - A Comment'
+title: Dead Conspiracy (Eponymous) - A Comment
 date: '2016-11-15T00:20:48+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Dead Conspiracy (Eponymous) album (2016).'

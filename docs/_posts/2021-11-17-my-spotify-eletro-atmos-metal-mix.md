@@ -1,6 +1,6 @@
 ---
 id: 9109
-title: 'My Spotify Electro-Atmos Metal Mix'
+title: My Spotify Electro-Atmos Metal Mix
 date: '2021-11-17T03:45:57+00:00'
 author: syr3fx
 layout: post

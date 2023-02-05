@@ -1,6 +1,6 @@
 ---
 id: 7820
-title: 'Asunder by Samskaras - A Comment'
+title: Asunder by Samskaras - A Comment
 date: '2017-01-20T00:10:13+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Asunder EP by Samskaras (2017).'

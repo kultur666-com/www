@@ -1,6 +1,6 @@
 ---
 id: 8491
-title: '\'The Rotten Ways Of Human Misery\' by Blackthorn - A Comment'
+title: \'The Rotten Ways Of Human Misery\' by Blackthorn - A Comment
 date: '2017-02-13T00:30:14+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''The Rotten Ways Of Human Misery'' reissue album by Blackthorn (1992/2017).'

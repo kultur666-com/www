@@ -1,6 +1,6 @@
 ---
 id: 3055
-title: 'Kronos - Rapture In Misery (2015)'
+title: Kronos - Rapture In Misery (2015)
 date: '2016-06-09T20:55:36+00:00'
 author: syr3fx
 excerpt: 'Kronos''s Rapture In Misery song from Arisen New Era album (2015).'

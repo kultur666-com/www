@@ -1,6 +1,6 @@
 ---
 id: 9033
-title: 'Citadin 5 - Ripin'
+title: Citadin 5 - Ripin
 date: '2018-02-14T22:31:17+00:00'
 author: syr3fx
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 6480
-title: 'The Death Of The Kultur 666 Podcast'
+title: The Death Of The Kultur 666 Podcast
 date: '2016-11-16T00:30:19+00:00'
 author: syr3fx
 layout: post

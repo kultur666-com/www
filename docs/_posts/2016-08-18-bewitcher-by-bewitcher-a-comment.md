@@ -1,6 +1,6 @@
 ---
 id: 4286
-title: 'Bewitcher by Bewitcher - A Comment'
+title: Bewitcher by Bewitcher - A Comment
 date: '2016-08-18T00:10:35+00:00'
 author: syr3fx
 excerpt: 'A comment on Bewitcher''s eponymous album (2016).'

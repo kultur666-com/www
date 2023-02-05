@@ -1,6 +1,6 @@
 ---
 id: 4023
-title: 'Apple Campus 2 - August 2016 Update'
+title: Apple Campus 2 - August 2016 Update
 date: '2016-08-06T21:48:07+00:00'
 author: syr3fx
 excerpt: 'Apple Campus 2, August 2016 Update.'

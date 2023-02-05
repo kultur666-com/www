@@ -1,6 +1,6 @@
 ---
 id: 7948
-title: '\'Within the Mist of Sorrow\' by Vanha - A Comment'
+title: \'Within the Mist of Sorrow\' by Vanha - A Comment
 date: '2017-01-24T00:20:39+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Within the Mist of Sorrow'' album by Vanha (2016).'

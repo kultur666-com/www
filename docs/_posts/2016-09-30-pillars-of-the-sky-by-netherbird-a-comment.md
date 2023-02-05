@@ -1,6 +1,6 @@
 ---
 id: 5186
-title: '\'Pillars Of The Sky\' by Netherbird - A Comment'
+title: \'Pillars Of The Sky\' by Netherbird - A Comment
 date: '2016-09-30T00:10:19+00:00'
 author: syr3fx
 excerpt: 'A comment on ''Pillars Of The Sky'' album by Netherbird (2016).'

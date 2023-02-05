@@ -1,6 +1,6 @@
 ---
 id: 3853
-title: 'Promoting Albums, Bands &amp; Labels On kultur666.com'
+title: Promoting Albums, Bands &amp; Labels On kultur666.com
 date: '2016-08-01T16:25:10+00:00'
 author: syr3fx
 excerpt: 'How to promote your album, band or label on kultur666.com.'

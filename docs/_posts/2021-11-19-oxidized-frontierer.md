@@ -1,6 +1,6 @@
 ---
 id: 9127
-title: 'Oxidized - Frontierer'
+title: Oxidized - Frontierer
 date: '2021-11-19T14:44:54+00:00'
 author: syr3fx
 layout: post

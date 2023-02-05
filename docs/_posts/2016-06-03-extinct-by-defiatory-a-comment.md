@@ -1,6 +1,6 @@
 ---
 id: 2999
-title: 'Extinct by Defiatory - A Comment'
+title: Extinct by Defiatory - A Comment
 date: '2016-06-03T00:00:03+00:00'
 author: syr3fx
 excerpt: 'A comment on Defiatory''s Extinct album out on june 3rd 2016.'

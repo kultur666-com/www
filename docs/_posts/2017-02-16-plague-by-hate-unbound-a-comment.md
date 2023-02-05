@@ -1,6 +1,6 @@
 ---
 id: 8661
-title: 'Plague by Hate Unbound - A Comment'
+title: Plague by Hate Unbound - A Comment
 date: '2017-02-16T00:29:47+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Plague album by Hate Unbound (2017).'

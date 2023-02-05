@@ -1,6 +1,6 @@
 ---
 id: 4978
-title: 'Kultur 666 Podcast: Episode 8'
+title: Kultur 666 Podcast: Episode 8
 date: '2016-09-21T00:30:35+00:00'
 author: syr3fx
 excerpt: 'Playing some Merchant, Division Vansinne, Orewoet, Sin Of God and Swine Overlord.  All permissions asked.'

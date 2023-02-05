@@ -1,6 +1,6 @@
 ---
 id: 1023
-title: 'Heavy Video Resolutions Of Tomorrow'
+title: Heavy Video Resolutions Of Tomorrow
 date: '2016-02-04T00:25:36+00:00'
 author: syr3fx
 excerpt: 'About 4K and its replacement. No, it might not be 8K...'

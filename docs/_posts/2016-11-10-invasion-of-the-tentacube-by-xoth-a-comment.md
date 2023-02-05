@@ -1,6 +1,6 @@
 ---
 id: 6421
-title: '\'Invasion Of The Tentacube\' by Xoth - A Comment'
+title: \'Invasion Of The Tentacube\' by Xoth - A Comment
 date: '2016-11-10T00:10:57+00:00'
 author: syr3fx
 excerpt: 'A comment on the ''Invasion Of The Tentacube'' album by Xoth (2016)'

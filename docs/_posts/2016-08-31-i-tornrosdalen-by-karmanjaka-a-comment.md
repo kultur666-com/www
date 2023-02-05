@@ -1,6 +1,6 @@
 ---
 id: 4537
-title: '\'I Törnrosdalen\' by Karmanjaka - A Comment'
+title: \'I Törnrosdalen\' by Karmanjaka - A Comment
 date: '2016-08-31T00:10:42+00:00'
 author: syr3fx
 excerpt: 'A comment on ''I Törnrosdalen'' by Karmanjaka (2016).'

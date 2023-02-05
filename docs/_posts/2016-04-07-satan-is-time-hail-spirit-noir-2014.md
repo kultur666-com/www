@@ -1,6 +1,6 @@
 ---
 id: 2382
-title: 'Hail Spirit Noir - Satan Is Time (2014)'
+title: Hail Spirit Noir - Satan Is Time (2014)
 date: '2016-04-07T00:45:22+00:00'
 author: syr3fx
 excerpt: 'Song Satan Is Time by Hail Spirit Noir from the Oi Magoi album (2014).'

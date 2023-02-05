@@ -1,6 +1,6 @@
 ---
 id: 2647
-title: 'Black Tracks by Liveevil - A Comment'
+title: Black Tracks by Liveevil - A Comment
 date: '2016-04-22T00:17:46+00:00'
 author: syr3fx
 excerpt: 'A comment on Liveevil''s Black Tracks pop metal album.'

@@ -1,6 +1,6 @@
 ---
 id: 6008
-title: 'I Mean You Harm - Hail Spirit Noir (2016)'
+title: I Mean You Harm - Hail Spirit Noir (2016)
 date: '2016-10-25T00:10:57+00:00'
 author: syr3fx
 excerpt: 'Song ''I Mean You Harm'' by Hail Spirit Noir (2016).'

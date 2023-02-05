@@ -1,6 +1,6 @@
 ---
 id: 3125
-title: 'Raze The Void - All We Have Ever Known (2016)'
+title: Raze The Void - All We Have Ever Known (2016)
 date: '2016-06-18T06:15:25+00:00'
 author: syr3fx
 excerpt: '"All We Have Ever Known" song by Raze The Void (2016).'

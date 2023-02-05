@@ -1,6 +1,6 @@
 ---
 id: 3114
-title: 'Gojira - Stranded (2016)'
+title: Gojira - Stranded (2016)
 date: '2016-06-16T00:15:03+00:00'
 author: syr3fx
 excerpt: 'Video of Gojira''s song Stranded from Magma album (2016).'

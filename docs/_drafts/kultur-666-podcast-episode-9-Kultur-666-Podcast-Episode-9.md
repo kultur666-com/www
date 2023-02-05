@@ -1,6 +1,6 @@
 ---
 id: 5276
-title: 'Kultur 666 Podcast: Episode 9'
+title: Kultur 666 Podcast: Episode 9
 date: '2016-09-28T00:30:29+00:00'
 author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 9 - Playing some Abigorum/Cryostasium, Nonexist, Peter Grusel und die Unheimlichen, Netherbird, Defiatory, Tystnad and Eufori.  All permissions asked.'

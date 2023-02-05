@@ -1,6 +1,6 @@
 ---
 id: 5190
-title: 'Peter Grusel und die Unheimlichen (Eponymous) - A Comment'
+title: Peter Grusel und die Unheimlichen (Eponymous) - A Comment
 date: '2016-09-30T00:20:28+00:00'
 author: syr3fx
 excerpt: 'A comment on Peter Grusel und die Unheimlichen eponymous album (2016).'

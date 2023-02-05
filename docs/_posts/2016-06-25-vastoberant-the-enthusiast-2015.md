@@ -1,6 +1,6 @@
 ---
 id: 3330
-title: 'Vastoberant - The Enthusiast (2015)'
+title: Vastoberant - The Enthusiast (2015)
 date: '2016-06-25T00:14:30+00:00'
 author: syr3fx
 excerpt: '"The Enthusiast" song by Vastoberant from Catharsis album (2015).'

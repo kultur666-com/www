@@ -1,6 +1,6 @@
 ---
 id: 6392
-title: 'Kultur 666 Podcast: Episode 14'
+title: Kultur 666 Podcast: Episode 14
 date: '2016-11-02T22:57:53+00:00'
 author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 14 - Playing some Fornicus, Soulemission, Nebrus, Mosh-Pit Justice &amp; Speedwhore. All permissions asked.'

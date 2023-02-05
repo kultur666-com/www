@@ -1,6 +1,6 @@
 ---
 id: 1712
-title: 'Delivery By Drones With Amazon Prime Air'
+title: Delivery By Drones With Amazon Prime Air
 date: '2016-01-18T15:31:20+00:00'
 author: syr3fx
 excerpt: 'Some news on autonomous delivery drones with Amazon Prime Air.'

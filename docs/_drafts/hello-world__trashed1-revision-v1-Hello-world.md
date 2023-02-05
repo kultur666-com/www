@@ -1,6 +1,6 @@
 ---
 id: 9261
-title: 'Hello world!'
+title: Hello world!
 date: '2023-02-05T18:44:39+00:00'
 author: syr3fx
 layout: revision

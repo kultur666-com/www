@@ -1,6 +1,6 @@
 ---
 id: 8171
-title: '\'No Restraint\' by Tragic Cause - A Comment'
+title: \'No Restraint\' by Tragic Cause - A Comment
 date: '2017-01-30T01:30:45+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''No Restraint'' album by Tragic Cause (2016).'

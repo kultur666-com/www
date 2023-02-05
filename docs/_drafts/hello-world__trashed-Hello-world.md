@@ -1,6 +1,6 @@
 ---
 id: 1
-title: 'Hello world!'
+title: Hello world!
 date: '2023-02-05T18:07:08+00:00'
 author: syr3fx
 layout: post

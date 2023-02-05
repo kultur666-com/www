@@ -1,6 +1,6 @@
 ---
 id: 8636
-title: '\'Identity Shapes\' by Deadwound - A Comment'
+title: \'Identity Shapes\' by Deadwound - A Comment
 date: '2017-02-16T00:10:05+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Indentity Shapes'' album by Deadwound (2017).'

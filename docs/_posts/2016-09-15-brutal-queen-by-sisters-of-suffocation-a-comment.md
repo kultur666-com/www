@@ -1,6 +1,6 @@
 ---
 id: 4889
-title: 'Brutal Queen by Sisters Of Suffocation - A Comment'
+title: Brutal Queen by Sisters Of Suffocation - A Comment
 date: '2016-09-15T00:10:58+00:00'
 author: syr3fx
 excerpt: 'A comment on Sisters Of Suffocation''s Brutal Queen album (2016).'

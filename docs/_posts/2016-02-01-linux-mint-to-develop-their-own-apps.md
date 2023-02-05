@@ -1,6 +1,6 @@
 ---
 id: 1924
-title: 'Linux Mint To Develop Their Own Apps'
+title: Linux Mint To Develop Their Own Apps
 date: '2016-02-01T00:23:01+00:00'
 author: syr3fx
 excerpt: 'On how Linux Mint 18.x is going to have its own apps.'

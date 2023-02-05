@@ -1,6 +1,6 @@
 ---
 id: 9180
-title: 'Life Is A Dream As Dreams Are A Reality'
+title: Life Is A Dream As Dreams Are A Reality
 date: '2015-12-31T07:17:30+00:00'
 author: syr3fx
 excerpt: 'About memories within dreams.'

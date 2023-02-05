@@ -1,6 +1,6 @@
 ---
 id: 3341
-title: 'Batushka - Yekteniya III - Live In Kiev'
+title: Batushka - Yekteniya III - Live In Kiev
 date: '2016-07-02T02:44:59+00:00'
 author: syr3fx
 excerpt: 'Video of Batushka live in Kiev playing Yekteniya III.'

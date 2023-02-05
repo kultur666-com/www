@@ -1,6 +1,6 @@
 ---
 id: 2195
-title: 'Gorod - Beware of Tramps (2005)'
+title: Gorod - Beware of Tramps (2005)
 date: '2016-02-11T20:15:25+00:00'
 author: syr3fx
 excerpt: 'Song Beware Of Tramps by Gorod.'

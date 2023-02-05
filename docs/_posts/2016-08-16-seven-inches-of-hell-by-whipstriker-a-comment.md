@@ -1,6 +1,6 @@
 ---
 id: 4026
-title: 'Seven Inches Of Hell by Whipstriker - A Comment'
+title: Seven Inches Of Hell by Whipstriker - A Comment
 date: '2016-08-16T00:10:19+00:00'
 author: syr3fx
 excerpt: 'A comment on Whipstriker''s ''Seven Inches Of Hell'' double LP.'

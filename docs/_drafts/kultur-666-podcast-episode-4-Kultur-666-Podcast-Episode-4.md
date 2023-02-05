@@ -1,6 +1,6 @@
 ---
 id: 4474
-title: 'Kultur 666 Podcast: Episode 4'
+title: Kultur 666 Podcast: Episode 4
 date: '2016-08-24T00:10:13+00:00'
 author: syr3fx
 excerpt: 'Playing some Antiquus Scriptum, Aegeon, Onirism, Fetal Autopsy and Surtur.  All permissions asked.'

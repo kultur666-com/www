@@ -1,6 +1,6 @@
 ---
 id: 7190
-title: '\'The Biddings Of Tyrants\' by Invertia - A Comment'
+title: \'The Biddings Of Tyrants\' by Invertia - A Comment
 date: '2016-12-09T00:30:20+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''The Biddings Of Tyrants'' album by Invertia (2016).'

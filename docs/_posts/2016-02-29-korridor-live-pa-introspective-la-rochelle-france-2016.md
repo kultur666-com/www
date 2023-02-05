@@ -1,6 +1,6 @@
 ---
 id: 2270
-title: 'Korridor Live PA @ Introspective, La Rochelle, France (2016)'
+title: Korridor Live PA @ Introspective, La Rochelle, France (2016)
 date: '2016-02-29T22:45:18+00:00'
 author: syr3fx
 excerpt: 'Korridor Live PA @ Introspective, La Rochelle, France (2016)'

@@ -1,6 +1,6 @@
 ---
 id: 7559
-title: 'Kratornas - Archangels Of Destruction (2016)'
+title: Kratornas - Archangels Of Destruction (2016)
 date: '2017-01-09T20:57:34+00:00'
 author: syr3fx
 excerpt: 'Video of Kratornas - Archangels Of Destruction (2016)'

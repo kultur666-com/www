@@ -1,6 +1,6 @@
 ---
 id: 7614
-title: 'Burials/Exhausted Prayer (Eponymous/Split) - A Comment'
+title: Burials/Exhausted Prayer (Eponymous/Split) - A Comment
 date: '2017-01-13T00:10:22+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Burials/Exausted Prayer eponymous split album (2017).'

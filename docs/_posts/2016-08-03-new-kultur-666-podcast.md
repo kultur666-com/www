@@ -1,6 +1,6 @@
 ---
 id: 3782
-title: 'New! Kultur 666 Podcast'
+title: New! Kultur 666 Podcast
 date: '2016-08-03T03:47:45+00:00'
 author: syr3fx
 excerpt: 'Kultur 666 Podcast announcement.'

@@ -1,6 +1,6 @@
 ---
 id: 9153
-title: 'Metta, Benevolence BBC 6Music : Live on the Invitation of Mary Anne Hobbs - Sunn O)))'
+title: Metta, Benevolence BBC 6Music : Live on the Invitation of Mary Anne Hobbs - Sunn O)))
 date: '2021-12-01T21:08:08+00:00'
 author: syr3fx
 layout: post

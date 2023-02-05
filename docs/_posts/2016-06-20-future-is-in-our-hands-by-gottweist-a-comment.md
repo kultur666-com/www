@@ -1,6 +1,6 @@
 ---
 id: 3135
-title: 'Future Is In Our Hands by Gottweist - A Comment'
+title: Future Is In Our Hands by Gottweist - A Comment
 date: '2016-06-20T00:08:25+00:00'
 author: syr3fx
 excerpt: 'A Comment on "Future Is In Our Hands" album by Gottweist (2016).'

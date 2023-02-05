@@ -1,6 +1,6 @@
 ---
 id: 4950
-title: 'Kultur 666 Podcast: Episode 7'
+title: Kultur 666 Podcast: Episode 7
 date: '2016-09-14T00:30:16+00:00'
 author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 7, playing some Sisters Of Suffocation, Corprophemia, Defiatory, Gottweist, Stages Of Decomposition, Saboter and Ironhand.  All permissions asked.'

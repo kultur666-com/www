@@ -1,6 +1,6 @@
 ---
 id: 7281
-title: 'Astrophobia by Youdash - A Comment'
+title: Astrophobia by Youdash - A Comment
 date: '2017-01-09T00:10:23+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Astrophobia album by Youdash (2016).'

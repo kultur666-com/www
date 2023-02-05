@@ -1,6 +1,6 @@
 ---
 id: 8399
-title: '\'Morbid Creation\' by Inquiring Blood - A Comment'
+title: \'Morbid Creation\' by Inquiring Blood - A Comment
 date: '2017-02-08T00:17:11+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Morbid Creation'' album by Inquiring Blood (2016).'

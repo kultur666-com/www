@@ -1,6 +1,6 @@
 ---
 id: 9088
-title: 'How to Promote on Kultur 666'
+title: How to Promote on Kultur 666
 date: '2021-11-02T02:22:27+00:00'
 author: syr3fx
 layout: page

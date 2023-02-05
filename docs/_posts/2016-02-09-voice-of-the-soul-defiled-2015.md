@@ -1,6 +1,6 @@
 ---
 id: 2148
-title: 'Voice of the Soul - Defiled (2015)'
+title: Voice of the Soul - Defiled (2015)
 date: '2016-02-09T17:58:15+00:00'
 author: syr3fx
 excerpt: 'Defiled music video by Voice of the Soul.'

@@ -1,6 +1,6 @@
 ---
 id: 8376
-title: '\'Earth Inferno\' by The Evil Dead - A Comment'
+title: \'Earth Inferno\' by The Evil Dead - A Comment
 date: '2017-02-07T00:10:30+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Earth Inferno'' album by The Evil Dead (2017).'

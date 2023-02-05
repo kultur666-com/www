@@ -1,6 +1,6 @@
 ---
 id: 2209
-title: 'Are Compact Cassettes Still Around? Yes, It Looks Like!'
+title: Are Compact Cassettes Still Around? Yes, It Looks Like!
 date: '2016-02-22T20:21:28+00:00'
 author: syr3fx
 excerpt: 'A look at the last compact cassette factory in USA.'

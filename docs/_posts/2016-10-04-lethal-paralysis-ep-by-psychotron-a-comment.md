@@ -1,6 +1,6 @@
 ---
 id: 5314
-title: 'Lethal Paralysis EP by Psychotron - A Comment'
+title: Lethal Paralysis EP by Psychotron - A Comment
 date: '2016-10-04T00:10:45+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Lethal Paralysis'' EP album by Psychotron (2016).'

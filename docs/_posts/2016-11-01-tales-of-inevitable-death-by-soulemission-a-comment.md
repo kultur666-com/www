@@ -1,6 +1,6 @@
 ---
 id: 6282
-title: '\'Tales of Inevitable Death\' by Soulemission - A Comment'
+title: \'Tales of Inevitable Death\' by Soulemission - A Comment
 date: '2016-11-01T00:20:46+00:00'
 author: syr3fx
 excerpt: 'A comment on the ''Tales of Inevitable Death'' album by Soulemission (2016).'

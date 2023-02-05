@@ -1,6 +1,6 @@
 ---
 id: 5608
-title: '\'Indescribable Physiognomy Of The Devil\' by Coldblood - A Comment'
+title: \'Indescribable Physiognomy Of The Devil\' by Coldblood - A Comment
 date: '2016-10-11T00:20:32+00:00'
 author: syr3fx
 excerpt: 'A Comment on Coldblood''s ''Indescribable Physiognomy Of The Devil'' album (2016).'

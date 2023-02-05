@@ -1,6 +1,6 @@
 ---
 id: 6923
-title: '\'Visions From Beyond\' by Old Chapel - A Comment'
+title: \'Visions From Beyond\' by Old Chapel - A Comment
 date: '2016-11-28T00:10:51+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Visions From Beyond'' album by Old Chapel (2016).'

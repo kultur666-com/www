@@ -1,6 +1,6 @@
 ---
 id: 4766
-title: '\'The GallowForest Eulogy\' by The Projectionist - A Comment'
+title: \'The GallowForest Eulogy\' by The Projectionist - A Comment
 date: '2016-09-08T00:10:42+00:00'
 author: syr3fx
 excerpt: 'A comment on ''The GallowForest Eulogy'' album by The Projectionist (2016)'

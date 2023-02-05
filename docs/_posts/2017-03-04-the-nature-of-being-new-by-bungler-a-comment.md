@@ -1,6 +1,6 @@
 ---
 id: 8954
-title: '\'The Nature of Being New\' by Bungler - A Comment'
+title: \'The Nature of Being New\' by Bungler - A Comment
 date: '2017-03-04T01:01:15+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''The Nature of Being New'' album by Bungler (2017).'

@@ -1,6 +1,6 @@
 ---
 id: 3145
-title: 'Abhorrogenesis by Corprophemia - A Comment'
+title: Abhorrogenesis by Corprophemia - A Comment
 date: '2016-06-24T00:24:48+00:00'
 author: syr3fx
 excerpt: 'A comment on Corprophemia''s Abhorrogenesis album (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 5581
-title: 'Veilburner - Vaterchen (2016)'
+title: Veilburner - Vaterchen (2016)
 date: '2016-10-10T00:10:11+00:00'
 author: syr3fx
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 6888
-title: 'Epitaphs by Obscure Sphinx - A Comment'
+title: Epitaphs by Obscure Sphinx - A Comment
 date: '2016-11-26T00:10:39+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Epitaphs album by Obscure Sphinx (2016).'

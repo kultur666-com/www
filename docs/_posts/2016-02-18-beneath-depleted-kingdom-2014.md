@@ -1,6 +1,6 @@
 ---
 id: 2206
-title: 'Beneath - Depleted Kingdom (2014)'
+title: Beneath - Depleted Kingdom (2014)
 date: '2016-02-18T15:21:42+00:00'
 author: syr3fx
 excerpt: 'Depleted Kingdom song by Beneath.'

@@ -1,6 +1,6 @@
 ---
 id: 8872
-title: '\'Nothing To Lose\' by Battalions - A Comment'
+title: \'Nothing To Lose\' by Battalions - A Comment
 date: '2017-02-27T13:57:15+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Nothing To Lose'' album reissue by Battalions (2016/2017).'

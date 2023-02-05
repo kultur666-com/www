@@ -1,6 +1,6 @@
 ---
 id: 7212
-title: '\'Herzblut\' by Projekt Mensch - A Comment'
+title: \'Herzblut\' by Projekt Mensch - A Comment
 date: '2016-12-09T00:40:48+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Herzblut'' album by Projekt Mensch (2016).'

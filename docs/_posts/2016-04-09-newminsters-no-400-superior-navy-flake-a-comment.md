@@ -1,6 +1,6 @@
 ---
 id: 2316
-title: 'Newminster\'s No.400 Superior Navy Flake - A Comment'
+title: Newminster\'s No.400 Superior Navy Flake - A Comment
 date: '2016-04-09T00:29:43+00:00'
 author: syr3fx
 excerpt: 'A comment on Newminster''s No.400 Superior Navy Flake pipe tobacco.'

@@ -1,6 +1,6 @@
 ---
 id: 6310
-title: 'Exta Malorvm by Nebrus - A Comment'
+title: Exta Malorvm by Nebrus - A Comment
 date: '2016-11-04T00:10:07+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Exta Malorvm album by Nebrus (2016).'

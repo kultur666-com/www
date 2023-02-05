@@ -1,6 +1,6 @@
 ---
 id: 1021
-title: 'The Future Is Here'
+title: The Future Is Here
 date: '2016-01-16T12:23:30+00:00'
 author: syr3fx
 excerpt: 'About the Ehang 184 and our near future.'

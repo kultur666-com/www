@@ -1,6 +1,6 @@
 ---
 id: 242
-title: 'Enough Of Aromatics'
+title: Enough Of Aromatics
 date: '2016-01-05T06:10:34+00:00'
 author: syr3fx
 excerpt: 'A rant about aromatic pipe tobacco and how I prefer natural blends lately.'

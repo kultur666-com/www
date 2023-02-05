@@ -1,6 +1,6 @@
 ---
 id: 7654
-title: '\'The Ones Who Create, The Ones Who Destroy\' by Crator - A Comment'
+title: \'The Ones Who Create, The Ones Who Destroy\' by Crator - A Comment
 date: '2017-01-14T16:09:00+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''The Ones Who Create, The Ones Who Destroy'' album by Crator (2016).'

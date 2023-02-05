@@ -1,6 +1,6 @@
 ---
 id: 1297
-title: 'The Art Of Blender'
+title: The Art Of Blender
 date: '2016-01-15T00:17:02+00:00'
 author: syr3fx
 excerpt: 'An excerpt on Blender, the Open Source 3D/CGI software.'

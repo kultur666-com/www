@@ -1,6 +1,6 @@
 ---
 id: 4382
-title: '\'Backwoods Bloodshed\' by Fetal Autopsy - A Comment'
+title: \'Backwoods Bloodshed\' by Fetal Autopsy - A Comment
 date: '2016-08-20T00:10:58+00:00'
 author: syr3fx
 excerpt: 'A comment on ''Backwoods Bloodshed'' album by Fetal Autopsy (2016)'

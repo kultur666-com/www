@@ -1,6 +1,6 @@
 ---
 id: 7774
-title: '\'Shores of Oblivion\' by Killing Addiction - A Comment'
+title: \'Shores of Oblivion\' by Killing Addiction - A Comment
 date: '2017-01-18T00:10:01+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Shores of Oblivion'' EP by Killing Addiction (2016).'

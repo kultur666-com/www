@@ -1,6 +1,6 @@
 ---
 id: 8223
-title: '&#8220;Death\'s Withered Chants&#8221;  by Nazghor - A Comment'
+title: &#8220;Death\'s Withered Chants&#8221;  by Nazghor - A Comment
 date: '2017-01-31T00:10:41+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Death''s Withered Chants'' album by Nazghor (2016).'

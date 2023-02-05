@@ -1,6 +1,6 @@
 ---
 id: 2949
-title: 'An Abstract Illusion - Chameleon Of The Clouds (2014)'
+title: An Abstract Illusion - Chameleon Of The Clouds (2014)
 date: '2016-05-18T19:48:58+00:00'
 author: syr3fx
 excerpt: '"Chameleon of the clouds" song by An Abstract Illusion from Atonement Is Nigh album (2014).'

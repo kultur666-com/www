@@ -1,6 +1,6 @@
 ---
 id: 1240
-title: 'Mac Baren\'s HH Old Dark Fired Ready Rubbed - A Comment'
+title: Mac Baren\'s HH Old Dark Fired Ready Rubbed - A Comment
 date: '2016-01-15T00:08:53+00:00'
 author: syr3fx
 excerpt: 'A comment of Mac Baren''s HH Old Dark Fired Ready Rubbed pipe tobacco blend.'

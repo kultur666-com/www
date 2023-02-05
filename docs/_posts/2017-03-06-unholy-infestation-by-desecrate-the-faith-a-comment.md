@@ -1,6 +1,6 @@
 ---
 id: 8985
-title: '\'Unholy Infestation\' by Desecrate the Faith - A Comment'
+title: \'Unholy Infestation\' by Desecrate the Faith - A Comment
 date: '2017-03-06T01:36:53+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Unholy Infestation'' album by Desecrate the Faith (2017).'

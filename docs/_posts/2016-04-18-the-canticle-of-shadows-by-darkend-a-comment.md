@@ -1,6 +1,6 @@
 ---
 id: 2680
-title: 'The Canticle Of Shadows By Darkend - A Comment'
+title: The Canticle Of Shadows By Darkend - A Comment
 date: '2016-04-18T03:03:43+00:00'
 author: syr3fx
 excerpt: 'A comment on Darkend''s The Canticle Of Shadows black metal album.'

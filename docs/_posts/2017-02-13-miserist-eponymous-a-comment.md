@@ -1,6 +1,6 @@
 ---
 id: 8449
-title: 'Miserist (Eponymous) - A Comment'
+title: Miserist (Eponymous) - A Comment
 date: '2017-02-13T00:10:10+00:00'
 author: syr3fx
 excerpt: 'A Comment on the eponymous album by Miserist   (2017).'

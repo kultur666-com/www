@@ -1,6 +1,6 @@
 ---
 id: 5945
-title: 'Kultur 666 Podcast: Episode 12'
+title: Kultur 666 Podcast: Episode 12
 date: '2016-10-19T00:30:29+00:00'
 author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 12 - Playing some EDxKEMPER, Grotesque Ceremonium, Zornheym, Gloomy Grim, Acheronte, Endlos &amp; IceThurS. All permissions asked.'

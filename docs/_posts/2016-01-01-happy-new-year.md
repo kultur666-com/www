@@ -1,6 +1,6 @@
 ---
 id: 18
-title: 'Happy New Year'
+title: Happy New Year
 date: '2016-01-01T12:00:00+00:00'
 author: syr3fx
 layout: post

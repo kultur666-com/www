@@ -1,6 +1,6 @@
 ---
 id: 265
-title: 'About Linux Mint'
+title: About Linux Mint
 date: '2016-01-06T06:41:29+00:00'
 author: syr3fx
 excerpt: 'An opinion on the Linux Mint distro.'

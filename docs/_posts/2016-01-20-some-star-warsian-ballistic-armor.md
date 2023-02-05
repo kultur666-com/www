@@ -1,6 +1,6 @@
 ---
 id: 1763
-title: 'Some Star-Warsian Ballistic Armor'
+title: Some Star-Warsian Ballistic Armor
 date: '2016-01-20T00:09:14+00:00'
 author: syr3fx
 excerpt: 'An article on star-warsian body armor. '

@@ -1,6 +1,6 @@
 ---
 id: 8253
-title: 'Sacrosanct by Epoch - A Comment'
+title: Sacrosanct by Epoch - A Comment
 date: '2017-01-31T01:01:16+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Sacrosanct album by Epoch (2017). '

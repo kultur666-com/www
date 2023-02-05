@@ -1,6 +1,6 @@
 ---
 id: 2080
-title: 'Dunhill\'s My Mixture 965 - A Comment'
+title: Dunhill\'s My Mixture 965 - A Comment
 date: '2016-02-09T15:27:58+00:00'
 author: syr3fx
 excerpt: 'A comment on Dunhill''s My Mixture 965 pipe tobacco.'

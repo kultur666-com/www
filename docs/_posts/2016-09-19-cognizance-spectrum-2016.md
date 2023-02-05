@@ -1,6 +1,6 @@
 ---
 id: 4965
-title: 'Cognizance - Spectrum (2016)'
+title: Cognizance - Spectrum (2016)
 date: '2016-09-19T00:39:55+00:00'
 author: syr3fx
 excerpt: 'Song Spectrum by Cognizance (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 6171
-title: 'Kultur 666 Podcast: Episode 13'
+title: Kultur 666 Podcast: Episode 13
 date: '2016-10-26T00:30:12+00:00'
 author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 13 - Playing some Skewered, Bestialized, The Unhuman Thorn, Netherbird, Endemise, Taiga &amp; While They Sleep. All permissions asked.'

@@ -1,6 +1,6 @@
 ---
 id: 5516
-title: 'Illusory by Cognizance - A Comment'
+title: Illusory by Cognizance - A Comment
 date: '2016-10-08T00:10:06+00:00'
 author: syr3fx
 excerpt: 'A comment on the Illusory EP by Cognizance (2016)'

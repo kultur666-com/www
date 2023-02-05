@@ -1,6 +1,6 @@
 ---
 id: 697
-title: 'To Be In Love With Samus'
+title: To Be In Love With Samus
 date: '2016-01-08T10:25:05+00:00'
 author: syr3fx
 excerpt: 'Some words on Rainfall''s Metroid: The Sky Calls teaser/promo.'

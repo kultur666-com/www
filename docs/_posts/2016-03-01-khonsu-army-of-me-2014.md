@@ -1,6 +1,6 @@
 ---
 id: 2279
-title: 'Khonsu - Army Of Me (2014)'
+title: Khonsu - Army Of Me (2014)
 date: '2016-03-01T09:19:41+00:00'
 author: syr3fx
 excerpt: 'Song Army Of Me by Khonsu.'

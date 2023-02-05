@@ -1,6 +1,6 @@
 ---
 id: 3338
-title: 'Ballroom Podcast 003 with Kaiser Souzai (Recorded Live at Nation Of Gondwana)'
+title: Ballroom Podcast 003 with Kaiser Souzai (Recorded Live at Nation Of Gondwana)
 date: '2016-07-01T23:38:57+00:00'
 author: syr3fx
 excerpt: 'Good techno from SoundCloud.'

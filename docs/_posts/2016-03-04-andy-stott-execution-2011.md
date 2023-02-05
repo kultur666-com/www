@@ -1,6 +1,6 @@
 ---
 id: 2283
-title: 'Andy Stott - Execution (2011)'
+title: Andy Stott - Execution (2011)
 date: '2016-03-04T09:57:51+00:00'
 author: syr3fx
 excerpt: 'Execution mix by Andy Stott.'

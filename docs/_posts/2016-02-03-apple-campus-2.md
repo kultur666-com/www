@@ -1,6 +1,6 @@
 ---
 id: 1969
-title: 'Apple Campus 2'
+title: Apple Campus 2
 date: '2016-02-03T22:27:18+00:00'
 author: syr3fx
 excerpt: 'A look at Apple Campus 2.'

@@ -1,6 +1,6 @@
 ---
 id: 5551
-title: '\'Mankind Is Damned\' by Saboter - A Comment'
+title: \'Mankind Is Damned\' by Saboter - A Comment
 date: '2016-10-08T00:30:16+00:00'
 author: syr3fx
 layout: post

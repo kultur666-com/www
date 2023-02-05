@@ -1,6 +1,6 @@
 ---
 id: 1860
-title: 'Amazing Drawing Of David Bowie'
+title: Amazing Drawing Of David Bowie
 date: '2016-01-28T00:34:34+00:00'
 author: syr3fx
 excerpt: 'An amazing drawing of David Bowie.'

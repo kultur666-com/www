@@ -1,6 +1,6 @@
 ---
 id: 2075
-title: 'Trepalium - Fire On Skin (2014)'
+title: Trepalium - Fire On Skin (2014)
 date: '2016-02-08T22:11:02+00:00'
 author: syr3fx
 excerpt: 'Fire On Skin music by Trepalium.'

@@ -1,6 +1,6 @@
 ---
 id: 6686
-title: '\'Apocalyptic Human Extinction\' by Devast - A Comment'
+title: \'Apocalyptic Human Extinction\' by Devast - A Comment
 date: '2016-11-19T12:19:05+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Apocalyptic Human Extinction'' album by Devast (2016).'

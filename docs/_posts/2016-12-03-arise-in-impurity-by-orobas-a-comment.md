@@ -1,6 +1,6 @@
 ---
 id: 7025
-title: '\'Arise In Impurity\' by Orobas - A Comment'
+title: \'Arise In Impurity\' by Orobas - A Comment
 date: '2016-12-03T00:10:40+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Arise In Impurity'' EP by Orobas (2016).'

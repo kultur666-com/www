@@ -1,6 +1,6 @@
 ---
 id: 1263
-title: 'David Bowie\'s Art'
+title: David Bowie\'s Art
 date: '2016-01-14T21:15:13+00:00'
 author: syr3fx
 excerpt: 'Remembering David Bowie.'

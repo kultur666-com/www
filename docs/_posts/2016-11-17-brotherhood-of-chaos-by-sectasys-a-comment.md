@@ -1,6 +1,6 @@
 ---
 id: 6613
-title: '\'Brotherhood Of Chaos\' by Sectasys - A Comment'
+title: \'Brotherhood Of Chaos\' by Sectasys - A Comment
 date: '2016-11-17T00:10:30+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Brotherhood Of Chaos'' album by Sectasys (2016).'

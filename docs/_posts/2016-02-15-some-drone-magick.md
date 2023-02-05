@@ -1,6 +1,6 @@
 ---
 id: 2202
-title: 'Some Drone Magick'
+title: Some Drone Magick
 date: '2016-02-15T10:10:57+00:00'
 author: syr3fx
 excerpt: 'Doing magick with 24 drones.'

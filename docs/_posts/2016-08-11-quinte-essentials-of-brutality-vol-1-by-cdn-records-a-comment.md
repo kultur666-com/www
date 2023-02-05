@@ -1,6 +1,6 @@
 ---
 id: 4115
-title: '\'Quinte Essentials Of Brutality Vol. 1\' by CDN Records - A Comment'
+title: \'Quinte Essentials Of Brutality Vol. 1\' by CDN Records - A Comment
 date: '2016-08-11T00:10:24+00:00'
 author: syr3fx
 excerpt: 'A comment on ''Quinte Essentials Of Brutality Vol. 1'' by CDN Records (2016).'

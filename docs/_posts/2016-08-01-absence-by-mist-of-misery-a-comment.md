@@ -1,6 +1,6 @@
 ---
 id: 3541
-title: 'Absence by Mist Of Misery - A Comment'
+title: Absence by Mist Of Misery - A Comment
 date: '2016-08-01T00:10:16+00:00'
 author: syr3fx
 excerpt: 'A comment on the Absence album by Mist of Misery (2016).'

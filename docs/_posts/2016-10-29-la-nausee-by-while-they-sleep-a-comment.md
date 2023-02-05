@@ -1,6 +1,6 @@
 ---
 id: 6118
-title: 'La Nausée by While They Sleep - A Comment'
+title: La Nausée by While They Sleep - A Comment
 date: '2016-10-29T00:10:22+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''La Nausée'' album by While They Sleep (2016).'

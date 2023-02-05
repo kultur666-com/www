@@ -1,6 +1,6 @@
 ---
 id: 4963
-title: 'Phazm - Scornful Of Icons (2016)'
+title: Phazm - Scornful Of Icons (2016)
 date: '2016-09-16T00:10:04+00:00'
 author: syr3fx
 layout: post

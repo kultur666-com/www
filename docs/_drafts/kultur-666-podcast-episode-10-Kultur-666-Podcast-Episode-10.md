@@ -1,6 +1,6 @@
 ---
 id: 5384
-title: 'Kultur 666 Podcast: Episode 10'
+title: Kultur 666 Podcast: Episode 10
 date: '2016-10-05T00:30:11+00:00'
 author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 10 - Playing some Cognizance, Ruptured Birth, Ubiquitous Realities, Helleborus &amp; Spirit Of The Forest.'

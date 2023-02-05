@@ -1,6 +1,6 @@
 ---
 id: 2235
-title: 'Our New Robot Overlords'
+title: Our New Robot Overlords
 date: '2016-02-24T17:09:02+00:00'
 author: syr3fx
 excerpt: 'Some words about Atlas the robot from Boston Dynamics.'

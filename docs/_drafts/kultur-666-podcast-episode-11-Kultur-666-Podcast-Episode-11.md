@@ -1,6 +1,6 @@
 ---
 id: 5771
-title: 'Kultur 666 Podcast: Episode 11'
+title: Kultur 666 Podcast: Episode 11
 date: '2016-10-12T00:30:28+00:00'
 author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 11 - Playing some Obsidian, Coldblood, Rapheumets Well, Colemesis, Life''s December &amp; Illyrian.'

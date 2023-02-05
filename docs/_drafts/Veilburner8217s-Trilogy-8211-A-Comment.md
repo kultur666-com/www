@@ -1,6 +1,6 @@
 ---
 id: 5742
-title: 'Veilburner\'s Trilogy - A Comment'
+title: Veilburner\'s Trilogy - A Comment
 date: '2016-10-27T23:44:19+00:00'
 author: syr3fx
 layout: post
