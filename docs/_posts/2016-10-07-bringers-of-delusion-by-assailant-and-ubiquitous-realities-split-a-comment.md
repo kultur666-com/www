@@ -28,7 +28,7 @@ For the first half, **Assailant** brings amazing solos and fast rhythmic riffs t
 
 From two of the most promising metal acts from Costa Rica, expect a really powerful album full of talent and marvellous destruction. Listen for yourself with the following Bandcamp streaming widget and buy.
 
-\[bandcamp width=100% height=406 album=3806141108 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=3806141108/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **LIKE Assailant**: <http://www.facebook.com/assailantcr>
 **LIKE Ubiquitous Realities**: <http://www.facebook.com/ubiquitousrealities>

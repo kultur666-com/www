@@ -34,7 +34,7 @@ The only con of this album is its shortness as the songs are well played, with c
 
 You can listen to **Phidion**‘s release through Bandcamp as I invite you to listen to the following streaming widget. Buy their album either CD or digital album.
 
-\[bandcamp width=100% height=241 album=2552628880 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=2552628880/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://phidion.bandcamp.com/>
 LIKE: <http://www.facebook.com/Phidion>

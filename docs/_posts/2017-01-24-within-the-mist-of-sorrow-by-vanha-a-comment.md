@@ -31,7 +31,7 @@ A doom/death metal act from Sweden, the duo of Jan Johannson (vocals, keyboards 
 
 The album is well produced and the musicianship is all percepted from the beginning of the album, ’till the end. A must have album if your into death and like slow tempo beats. Available on Bandcamp.
 
-\[bandcamp width=100% height=373 album=4179831073 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=4179831073/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/officialvanha/>
 BUY: <https://vanhablacklion.bandcamp.com/>

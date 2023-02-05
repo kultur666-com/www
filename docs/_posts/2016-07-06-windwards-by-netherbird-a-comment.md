@@ -31,7 +31,7 @@ Sure to please the most black metal fan, both songs on this single are melodic a
 
 I invite you to listen to the following sample from bandcamp and to buy the single which is being sold for as cheap as 2$ USD. Be generous and give more!
 
-\[bandcamp width=100% height=120 album=653293527 size=large bgcol=333333 linkcol=0f91ff tracklist=false artwork=small\]
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=653293527/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER:** [https://netherbird.bandcamp.com/album/windwards-single](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=4664acc169&e=9efdf70388)
 **WEB:** [http://www.netherbird.com/](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=9d9e28aafa&e=9efdf70388)

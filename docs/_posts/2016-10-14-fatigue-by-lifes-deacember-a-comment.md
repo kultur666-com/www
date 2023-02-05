@@ -31,4 +31,4 @@ A Swiss born band, ‘***Fatigue***‘ features a Deathcore style along a djenty
 
 Although ‘***Fatigue***‘ is not yet on Bandcamp, you can stream their previous album ‘Colder’ and have an idea of their music.
 
-\[bandcamp width=100% height=439 album=4063356967 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=4063356967/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

@@ -28,4 +28,4 @@ Another one from **Sunn O)))**, recorded in 2019 in UK for the BBC 6 radio show,
 
 This album is already available on [Bandcamp](https://sunn.bandcamp.com/album/metta-benevolence-bbc-6music-live-on-the-invitation-of-mary-anne-hobbs) and merchandise is to be released in 2022.
 
-\[bandcamp width=100% height=241 album=1059145617 size=large bgcol=333333 linkcol=e99708 artwork=none\]
+<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=1059145617/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

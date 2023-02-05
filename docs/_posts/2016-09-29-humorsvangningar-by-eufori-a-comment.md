@@ -31,7 +31,7 @@ A Depressive Suicidal Black Metal in style, we also find jolly melodies along lu
 
 You can explore the following Bandcamp widget and have an idea of your own.
 
-\[bandcamp width=100% height=406 album=164824890 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=164824890/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **LIKE**: <https://www.facebook.com/EuforiSWE/>
 **WATCH**: <https://www.youtube.com/channel/UCOO6opsMjPLiu7EUx0QZuoQ>

@@ -31,6 +31,6 @@ A really cool album in the movement of the new wave of thrash metal, a must for 
 
 ‘***Stop Believing Lies***‘ by **Mosh-Pit Justice** is available on Bandcamp.
 
-\[bandcamp width=100% height=406 album=4101576477 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=4101576477/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 LIKE: <https://www.facebook.com/moshpitjustice/>
 BUY: <https://mosh-pitjustice.bandcamp.com/>

@@ -31,6 +31,6 @@ In 2013 they released an EP, ‘Bendita Malevolencia’, which helped them get m
 
 A great album to have in your playlist, ‘***Throne Of Insanity***‘ is available on Bandcamp.
 
-\[bandcamp width=100% height=439 album=4193890233 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=4193890233/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: [https://www.facebook.com/EvilRebornDM  ](https://www.facebook.com/EvilRebornDM)WATCH: <http://www.youtube.com/user/evilrebornofficial>

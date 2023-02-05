@@ -31,4 +31,4 @@ A symphonic black metal act, **Misanthropia** has achieved to give us a really n
 
 With the help of *Mike Wead* (lead-guitarist of, among others, King Diamond, Mercyful Fate, Bibleblack, Nattas) **Misanthropia** is sure to make their fame a bit shinier where fans of symphonic black metal will most likely enjoy **Omerta**. Available on Bandcamp.
 
-\[bandcamp width=100% height=439 album=601738948 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=601738948/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

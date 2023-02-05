@@ -32,7 +32,7 @@ A sludge act from Great Britain,’***Nothing to Lose***‘ by **Battalions** is
 
 So while waiting for their next release, relax and have a pounding rock’n’roll in your face with ‘***Nothing to Lose***‘ by **Battalions**. Available on Bandcamp.
 
-\[bandcamp width=100% height=406 album=2574994693 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=2574994693/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/BattalionsSludge>
 BUY: <https://battalionsdirt.bandcamp.com/>

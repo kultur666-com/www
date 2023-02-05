@@ -33,7 +33,7 @@ An LP will be available through Diabolic Might Records at the same time as the B
 
 Listen to the Bandcamp streaming widget below and add it to your playlist if the style rimes with your guts.
 
-\[bandcamp width=100% height=439 album=868138847 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=868138847/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER:** [https://bewitcher.bandcamp.com/](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=e0ff719cc7&e=9efdf70388)
 **LIKE:** [http://facebook.com/bewitcherofficial](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=f39af750f6&e=9efdf70388)

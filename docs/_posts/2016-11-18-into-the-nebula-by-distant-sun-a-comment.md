@@ -30,7 +30,7 @@ With a voice like Dave Mustaine, *Alexey Markov* of **Distant Sun** plunges us, 
 
 I kind of enjoy the album as Mustaine is one of my idols. So what else from **Distant Sun**? Well the songs are cool and catchy and if your into old school thrash and a fan of Megadeth, you’ll find joy listening to ‘***Into The Nebula***‘ album by **Distant Sun**. Available on Bandcamp.
 
-\[bandcamp width=100% height=439 album=3329102785 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=3329102785/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **BUY**: <https://metalism.bandcamp.com/album/into-the-nebula>
 **LIKE**: <https://www.facebook.com/distantsunband/>

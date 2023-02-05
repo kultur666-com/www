@@ -23,4 +23,4 @@ tags:
 
 Released last November 26th, 2021: ***La noyade de la sorcière*** by **RvbberVvitch**; a Canadian rhythmic-melodic black matelasque piece that intrigues the most respected aficionados of the genre and lets the imagination-creeps sink in… Enjoy!
 
-\[bandcamp width=100% height=472 album=4163316170 size=large bgcol=333333 linkcol=e99708 artwork=none\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=4163316170/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

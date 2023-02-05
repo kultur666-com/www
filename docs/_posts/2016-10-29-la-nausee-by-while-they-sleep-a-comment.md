@@ -29,7 +29,7 @@ A depressive black metal one-man project of Kvolkaldur aka Ildverden from Crimea
 
 For fans of old school blackened doom metal, you can find ‘***La Nausée***‘ by **While They Sleep** on Bandcamp.
 
-\[bandcamp width=100% height=208 album=918795162 size=large bgcol=333333 linkcol=0f91ff artwork=small track=587318812\]
+<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=918795162/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://symbolofdomination.bandcamp.com/album/sodp054-while-they-sleep-la-nausee-2016>
 LABEL: <http://www.facebook.com/symbolofdominationprod> AND <http://www.morehate.com/>

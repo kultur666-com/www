@@ -31,7 +31,7 @@ A death metal act from Ecuador, ***Leprocomio*** by **Epidemia** is a heavy shre
 
 The album has good songs and it is well produced. Available on Bandcamp.
 
-\[bandcamp width=100% height=406 album=3497512328 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=3497512328/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/EPIDEMIAEC/>
 LABEL: <http://www.musicahibrida.com/> and <http://satanath.com/>

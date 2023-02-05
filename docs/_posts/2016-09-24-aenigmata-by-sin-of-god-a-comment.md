@@ -34,7 +34,7 @@ Wondering if they’ll visit North America? Me too, although they can be seen on
 
 You can find **Sin of God** on Bandcamp for streaming and get their album in digital format or physical CD.
 
-\[bandcamp width=100% height=439 album=3315343992 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=3315343992/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/Q7ZUj2zkxkU?feature=oembed" title="Sin Of God - Loss Leads Into Impiety" width="500"></iframe>
 

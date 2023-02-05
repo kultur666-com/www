@@ -30,7 +30,7 @@ Two roaded sludge/stoner/heavy rock bands, releasing a common intro cassette for
 
 A nice intro into their music, discover both bands and surf their pages on Bandcamp as their albums are available for streaming.
 
-\[bandcamp width=100% height=208 album=496650033 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=496650033/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY Twingiant: <https://twingiant.bandcamp.com/>
 BUY Into The Storm: <https://intothestorm.bandcamp.com/>

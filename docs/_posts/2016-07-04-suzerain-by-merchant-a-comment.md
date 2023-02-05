@@ -32,7 +32,7 @@ Although not my fist choice of metal sound, they do deliver bluesy stuff to thos
 
 The drums are delivered by Nicholas James, bass and guitar by Wilson Hede and Benjamin Kerr respectively and as mentioned above, vocals by Thomas Mirgiannis.
 
-\[bandcamp width=100% height=120 album=196228620 size=large bgcol=333333 linkcol=0f91ff tracklist=false artwork=small\]
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=196228620/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 The album has been out june 25th 2016, be sure to obtain it through some of these links.
 

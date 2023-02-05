@@ -33,7 +33,7 @@ Featuring a great dark musical composition, **Plutonium** plunges us into an flo
 
 Listen to the following Bandcamp stream and buy the album, a must for most Black Metal fans. Don’t forget to listen to ***Remuntiationem*** a great piece of artistic play by the only, **Plutonium**.
 
-\[bandcamp width=100% height=439 album=1665326162 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1665326162/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **LIKE**: https://www.facebook.com/thetrueplutonium/
 **BUY**: https://thetrueplutonium.bandcamp.com/

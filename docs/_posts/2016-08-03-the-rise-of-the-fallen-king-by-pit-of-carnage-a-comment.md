@@ -30,7 +30,7 @@ Although the members of Pit Of Carnage are only a duo, the Danish band doesn’t
 
 Judge it by yourselves with the following streaming. As usual don’t be shy to encourage them and buy the***‘The Rise Of The Fallen King’*** album by **Pit Of Carnage**; available <span style="text-decoration:underline;">today</span> on Bandcamp and through [**CDN Records** Webstore](http://www.cdnrecords.com/product/pit-of-carnage-the-rise-of-the-fallen-king/).
 
-\[bandcamp width=100% height=472 album=688098211 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=688098211/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER:** [http://www.cdnrecords.com/product/pit-of-carnage-the-rise-of-the-fallen-king/](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=44dd7c9093&e=9efdf70388) AND <https://pitofcarnage.bandcamp.com/>
 **LIKE:** [https://www.facebook.com/pitofcarnage](http://fullblastpr.us8.list-manage2.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=6ec1e0fe9f&e=9efdf70388)

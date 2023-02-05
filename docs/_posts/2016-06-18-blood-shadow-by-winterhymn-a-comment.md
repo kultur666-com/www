@@ -36,7 +36,7 @@ Sure to please metal fans with folk metal tunes, the majority of the album is me
 
 Talented young folks with lots of potential for the future to come. Metal on!
 
-\[bandcamp width=100% height=472 album=805297409 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=805297409/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER:** [http://eng.soundage.org/shop/goods.php?id=5799](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=c745af3207&e=9efdf70388)
 **LIKE:** [http://www.facebook.com/Winterhymn](http://fullblastpr.us8.list-manage2.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=648f2ec196&e=9efdf70388)

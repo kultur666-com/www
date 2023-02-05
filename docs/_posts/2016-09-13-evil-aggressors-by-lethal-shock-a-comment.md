@@ -31,7 +31,7 @@ They’re a trio from Chicago and ‘***Evil Aggressor***‘ is their first full
 
 You can find **Lethal Shock**‘s ‘***Evil Aggressor***‘ on Bandcamp and through inquiry at the **Witches Brew** Website.
 
-\[bandcamp width=100% height=439 album=882329853 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=882329853/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **LABEL**: <http://www.witchesbrewthrashes.eu/>
 **BUY**: <https://lethalshock.bandcamp.com/album/evil-aggressor>

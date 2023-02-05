@@ -30,7 +30,7 @@ A depressive/atmospheric black metal band from Russia, the band was founded in t
 
 If your a fan of DSBM then ***Sky*** by **Taiga** is for you and you can get the album via the **Symbol Of Domination Production** page on Bandcamp.
 
-\[bandcamp width=100% height=406 album=1079641720 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=1079641720/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/TaigaOfficialPage>
 LABEL: <http://www.facebook.com/symbolofdominationprod>

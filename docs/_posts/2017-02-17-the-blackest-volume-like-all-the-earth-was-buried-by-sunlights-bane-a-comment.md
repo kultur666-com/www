@@ -31,7 +31,7 @@ A really inspiring album where we hear aggressive melodies highly distorted be g
 
 Highly recommended, ‘***The Blackest Volume: Like All The Earth Was Buried***‘ by **Sunlight’s Bane** is available on Bandcamp.
 
-\[bandcamp width=100% height=208 album=2011738608 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=2011738608/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/sunlightsbane/>
 LABEL: <http://www.innerstrengthmusic.com/>

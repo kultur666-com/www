@@ -30,7 +30,7 @@ A well produced black metal album,’***Inexorable Grimness***‘ by **Gravespaw
 
 Although a shorty, the album is available on CD today and available for streaming on Bandcamp along previous releases.
 
-\[bandcamp width=100% height=307 album=1219056164 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=1219056164/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://gravespawn.bandcamp.com/album/inexorable-grimness>
 LIKE: <https://www.facebook.com/GravespawnOfficial/>

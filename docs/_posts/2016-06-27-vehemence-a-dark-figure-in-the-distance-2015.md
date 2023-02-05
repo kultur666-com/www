@@ -21,4 +21,4 @@ tags:
     - youtube
 ---
 
-\[bandcamp width=100% height=120 album=2238716143 size=large bgcol=333333 linkcol=0f91ff tracklist=false artwork=small track=4291335767\]
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2238716143/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

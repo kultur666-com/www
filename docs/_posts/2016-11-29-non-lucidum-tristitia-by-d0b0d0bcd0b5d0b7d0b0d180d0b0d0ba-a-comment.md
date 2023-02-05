@@ -30,4 +30,4 @@ A one-man black metal project of Lord Dead, the album follows a series of releas
 
 Inspired by fall and depression, the album is sure to please the purest black metal fan. Lyrics are in Russian. Available on Bandcamp.
 
-\[bandcamp width=100% height=406 album=415771088 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=415771088/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

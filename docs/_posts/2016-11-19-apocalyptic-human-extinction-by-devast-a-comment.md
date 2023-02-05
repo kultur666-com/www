@@ -29,7 +29,7 @@ An Argentinian based death metal band, **Devast** shreds through ‘***Apocalypt
 
 Heavy death in all its sense, **Devast**‘s ‘***Apocalyptic Human Extinction***‘ can be an album that has catchy riffs if your ears are trained for this style. Really brutal stuff. Available on Bandcamp.
 
-\[bandcamp width=100% height=472 album=709490858 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=709490858/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER**: <http://www.gorehouseproductions.com/devast>
 **LIKE**: <https://www.facebook.com/devastbdm>

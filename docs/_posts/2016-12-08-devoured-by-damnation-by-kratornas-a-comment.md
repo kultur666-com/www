@@ -31,7 +31,7 @@ Now, **Kratornas** can exploit all their talents to share with us their aggressi
 
 A good album to have in your playlist, ‘***Devoured By Damnation***‘ by **Kratornas** can be found on Bandcamp.
 
-\[bandcamp width=100% height=472 album=3690319955 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3690319955/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/officialkratornas>
 VISIT: <http://www.kratornas.com/>

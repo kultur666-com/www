@@ -28,7 +28,7 @@ A well produced album with melodic airs and catchy tunes, **Netherbird**‘s ‘
 
 A Sweden band, they are now poised to tour with this album and we’ll watch for when they’ll be around to see them. ‘***The Grander Voyage***‘ by **Netherbird** is available on Bandcamp.
 
-\[bandcamp width=100% height=373 album=449056432 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=449056432/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 ORDER: <http://netherbird.bandcamp.com/album/the-grander-voyage>
 LIKE: <http://facebook.com/netherbird>

@@ -32,7 +32,7 @@ Formed in 2013, ***Kepler*** is their second full-length album and I’m sure th
 
 For those looking new sounding black metal and original melodies, the album, ***Kepler*** by **Aksaya**, is available on Bandcamp.
 
-\[bandcamp width=100% height=406 album=2196184346 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=2196184346/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/aksayaofficial/>
 WATCH: [https://www.youtube.com/channel/UCQMuNef\_vVrzowdNPZBJfgw](https://www.youtube.com/channel/UCQMuNef_vVrzowdNPZBJfgw)

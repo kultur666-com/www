@@ -31,7 +31,7 @@ Being from UK and having had success with their previous releases you might cros
 
 Listen to the streaming sample below and buy their album to have them on your playlist.
 
-\[bandcamp width=100% height=406 album=1599425759 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=1599425759/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER**: <http://www.cdnrecords.com/product/rotting-repugnancy-harbingers-of-the-last-judgement/> AND <https://rottingrepugnancy.bandcamp.com/releases>
 **LIKE**: <http://www.facebook.com/rottingrepugnancy>

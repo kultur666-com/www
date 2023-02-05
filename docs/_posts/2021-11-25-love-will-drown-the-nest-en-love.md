@@ -23,4 +23,4 @@ A cool unnewbie, but their latest **Love Will Drown The Nest** by **En Love** re
 
 [This daily Bandcamp article will light some Oiho Hardcore](https://daily.bandcamp.com/lists/ohio-hardcore-list) fanship to some more of this type. Enjoy!
 
-\[bandcamp width=100% height=340 album=3427129393 size=large bgcol=333333 linkcol=e99708 artwork=none\]
+<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3427129393/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

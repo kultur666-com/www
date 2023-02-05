@@ -26,7 +26,7 @@ A 10-tracks EP in under 8 minutes, the songs are hot and grindy. Like a hot pota
 
 Another cool fact is that the album has been mastered by Dan Swano. The ‘***Cut Her Head And Love Her***‘ EP is well produced and literally too short. Another sweet gem to have in your playlist. And guess what, the album is free on Bandcamp but nothing is preventing you to buy a physical copy to encourage the band.
 
-\[bandcamp width=100% height=472 album=626031561 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=626031561/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **LIKE**: <https://www.facebook.com/edxkemper>
 **BUY**: <https://edxkemper.bandcamp.com/>

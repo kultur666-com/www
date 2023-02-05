@@ -32,6 +32,6 @@ You can purchase the album through the **Appalachian Noise Records** Website and
 
 Have a listen to the Bandcamp widget below.
 
-\[bandcamp width=100% height=307 album=2343839506 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=2343839506/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER**: https://thetrueprojectionist.bandcamp.com/releases **AND** http://www.appalachiannoiserecords.com/shop/the-projectionist-the-gallowforest-eulogy-cd/

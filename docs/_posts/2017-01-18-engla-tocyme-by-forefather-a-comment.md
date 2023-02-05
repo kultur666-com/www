@@ -33,6 +33,6 @@ Not a death metal album, although some songs have stronger vocals, **Forefather*
 
 ‘***Engla Tocyme***‘ being **Forefather**‘s third release, they have a total of seven releases, the latest being ‘***Curse of the Cwelled***‘, available on Bandcamp, along with ‘***Engla Tocyme***‘ and their other releases. A must to have on your playlist if you like melodic metal and don’t mind some clean vocals.
 
-\[bandcamp width=100% height=373 album=3757931571 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=3757931571/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://forefather.bandcamp.com/>

@@ -29,7 +29,7 @@ A thrash metal album from Argentina, **Granada**‘s 4th release and 3rd full-le
 
 An interesting album in Spanish for the new wave of thrash metal on your playlist.
 
-\[bandcamp width=100% height=472 album=3746952958 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3746952958/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://granadametal.bandcamp.com/>
 VISIT: <http://www.granadametal.com/>

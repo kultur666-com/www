@@ -31,7 +31,7 @@ With ‘*Left To Rot*‘, ‘*Dennis The Menace*‘, ‘*Mummified Putrefaction*
 
 Even though you will find **Fetal Autopsy** on Soundcloud, you will find most of his albums on Bandcamp as the following streaming of ‘***Backwoods Bloodshed***‘ that I invite you to listen and buy.
 
-\[bandcamp width=100% height=439 album=1091576329 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1091576329/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER:** [https://meathookrecords.bandcamp.com/album/fetal-autopsy-backwoods-bloodshed](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=bc8e0bb822&e=9efdf70388)
 **LIKE:** [http://www.facebook.com/fetalautopsy](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=c3c13bb000&e=9efdf70388)

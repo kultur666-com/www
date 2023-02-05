@@ -28,7 +28,7 @@ Right in my style of favourite metal **GCC** delivers good beats and deep guttur
 
 Did I also say that they were from Taiwan? Well now you know. Coming out today July 8th 2016, don’t wait to buy their album which you can listen in the following bandcamp stream.
 
-\[bandcamp width=100% height=472 album=1629493915 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1629493915/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 You can also order their album on these sites:
 

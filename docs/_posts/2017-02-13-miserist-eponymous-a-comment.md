@@ -32,7 +32,7 @@ An instrumental experimental black/death metal act from Australia, **Miserist** 
 
 A recommended album to fans of extreme metal, especially experimental instrumental death metal curious. Available on Bandcamp.
 
-\[bandcamp width=100% height=340 album=2692547090 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2692547090/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://miserist.bandcamp.com/album/miserist>
 LIKE: <https://www.facebook.com/miserist/>

@@ -33,7 +33,7 @@ Featuring six new songs plus four songs of the previous split launch, the album 
 
 A refreshing album is **Urobilinemia**‘s ‘***Wriggling Chrysalis Of Metaphysical Grudge***‘. A band to be followed in the next couple of months and years if the singer endures the harsh treatment he inflicts to his guts and vocal cords.
 
-\[bandcamp width=100% height=472 album=2349491696 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2349491696/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 Buy their album, it is a must!
 

@@ -29,7 +29,7 @@ Particularly centered around old-school death metal with Satanic themes, ‘***D
 
 You can find **Grotesque Ceremonium** on Bandcamp for streaming and buying the ‘***Demonic Inquisition***‘ album and the ‘***Blasphemous Goat Observance***‘ EP.
 
-\[bandcamp width=100% height=439 album=1262000766 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1262000766/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/grotesqueceremonium>
 BUY: <https://grotesqueceremonium.bandcamp.com/>

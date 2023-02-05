@@ -29,7 +29,7 @@ Having formed in 2014, **Ruptured Birth** has already a previous EP released, â€
 
 Listen to the following Bandcamp streaming widget and buy.
 
-\[bandcamp width=100% height=472 album=3335055221 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3335055221/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER**: <http://www.cdnrecords.com/product/ruptured-birth-transmutant-arachni-supremacy-mcd-as-bonus-tracks/>
 **LIKE**: <https://www.facebook.com/RupturedBirthScigrind>

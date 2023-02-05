@@ -30,7 +30,7 @@ Having extensively played in Brazil and Latin America, they are now geared up to
 
 You can find **Coldblood**‘s ‘***Indescribable Physiognomy Of The Devil***‘ on Bandcamp.
 
-\[bandcamp width=100% height=472 album=3773257322 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3773257322/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <http://www.facebook.com/coldblood.officialpage>
 BUY: <http://coldblood-deathmetal.bandcamp.com/>

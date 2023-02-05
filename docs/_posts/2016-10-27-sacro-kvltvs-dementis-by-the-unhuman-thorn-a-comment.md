@@ -31,7 +31,7 @@ A blackened death metal one-man project from Chile, **The Unhuman Thorn**‘s �
 
 A well recorded album with interesting riffs and good blast beats in the vein of old Old Man’s Child, ‘***Sacro-Kvltvs Dementis***‘ will please death metal fans along black metal ones. You can find the album on Bandcamp.
 
-\[bandcamp width=400 height=208 album=871094382 size=large bgcol=333333 linkcol=0f91ff artwork=small track=1845611207\]
+<iframe style="border: 0; width: 400; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=871094382/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://symbolofdomination.bandcamp.com/track/sacro-kvltus-dementis>
 LIKE: <http://www.facebook.com/theunhumanthorn.chile>

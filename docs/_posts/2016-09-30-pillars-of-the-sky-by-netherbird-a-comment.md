@@ -30,7 +30,7 @@ After ***Windwards***, their previous single, **Netherbird** leads us to their f
 
 A mix of 90’s death and black metal, expect a unique sound with Netherbird and their next album ‘***The Grander Voyage***‘. They are from Sweden and you can stream ‘***Pillars Of The Sky***‘ and ‘***Windwards***‘ via Bandcamp, and while you’re at it, be generous and buy those singles.
 
-\[bandcamp width=100% height=208 album=4197373438 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=4197373438/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER**: <https://netherbird.bandcamp.com/album/pillars-of-the-sky-single>
 **LIKE**: <http://facebook.com/netherbird>

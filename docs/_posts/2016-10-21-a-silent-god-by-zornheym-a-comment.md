@@ -29,7 +29,7 @@ Yet another powerful song from **Zornheym**, we can’t wait for the full-length
 
 You can get the single ‘***A Silent God***‘ from **Zornheym** on bandcamp.
 
-\[bandcamp width=100% height=208 album=250027152 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=250027152/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **BUY**: <https://non-serviam-records.bandcamp.com/album/a-silent-god>
 **LIKE**: <https://www.facebook.com/zornheym/>

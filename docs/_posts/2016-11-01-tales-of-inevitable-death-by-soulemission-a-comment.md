@@ -31,6 +31,6 @@ Essentially a black metal album, ‘**Tales of Inevitable Death**‘ navigates a
 
 With solid rhythmic beats by *Menthor* (Enthroned, Lvcifyre, Nightbringer), **Soulemission**‘s album has strong elements to make it a good one to have in our playlists. Available on Bandcamp.
 
-\[bandcamp width=100% height=406 album=367053610 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=367053610/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 **LIKE**: <https://www.facebook.com/Soulemission>
 **LABEL**: <http://store.blacklion.nu/>

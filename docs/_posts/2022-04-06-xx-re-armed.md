@@ -38,4 +38,4 @@ Not bad, but it doesn’t dishevel my wonderful bald head.
 
 Enjoy!
 
-\[bandcamp width=700 height=340 album=1721189681 size=large bgcol=333333 linkcol=e99708 artwork=none\]
+<iframe style="border: 0; width: 700; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=1721189681/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

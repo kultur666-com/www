@@ -31,6 +31,6 @@ A progressive noise act from Tacoma, Washington, USA, **Czar** shares with us th
 
 With refreshing riffing and musicality, **Czar** is a must to have in your playlist. If your into Mr. Bungle and Faith No More your gonna love ‘***Life Is No Way To Treat An Animal***‘ by **Czar**. Else have a listen. Available on Bandcamp.
 
-\[bandcamp width=100% height=472 album=3373186456 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3373186456/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://czar.bandcamp.com/album/life-is-no-way-to-treat-an-animal>

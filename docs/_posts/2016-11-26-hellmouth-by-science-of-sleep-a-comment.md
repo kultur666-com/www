@@ -31,7 +31,7 @@ Brutal in all its sense, ***Hellmouth*** reaches to extremes to vehiculate **Sci
 
 You can find **Science of Sleep**‘s albums on Bandcamp.
 
-\[bandcamp width=100% height=472 album=2948999130 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2948999130/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/pg/SOSMETAL/about/>
 LABEL: <http://www.bastardized.net/>

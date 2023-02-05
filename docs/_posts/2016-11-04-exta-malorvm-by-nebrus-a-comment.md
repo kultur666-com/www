@@ -32,7 +32,7 @@ A doomish black metal band from Italy, **Nebrus** is in fact a duo of *Mortifero
 
 Although in the veins of DSBM, ***Exta Malorvm*** is somewhat a good album with good vibes and dark themes. For fans of black metal, you can find ***Exta Malorvm*** by **Nebrus** on Bandcamp.
 
-\[bandcamp width=100% height=439 album=3487875609 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=3487875609/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 ORDER: <https://nebrus.bandcamp.com/>
 LIKE: <https://www.facebook.com/NEBRUSband/>

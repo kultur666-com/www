@@ -20,4 +20,4 @@ tags:
     - metal
 ---
 
-\[bandcamp width=100% height=120 album=10428965 size=large bgcol=000000 linkcol=0687f5 tracklist=false artwork=small track=1815741658\]
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=10428965/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

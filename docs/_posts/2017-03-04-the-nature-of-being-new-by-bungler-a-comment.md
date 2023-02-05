@@ -35,7 +35,7 @@ Loved it and recommend it. To have in your playlist absolutely. Available on Ban
 
 Have a listen:
 
-\[bandcamp width=100% height=472 album=3639138454 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3639138454/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/BunglerBand>
 BUY: <https://innerstrengthrecords.bandcamp.com/album/bungler-the-nature-of-being-new>

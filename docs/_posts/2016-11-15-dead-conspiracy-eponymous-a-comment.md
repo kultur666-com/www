@@ -31,7 +31,7 @@ Apparently of an old school formation, Dead Conspiracy was formed in 1986 until 
 
 They are back powerful than ever and the album is freaking awesome. If you’re into death thrash, the album is for you. Available on Bandcamp.
 
-\[bandcamp width=100% height=439 album=1477654496 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1477654496/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/deadconspiracy/>
 BUY: <https://deadconspiracy.bandcamp.com/album/dead-conspiracy-dead-conspiracy-lp-2016>

@@ -34,7 +34,7 @@ A merger of experimental metal, trippy metal and black and death metal, be ready
 
 Available with joy on Bandcamp and Spotify.
 
-\[bandcamp width=100% height=406 album=1938593104 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=1938593104/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/balanceinterruption/>
 WATCH: <https://www.youtube.com/user/BalanceInterruption>

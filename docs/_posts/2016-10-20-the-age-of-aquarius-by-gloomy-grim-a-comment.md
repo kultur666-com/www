@@ -30,7 +30,7 @@ Essentially a symphonic black metal album, **Gloomy Grim** uses also thrash meta
 
 Using the theme of horror expect to be transported from song to song into a whirlwind of fantasy and agony. You can find **Gloomy Grim** on bandcamp.
 
-\[bandcamp width=100% height=472 album=3850035834 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3850035834/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/AgathonTheBeast/>
 BUY: <https://satanath.bandcamp.com/album/sat151-gloomy-grim-the-age-of-aquarius-2016>

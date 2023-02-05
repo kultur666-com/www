@@ -29,7 +29,7 @@ A blackened post-rock EP, ‘***Biophobia***‘ is essentially a really heavy ro
 
 An intelligent EP album, ‘***Biophobia***‘ by **Bearstorm** is a band to follow an to have on its playlist. Available on Bandcamp.
 
-\[bandcamp width=100% height=307 album=246047867 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=246047867/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 ORDER: <https://grimoirerecords.bandcamp.com/album/biophobia>
 LIKE: <https://www.facebook.com/bearstormRVA>

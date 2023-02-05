@@ -33,7 +33,7 @@ From the Netherlands, **Orewoet** played their first show at the ‘Veneration O
 
 You can stream **Orewoet**‘s ‘***Afrodisiacum Der Vroomheid***‘ through Bandcamp.
 
-\[bandcamp width=100% height=307 album=800769664 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=800769664/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 ORDER: <https://heidenshart.bandcamp.com/album/afrodisiacum-der-vroomheid>
 LABEL: [www.heidenshart.nl](http://www.heidenshart.nl)

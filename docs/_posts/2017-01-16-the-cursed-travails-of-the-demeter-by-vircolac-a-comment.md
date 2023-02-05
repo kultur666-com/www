@@ -32,6 +32,6 @@ Although in the genre of blackened death metal, **Vircolac** wants to bring back
 
 A shorty to please many, ‘***The Cursed Travails of the Demeter***‘ EP by **Vircolac** is available on Bandcamp.
 
-\[bandcamp width=100% height=274 album=3828990882 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=3828990882/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://darkdescentrecords.bandcamp.com/album/the-cursed-travails-of-the-demeter-cd>

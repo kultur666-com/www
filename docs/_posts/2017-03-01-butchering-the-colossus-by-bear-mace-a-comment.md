@@ -33,7 +33,7 @@ Existing as a duo since 2012, they are now five members that should be throwing 
 
 Highly recommended, available on Bandcamp.
 
-\[bandcamp width=100% height=406 album=3604146297 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=3604146297/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/bearmace1>
 BUY: <https://bearmace.bandcamp.com/>

@@ -30,7 +30,7 @@ A well established black metal act of Colombia, ‘***Termestella Cvltvs***‘ i
 
 ‘***Termestella Cvltvs***‘ is well produced and expect a black metal album with some death spicing. A great album for black metal fans, you can find it on Bandcamp.
 
-\[bandcamp width=100% height=439 album=1989376867 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1989376867/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://bestialized.bandcamp.com/>
 LIKE: <http://www.facebook.com/bestialized>

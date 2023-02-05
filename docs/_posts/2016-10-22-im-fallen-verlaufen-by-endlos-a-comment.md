@@ -31,7 +31,7 @@ For fans of the style and other ears curious to the style, the album is apprecia
 
 **Endlos** is a German duo where they share their talent in ‘***Im Fallen Verlauchen***‘. You can find the album ‘***Im Fallen Verlaufen***‘ by **Endlos** on Bandcamp.
 
-\[bandcamp width=100% height=472 album=2420336017 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2420336017/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/AllesIstEndlos/>
 BUY: <https://allesistendlos.bandcamp.com/> AND <https://symbolofdomination.bandcamp.com/album/sodp052-endlos-im-fallen-verlaufen-2016>

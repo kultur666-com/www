@@ -31,6 +31,6 @@ A blackened trash metal band from Germany, they have a full-length album up thei
 
 With their blackish vocals and thrashy riffs and drums, ‘***On The Verge Of Dysfunction***‘ by **Speedwhore** is a refreshing album which is sure to please old-school and new thrash metal fans. Available on Bandcamp.
 
-\[bandcamp width=100% height=373 album=4145087038 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=4145087038/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 LIKE: <https://www.facebook.com/Speedwhore-124679414257404/>
 BUY: <https://speedwhore.bandcamp.com/>

@@ -31,7 +31,7 @@ A fun thrash/punk metal album with some powerful songs, although a shorty, it is
 
 They are available on Bandcamp, as usual, be <span style="text-decoration:underline;">generous</span> and <span style="text-decoration:underline;">buy</span>.
 
-\[bandcamp width=100% height=274 album=2921782195 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=2921782195/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/deathbyfungi>
 BUY: <https://deathbyfungi.bandcamp.com/>

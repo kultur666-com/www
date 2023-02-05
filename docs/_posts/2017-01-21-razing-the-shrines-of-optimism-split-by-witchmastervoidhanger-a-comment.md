@@ -31,6 +31,6 @@ Also available on Bandcamp, are some albums by **Witchmaster** and **Voidhanger*
 
 Stream to discover!
 
-\[bandcamp width=100% height=472 album=661266207 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=661266207/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 <div>VISIT: [http://www.thirdeyetemple.com](http://www.thirdeyetemple.com/)</div><div>BUY: [https://thirdeyetemple.bandcamp.com](https://thirdeyetemple.bandcamp.com/)</div><div>LIKE: <https://www.facebook.com/thirdeyetemple></div><div></div>

@@ -30,7 +30,7 @@ As an old-school thrash metal band, **Stormdeath** delivers a good album that is
 
 Recommended to thrash metal fans looking for some good old-school northern thrash style. Available on Bandcamp.
 
-\[bandcamp width=100% height=439 album=1538246338 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1538246338/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://witchesbrewthrashes.bandcamp.com/album/time-to-destroy>
 LIKE: <https://www.facebook.com/stormdeathband/>

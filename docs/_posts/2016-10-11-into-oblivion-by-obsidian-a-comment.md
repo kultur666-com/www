@@ -34,7 +34,7 @@ A great album for old fans of Sepultura and Pro-Pain, the band from Vancouver, C
 
 This is their second album after a well received debut album, ‘***Time Erodes***‘; you can stream both their albums through Bandcamp.
 
-\[bandcamp width=100% height=472 album=2200821764 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2200821764/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/8RB9TryDxPg?feature=oembed" title="HIGH CRIMES AND TREASON MUSIC VIDEO" width="500"></iframe>
 

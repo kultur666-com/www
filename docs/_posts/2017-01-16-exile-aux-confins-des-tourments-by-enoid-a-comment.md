@@ -30,7 +30,7 @@ A black metal act from Switzerland since 1996, **Enoid** released their 7th albu
 
 For true die-hard fans of Norwegian black metal, ‘***Exile Aux Confins Des Tourments***‘ is an album that uses French as its main lyrics language. Aggressive and melodic, it is a true companion of darkness and despair. Available on Bandcamp.
 
-\[bandcamp width=100% height=406 album=374313387 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=374313387/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **BUY**: <https://enoid.bandcamp.com/album/exil-aux-confins-des-tourments>
 **LIKE**: <https://www.facebook.com/enoidblackmetal>

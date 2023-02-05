@@ -31,7 +31,7 @@ A death metal band from Los Angeles, California, they are back after their first
 
 With well written songs and aggressive beats and riffs, listen to the Bandcamp streaming widget below and buy this interesting shorty if you like. Also posted below is their official video of the song ‘*Killing Under Possession*‘ available on the ‘***Crawl Space Burial***‘ EP.
 
-\[bandcamp width=100% height=274 album=2558535856 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=2558535856/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/5ZqH2fBi3yM?feature=oembed" title="Stages of Decomposition - Killing Under Possession (Official Music Video)" width="500"></iframe>
 

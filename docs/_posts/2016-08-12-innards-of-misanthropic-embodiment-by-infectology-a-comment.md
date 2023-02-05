@@ -33,7 +33,7 @@ In the veins of some old Kataclysm, Cryptopsy and Gastrorrexis, **Infectology** 
 
 Listen to the streaming below to have a taste of their album and don’t forget to buy for it to be in your playlist.
 
-\[bandcamp width=100% height=406 album=3764019109 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=3764019109/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER**: http://smarturl.it/Infectology\_BDM
 **LIKE**: https://www.facebook.com/infectologybrutaldeath

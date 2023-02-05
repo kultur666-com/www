@@ -29,7 +29,7 @@ A blackened death metal album from Venezuela, ‘***Brotherhood Of Chaos***‘ b
 
 Fans of black metal will enjoy the album and fans of death metal will love its blackness. Available on Bandcamp.
 
-\[bandcamp width=100% height=472 album=2305006046 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2305006046/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/Sectasys/>
 WATCH: <https://www.youtube.com/channel/UCN7kFI9NGFO7r2lvVOcxCrg>

@@ -31,7 +31,7 @@ Besides that, they are a quintet of cool dudes who do great black metal and “*
 
 For fans of black metal in the veins of Watain and Dissection, “***Death’s Withered Chants***” by **Nazghor** is available on Bandcamp.
 
-\[bandcamp width=100% height=472 album=3715713341 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3715713341/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/nazghorofficial/>
 WATCH: <https://www.youtube.com/user/nazghorblack>

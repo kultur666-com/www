@@ -34,7 +34,7 @@ If you’re into some dirty punk rock/metal **Whipstriker** is the band you need
 
 Here’s some streaming to make you look for **Whipstriker**‘s ‘***Seven Inches Of Hell***‘ double LP from **Folter Records**; a great compilation to have in your collection.
 
-\[bandcamp width=100% height=241 album=62508823 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=62508823/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **BUY**: <http://www.whipstriker.bandcamp.com>
 **LIKE**: [http://www.facebook.com/whipstriker  ](http://www.facebook.com/whipstriker)**LABEL**: <https://folterrecords.bandcamp.com/> AND <http://www.folter666.de/>

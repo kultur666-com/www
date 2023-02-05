@@ -29,7 +29,7 @@ A doomed death metal band from Ivanovo, Russia, the **Old Chapel** project is th
 
 In the veins of Dismember, **Old Chapel**‘s *****Visions From Beyond***‘** can stimulate your ears and brain to go through your days with rhythm and deep vocals. A good album to have in your playlist, they are available on Bandcamp.
 
-\[bandcamp width=100% height=439 album=1591477735 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1591477735/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/oldchapeldeath>
 LABEL: <http://www.chaos-records.com/>

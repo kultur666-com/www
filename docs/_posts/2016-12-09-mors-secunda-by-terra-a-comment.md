@@ -29,7 +29,7 @@ Out today, Friday December 9th 2016, is ‘***Mors Secunda***‘ by **Terra** vi
 
 A cool album by **Terra** to have on its playlist, if you’re a fan of atmospheric black metal; the songs are well written and can be enjoyed by any fan of extreme music. Available on Bandcamp.
 
-\[bandcamp width=100% height=208 album=2598676560 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=2598676560/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/TerraUK>
 VISIT: <http://terra.band/>

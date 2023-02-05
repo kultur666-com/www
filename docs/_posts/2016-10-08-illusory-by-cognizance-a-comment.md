@@ -35,7 +35,7 @@ For those who would like to see them live, they seem to not venture in that dire
 
 But you can listen to their EPs through the following Bandcamp streaming widget and buy, buy, buy, as they produce greatness that licks our eardrums with delicacy.
 
-\[bandcamp width=100% height=307 album=2128098959 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=2128098959/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/mmIRDkreWLw?feature=oembed" title="COGNIZANCE - The Making of "Illusory" Studio Documentary | GEAR GODS" width="500"></iframe>
 

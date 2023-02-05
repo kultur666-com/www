@@ -27,7 +27,7 @@ Excelling in the style of 80’s heavy metal in the likes of Iron Maiden and Jud
 
 Very heavy metal-ish with vocals ‘à la’ Dickenson and Halford, along with riffs shredding heavy metal like we used to listen to (am I getting old?), you need to listen to the following Bandcamp streaming widget to get a feel of what I’m talking about and get immersed back in 1987 and bang your head with the devil’s sign and fist in the air. I am getting old…
 
-\[bandcamp width=100% height=406 album=1518418768 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=1518418768/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **LIKE**: <https://www.facebook.com/saboterGR>
 **LABEL**: <http://www.witchesbrewthrashes.eu/>

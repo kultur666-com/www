@@ -30,7 +30,7 @@ An ambient black metal band from USA, **Nihilistinen Barbaarisuus** plunges un i
 
 Co-founded by Mika Mage a dual citizen of Finland and the United States, he leads us with ‘***Madness Incarnate***‘ with melancholic songs and rhythmic ambience that promises us more to come from **Nihilistinen Barbaarisuus** so they are to be watched out in the following times to come. They are available on Bandcamp.
 
-\[bandcamp width=100% height=307 album=3206248391 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=3206248391/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <http://nihilistinenbarbaarisuus.bandcamp.com/>
 LIKE: <http://www.facebook.com/nihilistinenbarbaarisuus>

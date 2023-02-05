@@ -31,7 +31,7 @@ A death metal trio from Portugal, **Pestifer** delivers a solid album with ‘**
 
 Recommended to fans of old-school death metal and fans of European death metal,’***Execration Diatribes***‘ by **Pestifer** is available on Bandcamp.
 
-\[bandcamp width=100% height=439 album=459989879 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=459989879/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/PESTIFERofficial/>
 BUY: <http://store.lavadome.org/>

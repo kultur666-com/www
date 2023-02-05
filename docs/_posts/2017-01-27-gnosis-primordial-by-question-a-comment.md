@@ -30,6 +30,6 @@ A grind/death metal act from Mexico, **Question** delivers a good EP which is th
 
 Featuring fuzzy distorted guitars, a clear bass along the aggressive drum and gory vocals, the ‘***Gnosis Primordial***‘ EP has a lot of potential and **Question** is a band answering to be discovered. Available on Bandcamp.
 
-\[bandcamp width=100% height=307 album=1048797955 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=1048797955/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://chaos-records.bandcamp.com/album/gnosis-primordial>

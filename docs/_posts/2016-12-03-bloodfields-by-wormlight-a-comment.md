@@ -32,6 +32,6 @@ If you’ve been following **Wormlight** you can hear Tiamat Invictuz sing the t
 
 **Wormlight** is in the process of recording their first full-length album to be out in 2017. Meanwhile you can have a glimpse with this ***Bloodfields EP***.
 
-\[bandcamp width=100% height=340 album=3725297283 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3725297283/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/wormlightsweden>

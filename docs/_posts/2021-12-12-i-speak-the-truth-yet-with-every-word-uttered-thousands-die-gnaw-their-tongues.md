@@ -26,4 +26,4 @@ The album is quite harsh like most **Gnaw Their Tongues** albums. I’m not shar
 
 Enjoy!
 
-\[bandcamp width=100% height=406 album=134492185 size=large bgcol=333333 linkcol=e99708 artwork=none\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=134492185/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

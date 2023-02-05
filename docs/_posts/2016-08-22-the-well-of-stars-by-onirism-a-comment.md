@@ -35,7 +35,7 @@ A Final Fantasy-esque voyage where we long for exploration and encounters with e
 
 Be transported by the following Bandcamp streaming widget and buy, as Antoine is a man of great talent.
 
-\[bandcamp width=100% height=307 album=775491505 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=775491505/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER**: [http://onirismband.bandcamp.com/album/the-well-of-stars-ep](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=c89dce32a3&e=9efdf70388)
 **LIKE**: [https://www.facebook.com/Onirismband](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=fa706fba01&e=9efdf70388)

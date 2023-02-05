@@ -30,7 +30,7 @@ They achieve it with ‘***Dimension Darkness***‘ but with some extra current 
 
 A trio from Stockholm, Sweden, they present us a eleven track album of good old death metal. Play the Bandcamp streaming widget below and listen for yourself.
 
-\[bandcamp width=100% height=472 album=1844657618 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1844657618/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **BUY**: <https://divisonvansinneblp.bandcamp.com/album/dimenson-darkness>
 **LIKE**: <https://www.facebook.com/blacklionprod666/>

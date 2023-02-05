@@ -30,4 +30,4 @@ Their first full-length album, ***Astrophobia*** is their third release and they
 
 If you’re into death and prog you’ll enjoy ***Astrophobia*** by **Youdash**. A must to your playlist, available on Bandcamp.
 
-\[bandcamp width=100% height=406 album=1739133341 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=1739133341/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

@@ -23,4 +23,4 @@ tags:
 
 Released last November 12th of this holy (what???) 2021 is **200 Stab Wounds**‘ ***Slave to the Scalpel***. From Ohio, USA, **200 Stab Wounds** gives us a solid album that is in the trenches of *Death Metal* but with solid *Heavy Metal* riffs. It delivers! Enjoy!
 
-\[bandcamp width=100% height=439 album=581646679 size=large bgcol=333333 linkcol=e99708 artwork=none\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=581646679/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

@@ -33,7 +33,7 @@ Since their formation in 2010, two members from Unhuman, *Alexandre Dupras* and 
 
 If you like experimental metal, seek **Teramobil**‘s ‘***Magnitude of Thoughts***‘, available now on Bandcamp.
 
-\[bandcamp width=100% height=373 album=3012333143 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=3012333143/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/Teramobil>
 BUY: <https://teramobil.bandcamp.com/album/magnitude-of-thoughts>

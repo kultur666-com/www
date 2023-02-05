@@ -28,7 +28,7 @@ A death metal act from Switzerland, **Carnal Decay** are on their fourth full-le
 
 A great release to happen now, ‘***You Owe You Pay***‘ by **Carnal Decay** might be in my top 10 albums of 2017. A great production with great song writting, this album is a must in your playlist. Available on CD this Friday, you can also get it on Bandcamp and Spotify right now.
 
-\[bandcamp width=100% height=472 album=1750093701 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1750093701/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/carnaldecayband/>
 BUY: <http://carnaldecay.bigcartel.com/>

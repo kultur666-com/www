@@ -32,4 +32,4 @@ For fans of Exodus and Havoc, old-school metallers are going to love **Illyrian*
 
 You can find ‘**Round 2: Fight!**‘ on [iTunes](https://itunes.apple.com/us/album/round-2-fight!/id1148232477?ign-mpt=uo%3D4), [Amazon](https://www.amazon.com/Round-2-Fight-Illyrian/dp/B01LA74RAK/) and [Bandcamp](https://illyrian.bandcamp.com/album/round-2-fight).
 
-\[bandcamp width=100% height=472 album=689770069 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=689770069/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

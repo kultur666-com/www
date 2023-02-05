@@ -38,6 +38,6 @@ Formed in 2006, ‘***Earth Inferno***‘ is **The Evil Dead** second full-lengt
 
 Highly recommended. Available on Bandcamp.
 
-\[bandcamp width=100% height=439 album=1554080787 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1554080787/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/theevildeadargentina/>

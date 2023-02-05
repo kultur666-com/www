@@ -33,7 +33,7 @@ Now, for a repress of a tape the sound ain’t that bad. The master might be goo
 
 So from this album comes the intriguing curiosity to seek more of **Antiquus Scriptum** discography. And I invite you to get more of **Antiquus Scriptum** after listening and buying ‘***In Pulverem Reverteris***‘ through the following Bandcamp widget.
 
-\[bandcamp width=100% height=274 album=1768231833 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=1768231833/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER:** [http://www.elegyrecords.org/aweb/shop/index.php?
 main\_page=product\_info&amp;cPath=1\_2&amp;products\_id=1798&amp;zenid=077beorocbitkrnr6hgl9otmj3](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=4ec53f3b4e&e=9efdf70388)

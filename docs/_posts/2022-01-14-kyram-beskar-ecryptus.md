@@ -29,4 +29,4 @@ The release of **Kyr’am Beskar** (*Mandalorian for “Death Metal”*) follows
 
 Enjoy!
 
-\[bandcamp width=100% height=274 album=2432710022 size=large bgcol=333333 linkcol=e99708 artwork=none\]
+<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=2432710022/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

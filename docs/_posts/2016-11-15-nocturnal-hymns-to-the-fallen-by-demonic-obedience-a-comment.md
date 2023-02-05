@@ -31,7 +31,7 @@ Yet, not one of those albums that lack in quality, it limits the artist to perfo
 
 To be in your playlist, you can find ‘***Nocturnal Hymns To The Fallen***‘ by **Demonic Obedience** on bandcamp.
 
-\[bandcamp width=100% height=406 album=1908420959 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=1908420959/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/demonicobedience>
 BUY: <https://demonicobedience.bandcamp.com/album/nocturnal-hymns-to-the-fallen>

@@ -34,6 +34,6 @@ The other half played by **Exhausted Prayer**, from Los Angeles, USA, presents u
 
 A must to listen, I highly recommend this album to death and black metal fans. A well recorded album, available on Bandcamp.
 
-\[bandcamp width=100% height=406 album=40936950 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=40936950/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://apeswholookedup.bandcamp.com/album/burials-exhausted-prayer-split>

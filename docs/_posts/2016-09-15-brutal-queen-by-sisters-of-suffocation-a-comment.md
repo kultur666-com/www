@@ -33,7 +33,7 @@ So once introduced; they self-released an album, ‘***Brutal Queen’***, earli
 
 So wait no more. Listen to the Bandcamp streaming widget below and discover by yourself, or/and watch the official music video of *Brutal Queen*.
 
-\[bandcamp width=100% height=307 album=3466669905 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=3466669905/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/BcZqB1oDF7k?feature=oembed" title="SISTERS OF SUFFOCATION - Brutal Queen (Official Music Video)" width="500"></iframe>
 

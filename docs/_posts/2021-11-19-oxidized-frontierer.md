@@ -26,4 +26,4 @@ I had really liked their 3rd release, **Unloved**, it had something cringing all
 
 Enjoy with clean ears: Might make earwax melt.
 
-\[bandcamp width=700 height=472 album=1558876972 size=large bgcol=333333 linkcol=e99708 artwork=none\]
+<iframe style="border: 0; width: 700; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1558876972/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

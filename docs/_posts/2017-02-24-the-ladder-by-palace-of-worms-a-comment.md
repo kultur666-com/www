@@ -35,6 +35,6 @@ In the veins of melodic black metal bands but with a progressive sound, Balan tr
 
 Highly recommended to fans of progressive black metal, ‘**The Ladder**‘ is available on Bandcamp.
 
-\[bandcamp width=100% height=373 album=3106270862 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=3106270862/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://acephalewinter.bandcamp.com/>

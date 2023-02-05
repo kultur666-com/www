@@ -32,7 +32,7 @@ Although you’ll find **Megadeth**-ish inspiration like in “*Bring Me Tonight
 
 Keep them coming **Gottweist**.
 
-\[bandcamp width=100% height=120 album=903795199 size=large bgcol=333333 linkcol=0f91ff tracklist=false artwork=none\]
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=903795199/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER:** <https://gottweist.bandcamp.com/releases>
 **ORDER:** [http://www collectivewave.ca/store](http://www%20collectivewave.ca/store)

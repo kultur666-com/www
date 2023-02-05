@@ -37,4 +37,4 @@ If Stelios can continue to produce more music, it will be interesting to follow 
 
 Please listen to the following list and don’t be shy to buy his album.
 
-\[bandcamp width=100% height=307 album=1296751985 size=large bgcol=333333 linkcol=0f91ff artwork=none\]
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=1296751985/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

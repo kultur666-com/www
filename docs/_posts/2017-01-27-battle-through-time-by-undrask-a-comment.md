@@ -32,7 +32,7 @@ Their musical talent is reflected in the well played melodies and the album is r
 
 ‘***Battle Through Time***‘ by **Undrask** tells the story of someone lost in time, and the music accompanies us through the whole tale. All in all, a great album sure to please a lot of new fans. Available on Bandcamp and Spotify.
 
-\[bandcamp width=100% height=472 album=2284510500 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2284510500/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://undrask.bandcamp.com/album/battle-through-time>
 LIKE: <https://www.facebook.com/undrask/>

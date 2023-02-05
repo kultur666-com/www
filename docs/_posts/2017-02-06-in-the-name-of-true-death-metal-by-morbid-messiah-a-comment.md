@@ -32,7 +32,7 @@ In the style of early 90’s death sound and song writing, **Morbid Messiah** ac
 
 Recommended to old death ears and young ones along. Available on Bandcamp.
 
-\[bandcamp width=100% height=373 album=1799143722 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=1799143722/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/morbidmessiahofficial>
 LABEL: <http://www.godzovwar.com/>

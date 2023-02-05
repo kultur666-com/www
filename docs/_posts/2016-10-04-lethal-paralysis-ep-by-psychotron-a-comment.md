@@ -27,7 +27,7 @@ Although still pending on its release date, I call onto you to help them achieve
 
 They have an awesome potential and I’m asking you to be generous and pre-order their album so they can move on to the next production and help the band survive the harshness of the metal scene in their location. You can find the ‘***Lethal Paralysis***‘ album through the **Mortuary Records &amp; Distribution** label and on Bandcamp as we like it.
 
-\[bandcamp width=100% height=274 album=4031110799 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=4031110799/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/PsychotronOfficial>
 BUY: <https://mortuaryrecords.bandcamp.com/>

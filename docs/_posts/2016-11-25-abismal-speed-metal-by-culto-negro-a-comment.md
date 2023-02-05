@@ -32,7 +32,7 @@ Inspired by hatred to everything of the establishment, the spanish lyrics are fi
 
 Be ready to unleash mayhem! Available on Bandcamp.
 
-\[bandcamp width=100% height=373 album=3889255573 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=3889255573/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://cultonegro.bandcamp.com/>
 LIKE: <https://www.facebook.com/cultonegrocr>

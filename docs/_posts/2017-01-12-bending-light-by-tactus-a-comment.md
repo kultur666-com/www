@@ -33,7 +33,7 @@ Some clean singing along guttural vocals, ‘***Bending Light***‘ by **Tactus*
 
 Highly recommended. Available on Bandcamp and Spotify.
 
-\[bandcamp width=100% height=472 album=56354342 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=56354342/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **VISIT**: <http://www.tactusband.com>
 **BUY**: <https://tactusband.bandcamp.com/album/bending-light>

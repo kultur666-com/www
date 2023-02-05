@@ -33,7 +33,7 @@ A really well produced album with well written songs, the spirit of the album re
 
 In the vein of Emperor and Dissection, listen to the following Bandcamp streaming widget and buy this great album. We feel the cold of winter.
 
-\[bandcamp width=100% height=472 album=1661317822 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1661317822/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 ORDER: <http://scumproductions.bandcamp.com/album/a-void-into-the-fields-of-silence-la-nature-oubli-e>
 LIKE: <https://www.facebook.com/pages/Spirit-of-the-forest/225454954171337>

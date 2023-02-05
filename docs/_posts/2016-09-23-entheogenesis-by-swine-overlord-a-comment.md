@@ -32,7 +32,7 @@ A duo from New York and New Jersey, Will Peplinsky delivers the goods through dr
 
 You can stream the album through Bandcamp and acquire a physical CD while your at it.
 
-\[bandcamp width=100% height=472 album=756645978 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=756645978/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 <span style="color:#000000;">**ORDER:** <http://www.gorehouseproductions.com/swineoverlord></span>
 <span style="color:#000000;">**LIKE:** </span><https://www.facebook.com/SwineOverlord>

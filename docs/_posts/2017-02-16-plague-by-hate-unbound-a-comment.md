@@ -31,7 +31,7 @@ A death/thrash metal band from Detroit, Michigan, USA, **Hate Unbound** are tour
 
 A really good album if you’re into the death/thrash style; well produced, with a real killer distortion and great vocals, ***Plague*** by **Hate Unbound** can be sampled in the following Bandcamp widget.
 
-\[bandcamp width=100% height=472 album=1606111191 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1606111191/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/HateUnbound>
 BUY: <https://hateunbound.bandcamp.com/>

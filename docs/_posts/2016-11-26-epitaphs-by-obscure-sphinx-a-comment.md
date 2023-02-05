@@ -30,7 +30,7 @@ Of course, after a second and third listen we are intrigued of any other product
 
 What to say more? Go add the three albums to your playlist right now; you’re missing something. My flavour of the month: **Obscure Sphinx**.
 
-\[bandcamp width=100% height=208 album=2426963722 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=2426963722/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/obscuresphinx/>
 BUY: <https://obscuresphinx.bandcamp.com/album/epitaphs>

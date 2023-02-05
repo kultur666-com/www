@@ -27,4 +27,4 @@ Powerful, wise, melodic and creative.
 
 Enjoy!
 
-\[bandcamp width=350 height=439 album=1303384147 size=large bgcol=333333 linkcol=e99708 artwork=none\]
+<iframe style="border: 0; width: 350; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1303384147/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

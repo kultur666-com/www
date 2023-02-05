@@ -33,7 +33,7 @@ As for slam, I don’t know what is the secret of this musical recipe, but I gen
 
 Well produced, ‘***Reign of Terror***‘ by **Acranius** is what you need in your next playlist. Available on Bandcamp and Spotify.
 
-\[bandcamp width=100% height=472 album=708468055 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=708468055/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/Acranius/>
 BUY: <https://risingnemesisrecords.bandcamp.com/album/reign-of-terror>

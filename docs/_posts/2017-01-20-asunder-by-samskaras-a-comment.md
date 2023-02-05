@@ -30,7 +30,7 @@ A tour-de-force is this EP, where the musicianship of the two members delivers a
 
 If you’re seeking for something new, seek out ***Asunder*** by **Samskaras**. Visit their Bandcamp page for ***Asunder*** and previous releases of **Samskaras** and the new EP.
 
-\[bandcamp width=100% height=274 album=3554299774 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=3554299774/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/SamskarasMetal/>
 BUY: <https://samskarasmetal.bandcamp.com/>

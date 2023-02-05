@@ -32,7 +32,7 @@ The truest fans of black metal can feel themselves at home with this album.
 
 Not for the faint of heart. Available on Bandcamp.
 
-\[bandcamp width=100% height=439 album=646776602 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=646776602/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 ORDER: <http://store.vianocturna.com/uburen-fra-doden-fodes-liv-cd-p-1078.html>
 LIKE: <https://www.facebook.com/uburenofficial/>

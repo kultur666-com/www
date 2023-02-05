@@ -33,6 +33,6 @@ A must for collectors of metal albums, the joint effort of **Abigorum** and **Cr
 
 I invite you to listen to the Bandcamp streaming widget below and have a listen for yourself. My favorite song is *Systematic Apocalypse* and I’m sure you’ll love it too.
 
-\[bandcamp width=100% height=472 album=490553066 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=490553066/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **LABEL**: <http://satanath.com/>

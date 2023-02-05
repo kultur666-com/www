@@ -31,7 +31,7 @@ A death metal act from Florida, USA, since 1989, they split up in 1998 but came 
 
 A good album to have in your playlist, ‘***Shores of Oblivion***‘ by **Killing Addiction** is available on Bandcamp.
 
-\[bandcamp width=100% height=274 album=2775807821 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=2775807821/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://killingaddiction.bandcamp.com/>
 LIKE: <https://www.facebook.com/killingaddiction/>

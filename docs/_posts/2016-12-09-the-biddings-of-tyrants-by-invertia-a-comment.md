@@ -29,7 +29,7 @@ A good industrial death metal album, ‘***The Biddings Of Tyrants***‘ by **In
 
 Available on Bandcamp, get it now!
 
-\[bandcamp width=100% height=472 album=979060933 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=979060933/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/invertiametal/>
 BUY: <https://invertia.bandcamp.com/>

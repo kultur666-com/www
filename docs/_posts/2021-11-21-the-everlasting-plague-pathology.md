@@ -27,4 +27,4 @@ I’ve been listening to this gem all morning on repeat, and it’s a boner!
 
 Take a listen to it!
 
-\[bandcamp width=100% height=472 album=399942995 size=large bgcol=333333 linkcol=e99708 artwork=none\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=399942995/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

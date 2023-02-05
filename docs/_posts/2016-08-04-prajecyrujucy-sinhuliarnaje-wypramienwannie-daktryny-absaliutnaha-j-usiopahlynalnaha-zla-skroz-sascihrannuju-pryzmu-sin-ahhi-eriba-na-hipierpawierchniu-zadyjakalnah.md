@@ -43,7 +43,7 @@ Maybe.
 
 Isn’t the album cover gorgeous?
 
-\[bandcamp width=100% height=406 album=1814762780 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=1814762780/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **LIKE:** <https://www.facebook.com/eximperitus.official/>
 **BUY:** <https://eximperitus.bandcamp.com/album/prajecyruju-y-sinhuliarnaje-wypramie-wa-nie-daktryny-absaliutnaha-j-usiopah-yna-naha-z-a-skro-a-cihrannuju-pryzmu-s-n-ahh-er-ba-na-hipierpawierchniu-zadyjaka-naha-ka-ha-zasnawa-nika-kosmat-chni-n>

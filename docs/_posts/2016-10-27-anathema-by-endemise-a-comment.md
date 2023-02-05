@@ -28,7 +28,7 @@ A blackened death metal act from Ottawa, Canada, they deliver us a solid album t
 
 Having toured with big names and ***Anathema*** being their second full-length album, **Endemise** is one of the bands to have in our playlist. You can find **Endemise**‘s ***Anathema*** and first full-length album ***Far From The Light*** on Bandcamp.
 
-\[bandcamp width=100% height=406 album=2693890828 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=2693890828/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 VISIT: <http://www.endemise.com/>
 LIKE: <https://www.facebook.com/Endemise/>

@@ -37,7 +37,7 @@ A delightful of diverse sounds where one is invited to drunkenness and ecstasy; 
 
 To have in your playlist – absolutely.
 
-\[bandcamp width=100% height=439 album=4113733596 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=4113733596/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 BUY: [https://thevondeerskulls.bandcamp.com/album/the-rest-is-silence  ](https://thevondeerskulls.bandcamp.com/album/the-rest-is-silence)VISIT: <http://www.thevondeerskulls.com/>
 LIKE: <https://www.facebook.com/TheVonDeerSkulls/>
 LABEL: <http://www.wraithproductions.net/>

@@ -31,7 +31,7 @@ Reminiscent of some old Anthrax and late 80s thrash bands, expect some good old 
 
 Available on Bandcamp.
 
-\[bandcamp width=100% height=439 album=2962190020 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=2962190020/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://spittheblood.bandcamp.com/releases>
 LIKE: <https://www.facebook.com/Spit-The-Blood-435083173234574/>

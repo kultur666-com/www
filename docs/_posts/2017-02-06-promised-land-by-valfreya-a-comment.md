@@ -33,7 +33,7 @@ Well produced and written with talent, **Valfreya** has released a really intere
 
 So, you’re looking into epic metal but is still into the death realm, try ‘***Promised Land***‘ by **Valfreya**. Available on **Bandcamp** and major retailers.
 
-\[bandcamp width=100% height=472 album=4240411509 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=4240411509/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 VISIT: <http://www.valfreyaofficial.com/>
 LIKE: <https://www.facebook.com/Valfreya.Metal/>

@@ -30,7 +30,7 @@ Although I prefer to present here non-clean singing bands, **All Else Fails** sh
 
 Available on Bandcamp.
 
-\[bandcamp width=100% height=340 album=3223121055 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3223121055/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/AllElseFailsCanada>
 BUY: <https://allelsefails.bandcamp.com/>

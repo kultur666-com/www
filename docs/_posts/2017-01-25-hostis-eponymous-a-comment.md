@@ -31,7 +31,7 @@ Founded in 2010, **Hostis** is a trio with Srđan Mišović (vocals and drum pro
 
 Available on Bandcamp.
 
-\[bandcamp width=100% height=340 album=48072152 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=48072152/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <https://www.facebook.com/Hostismetal/>
 BUY: [https://www.discogs.com/sell/release/8891169  ](https://www.discogs.com/sell/release/8891169)LABEL: <http://www.miner.rs/>

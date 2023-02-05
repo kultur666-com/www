@@ -29,7 +29,7 @@ A death metal album from previous members of Funebrarum, ‘***Graves of Ceasele
 
 The production is well done, a high quality sound with good riffing and musicianship. A sure win if you’re looking for some new death metal. Available on Bandcamp.
 
-\[bandcamp width=100% height=439 album=1841636943 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1841636943/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 WEB: <http://weareruinous.com/>
 LIKE: <https://www.facebook.com/weareruinous/>

@@ -27,4 +27,4 @@ I’m nearly fond of this kind of music nearing *Amorphis* and Scandinavian meta
 
 Enjoy!
 
-\[bandcamp width=100% height=406 album=1173371466 size=large bgcol=333333 linkcol=e99708 artwork=none\]
+<iframe style="border: 0; width: 100%; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=1173371466/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>

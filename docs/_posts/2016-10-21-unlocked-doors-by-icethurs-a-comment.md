@@ -32,7 +32,7 @@ A well produced album where one is transported through joy and sadness along vic
 
 A fun album for one to divers its playlist, you can find **IceThurS**‘ ‘***Unlocked Doors***‘ on Bandcamp, Amazon, Google Play and iTunes.
 
-\[bandcamp width=100% height=439 album=2280816474 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=2280816474/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 **ORDER**: <https://budmetalrecords.bandcamp.com/releases>
 **ORDER iTunes**: <https://itunes.apple.com/en/album/id1155165194>

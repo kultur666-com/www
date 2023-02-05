@@ -34,7 +34,7 @@ Doomish one moment and blasting drums the other, the vocals are guttural and the
 
 You can find ***Extinction*** EP by **Burial Hordes** on Bancamp along their three full-length albums.
 
-\[bandcamp width=100% height=274 album=530968413 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=530968413/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 BUY: <https://burialhordes.bandcamp.com/>
 LABEL: <http://www.folter666.de/>

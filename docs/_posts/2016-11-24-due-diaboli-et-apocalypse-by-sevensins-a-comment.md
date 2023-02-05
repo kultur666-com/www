@@ -29,6 +29,6 @@ A symphonic blackened death metal album by an amazing band from Kazakhstan that 
 
 Formed in 2008 we are left wondering if we’ll hear more about this amazing band. Info is scarse and obscure but we do know that they sing about the medival times of their country and its alentours. Fortunately available on Bandcamp.
 
-\[bandcamp width=100% height=472 album=2095360177 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2095360177/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 LIKE: <http://www.facebook.com/septem.peccata>

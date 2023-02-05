@@ -32,7 +32,7 @@ I haven’t listened to the previous releases of **Mist Of Misery**, but ***Abse
 
 ***Absence*** is to be released through **Black Lion Productions** early August, meanwhile you can listen to the streaming sample through Bandcamp.
 
-\[bandcamp width=100% height=208 album=1259695550 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=1259695550/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
 
 Highly recommended for black metal fans and others.
 

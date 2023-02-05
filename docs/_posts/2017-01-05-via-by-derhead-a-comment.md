@@ -32,4 +32,4 @@ The ***Via*** EP is well produced and the songs are well written, giving us fres
 
 If you’re a fan of black metal and is looking for some new material, ***Via*** by **Derhead** is highly recommended. Available on Bandcamp to stream before buying.
 
-\[bandcamp width=100% height=241 album=190960442 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=190960442/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/" seamless></iframe>
