@@ -1,6 +1,6 @@
 ---
 id: 1814
-title: 'Drone Racing League - A New Tomorrow&#8217;s Sport'
+title: 'Drone Racing League - A New Tomorrow\'s Sport'
 date: '2016-01-26T21:09:16+00:00'
 author: syr3fx
 excerpt: 'Some words on the Drone Racing League.'

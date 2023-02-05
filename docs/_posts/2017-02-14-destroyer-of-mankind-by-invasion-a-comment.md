@@ -1,6 +1,6 @@
 ---
 id: 8577
-title: '&#8216;Destroyer Of Mankind&#8217; by Invasion - A Comment'
+title: '\'Destroyer Of Mankind\' by Invasion - A Comment'
 date: '2017-02-14T00:30:47+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Destroyer Of Mankind'' album by Invasion (2017).'

@@ -1,6 +1,6 @@
 ---
 id: 8010
-title: '&#8216;Into the Kingdom of Graves&#8217; by Tyrants Blood - A Comment'
+title: '\'Into the Kingdom of Graves\' by Tyrants Blood - A Comment'
 date: '2017-01-25T00:20:48+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Into the Kingdom of Graves'' album by Tyrants Blood (2013).'

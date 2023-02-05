@@ -1,6 +1,6 @@
 ---
 id: 1752
-title: 'Opening A Barrel Of Perique At Cornell &amp; Diehl&#8217;s'
+title: 'Opening A Barrel Of Perique At Cornell &amp; Diehl\'s'
 date: '2016-01-19T06:37:42+00:00'
 author: syr3fx
 excerpt: 'About Perique and a bit on how it is processed.'

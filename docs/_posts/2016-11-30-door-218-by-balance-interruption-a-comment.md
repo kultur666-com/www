@@ -1,6 +1,6 @@
 ---
 id: 6974
-title: '&#8216;Door 218&#8217; by Balance Interruption - A Comment'
+title: '\'Door 218\' by Balance Interruption - A Comment'
 date: '2016-11-30T00:10:18+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Door 218'' album by Balance Interruption (2016).'

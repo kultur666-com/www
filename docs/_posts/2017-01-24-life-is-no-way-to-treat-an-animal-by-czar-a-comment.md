@@ -1,6 +1,6 @@
 ---
 id: 7922
-title: '&#8216;Life Is No Way To Treat An Animal&#8217; by Czar - A Comment'
+title: '\'Life Is No Way To Treat An Animal\' by Czar - A Comment'
 date: '2017-01-24T00:10:30+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Life Is No Way To Treat An Animal'' album by CZAR (2017).'

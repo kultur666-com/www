@@ -1,6 +1,6 @@
 ---
 id: 5194
-title: '&#8216;The New Flesh&#8217; EP by Nonexist - A Comment'
+title: '\'The New Flesh\' EP by Nonexist - A Comment'
 date: '2016-10-01T00:10:51+00:00'
 author: syr3fx
 excerpt: 'A Comment on ''The New Flesh'' EP by Nonexist (2016). '

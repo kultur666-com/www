@@ -1,6 +1,6 @@
 ---
 id: 6777
-title: '&#8216;Abismal Speed Metal&#8217; by Culto Negro - A Comment'
+title: '\'Abismal Speed Metal\' by Culto Negro - A Comment'
 date: '2016-11-25T00:10:49+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Abismal Speed Metal'' album by Culto Negro (2016).'

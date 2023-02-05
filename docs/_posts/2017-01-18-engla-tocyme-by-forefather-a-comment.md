@@ -1,6 +1,6 @@
 ---
 id: 7846
-title: '&#8216;Engla Tocyme&#8217; by Forefather - A Comment'
+title: '\'Engla Tocyme\' by Forefather - A Comment'
 date: '2017-01-18T00:23:41+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Engla Tocyme'' album by Forefather (2002/2017). '

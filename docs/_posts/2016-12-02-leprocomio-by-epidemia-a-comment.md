@@ -1,6 +1,6 @@
 ---
 id: 6999
-title: '&#8216;Leprocomio&#8217; by Epidemia - A Comment'
+title: '\'Leprocomio\' by Epidemia - A Comment'
 date: '2016-12-02T00:10:56+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Leprocomio'' album by Epidemia (2016).'

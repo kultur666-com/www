@@ -1,6 +1,6 @@
 ---
 id: 6334
-title: '&#8216;Stop Believing Lies&#8217; by Mosh-Pit Justice - A Comment'
+title: '\'Stop Believing Lies\' by Mosh-Pit Justice - A Comment'
 date: '2016-11-02T14:24:22+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Stop Believing Lies'' album by Mosh-Pit Justice (2016).'

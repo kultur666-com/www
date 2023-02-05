@@ -1,6 +1,6 @@
 ---
 id: 2114
-title: 'Newminster&#8217;s No.403 Superior Round Slices - A Comment'
+title: 'Newminster\'s No.403 Superior Round Slices - A Comment'
 date: '2016-02-13T09:14:35+00:00'
 author: syr3fx
 excerpt: 'A comment on Newminster''s No.403 Superior Round Slices pipe tobacco.'

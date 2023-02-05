@@ -1,6 +1,6 @@
 ---
 id: 408
-title: 'F &amp; K&#8217;s Black Bayou Mist - A Comment'
+title: 'F &amp; K\'s Black Bayou Mist - A Comment'
 date: '2016-01-16T01:10:53+00:00'
 author: syr3fx
 excerpt: 'A comment of F &amp; K''s Black Bayou Mist pipe tobacco blend.'

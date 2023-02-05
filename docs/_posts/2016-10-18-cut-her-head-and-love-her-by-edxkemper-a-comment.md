@@ -1,6 +1,6 @@
 ---
 id: 5786
-title: '&#8216;Cut Her Head And Love Her&#8217; by EDxKEMPER - A Comment'
+title: '\'Cut Her Head And Love Her\' by EDxKEMPER - A Comment'
 date: '2016-10-18T00:43:47+00:00'
 author: syr3fx
 excerpt: 'A comment of the ''Cut Her Head And Love Her'' album by EDxKEMPER (2016).'

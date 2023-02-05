@@ -1,6 +1,6 @@
 ---
 id: 1877
-title: 'Lane Limited&#8217;s 1-Q - A Comment'
+title: 'Lane Limited\'s 1-Q - A Comment'
 date: '2016-01-29T00:10:04+00:00'
 author: syr3fx
 excerpt: 'A comment on Lane Limited''s 1-Q aromatic pipe tobacco.'

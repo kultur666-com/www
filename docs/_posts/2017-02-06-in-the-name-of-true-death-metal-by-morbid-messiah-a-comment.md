@@ -1,6 +1,6 @@
 ---
 id: 8348
-title: '&#8216;In the Name of True Death Metal&#8217; by Morbid Messiah - A Comment'
+title: '\'In the Name of True Death Metal\' by Morbid Messiah - A Comment'
 date: '2017-02-06T00:20:01+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''In the Name of True Death Metal'' album by Morbid Messiah (2016/2017).'

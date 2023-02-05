@@ -1,6 +1,6 @@
 ---
 id: 5583
-title: '&#8216;Into Oblivion&#8217; by Obsidian - A Comment'
+title: '\'Into Oblivion\' by Obsidian - A Comment'
 date: '2016-10-11T00:10:22+00:00'
 author: syr3fx
 excerpt: 'A comment on Obsidian''s ''Into Oblivion'' album (2016).'

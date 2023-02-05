@@ -1,6 +1,6 @@
 ---
 id: 1674
-title: 'Peterson&#8217;s Irish Flake - A Comment'
+title: 'Peterson\'s Irish Flake - A Comment'
 date: '2016-01-30T00:01:18+00:00'
 author: syr3fx
 excerpt: 'A comment on Peterson''s Irish Flake pipe tobacco flake.'

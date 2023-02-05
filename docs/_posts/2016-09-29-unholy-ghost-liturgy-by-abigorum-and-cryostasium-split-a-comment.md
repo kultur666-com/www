@@ -1,6 +1,6 @@
 ---
 id: 5158
-title: '&#8216;Unholy Ghost Liturgy&#8217; by Abigorum and Cryostasium (Split) - A Comment'
+title: '\'Unholy Ghost Liturgy\' by Abigorum and Cryostasium (Split) - A Comment'
 date: '2016-09-29T00:20:53+00:00'
 author: syr3fx
 excerpt: 'A comment on ''Unholy Ghost Liturgy'' by Abigorum and Cryostasium split album (2016)'

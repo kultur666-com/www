@@ -1,6 +1,6 @@
 ---
 id: 400
-title: 'Cornell &amp; Diehl&#8217;s Super Balkan - A Comment'
+title: 'Cornell &amp; Diehl\'s Super Balkan - A Comment'
 date: '2016-01-14T16:59:33+00:00'
 author: syr3fx
 excerpt: 'A comment of Cornell &amp; Diehl''s Super Balkan blend.'

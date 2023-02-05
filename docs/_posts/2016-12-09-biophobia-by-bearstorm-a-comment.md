@@ -1,6 +1,6 @@
 ---
 id: 7150
-title: '&#8216;Biophobia&#8217; by Bearstorm - A Comment'
+title: '\'Biophobia\' by Bearstorm - A Comment'
 date: '2016-12-09T00:10:30+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Biophobia'' EP by Bearstorm (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 6231
-title: '&#8216;The Rest Is Silence&#8217; by The Von Deer Skulls - A Comment'
+title: '\'The Rest Is Silence\' by The Von Deer Skulls - A Comment'
 date: '2016-10-31T23:07:32+00:00'
 author: syr3fx
 excerpt: 'A comment on the ''The Rest Is Silence'' album by The Von Deer Skulls (2016).'

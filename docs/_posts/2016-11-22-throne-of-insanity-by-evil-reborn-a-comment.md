@@ -1,6 +1,6 @@
 ---
 id: 6709
-title: '&#8216;Throne Of Insanity&#8217; by Evil Reborn - A Comment'
+title: '\'Throne Of Insanity\' by Evil Reborn - A Comment'
 date: '2016-11-22T00:10:22+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Throne Of Insanity'' album by Evil Reborn (2016).'

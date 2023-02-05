@@ -1,6 +1,6 @@
 ---
 id: 5716
-title: '&#8216;Round 2: Fight!&#8217; by Illyrian - A Comment'
+title: '\'Round 2: Fight!\' by Illyrian - A Comment'
 date: '2016-10-15T00:10:22+00:00'
 author: syr3fx
 excerpt: 'A comment on ''Round 2: Fight!'' album by Illyrian (2016). '

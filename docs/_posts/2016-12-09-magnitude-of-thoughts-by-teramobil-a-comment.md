@@ -1,6 +1,6 @@
 ---
 id: 7233
-title: '&#8216;Magnitude Of Thoughts&#8217; by Teramobil - A Comment'
+title: '\'Magnitude Of Thoughts\' by Teramobil - A Comment'
 date: '2016-12-09T00:50:09+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Magnitude Of Thoughts'' album by Teramobil (2016).'

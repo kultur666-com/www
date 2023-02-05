@@ -1,6 +1,6 @@
 ---
 id: 2741
-title: 'Dunhill&#8217;s Nightcap - A Comment'
+title: 'Dunhill\'s Nightcap - A Comment'
 date: '2016-05-21T00:59:53+00:00'
 author: syr3fx
 excerpt: 'A comment on Dunhill''s Nightcap pipe tobacco.'

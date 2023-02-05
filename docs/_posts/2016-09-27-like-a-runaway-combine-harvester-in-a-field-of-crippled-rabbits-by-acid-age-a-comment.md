@@ -1,6 +1,6 @@
 ---
 id: 5073
-title: '&#8216;Like A Runaway Combine Harvester In A Field Of Crippled Rabbits&#8217; by Acid Age - A Comment'
+title: '\'Like A Runaway Combine Harvester In A Field Of Crippled Rabbits\' by Acid Age - A Comment'
 date: '2016-09-27T00:10:05+00:00'
 author: syr3fx
 excerpt: 'A Comment on ''Like A Runaway Combine Harvester In A Field Of Crippled Rabbits'' album by Acid Age (2016).'

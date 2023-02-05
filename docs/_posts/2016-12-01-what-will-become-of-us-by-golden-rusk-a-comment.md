@@ -1,6 +1,6 @@
 ---
 id: 7101
-title: '&#8216;What Will Become Of Us?&#8217; by Golden Rusk - A Comment'
+title: '\'What Will Become Of Us?\' by Golden Rusk - A Comment'
 date: '2016-12-01T00:10:10+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''What Will Become Of Us?'' album by Golden Rusk (2016).'

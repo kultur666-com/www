@@ -1,6 +1,6 @@
 ---
 id: 1630
-title: 'Cornell &amp; Diehl&#8217;s Autumn Evening - A Comment'
+title: 'Cornell &amp; Diehl\'s Autumn Evening - A Comment'
 date: '2016-01-27T00:10:48+00:00'
 author: syr3fx
 excerpt: 'A comment of Cornell &amp; Diehl''s Autumn Evening aromatic pipe tobacco blend.'

@@ -1,6 +1,6 @@
 ---
 id: 412
-title: 'Cornell &amp; Diehl&#8217;s Pegasus - A Comment'
+title: 'Cornell &amp; Diehl\'s Pegasus - A Comment'
 date: '2016-01-19T00:24:26+00:00'
 author: syr3fx
 excerpt: 'A comment of Cornell &amp; Diehl''s Pegasus pipe tobacco blend.'

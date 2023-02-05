@@ -1,6 +1,6 @@
 ---
 id: 5812
-title: '&#8216;A Silent God&#8217; by Zornheym - A Comment'
+title: '\'A Silent God\' by Zornheym - A Comment'
 date: '2016-10-21T00:10:31+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''A Silent God'' single by Zornheym (2016).'

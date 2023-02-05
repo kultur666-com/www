@@ -1,6 +1,6 @@
 ---
 id: 396
-title: 'Cornell &amp; Diehl&#8217;s Mountain Camp - A Comment'
+title: 'Cornell &amp; Diehl\'s Mountain Camp - A Comment'
 date: '2016-01-21T00:10:20+00:00'
 author: syr3fx
 excerpt: 'A comment of Cornell &amp; Diehl''s Mountain Camp pipe tobacco blend.'

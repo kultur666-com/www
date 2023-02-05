@@ -1,6 +1,6 @@
 ---
 id: 2098
-title: 'Lane Limited&#8217;s Crown Achievement - A Comment'
+title: 'Lane Limited\'s Crown Achievement - A Comment'
 date: '2016-02-11T00:10:25+00:00'
 author: syr3fx
 excerpt: 'A comment on Lane Limited''s Crown Achievement pipe tobacco.'

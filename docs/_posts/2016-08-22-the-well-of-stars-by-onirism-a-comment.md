@@ -1,6 +1,6 @@
 ---
 id: 4443
-title: '&#8216;The Well Of Stars&#8217; by Onirism - A Comment'
+title: '\'The Well Of Stars\' by Onirism - A Comment'
 date: '2016-08-22T00:10:33+00:00'
 author: syr3fx
 excerpt: 'A comment on ''The Well Of Stars'' album by Onirism (2016).'

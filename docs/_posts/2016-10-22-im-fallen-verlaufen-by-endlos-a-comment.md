@@ -1,6 +1,6 @@
 ---
 id: 5887
-title: '&#8216;Im Fallen Verlaufen&#8217; by Endlos - A Comment'
+title: '\'Im Fallen Verlaufen\' by Endlos - A Comment'
 date: '2016-10-22T00:10:52+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Im Fallen Verlaufen'' album by Endlos (2016).'

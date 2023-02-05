@@ -1,6 +1,6 @@
 ---
 id: 7982
-title: '&#8216;Banging on the Pentagram&#8217; by Evil Force - A Comment'
+title: '\'Banging on the Pentagram\' by Evil Force - A Comment'
 date: '2017-01-25T00:10:08+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Banging on the Pentagram'' by Evil Force (2016).'

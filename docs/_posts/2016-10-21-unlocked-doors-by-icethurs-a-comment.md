@@ -1,6 +1,6 @@
 ---
 id: 5919
-title: '&#8216;Unlocked Doors&#8217; by IceThurs - A Comment'
+title: '\'Unlocked Doors\' by IceThurs - A Comment'
 date: '2016-10-21T00:20:17+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Unlocked Doors'' album by IceThurs (2016).'

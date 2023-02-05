@@ -1,6 +1,6 @@
 ---
 id: 4658
-title: '&#8216;Demons Of The Earth&#8217; by Saddiscore - A Comment'
+title: '\'Demons Of The Earth\' by Saddiscore - A Comment'
 date: '2016-09-02T00:10:19+00:00'
 author: syr3fx
 excerpt: 'A comment on Saddiscore''s ''Demons Of The Earth'' album  (2016).'

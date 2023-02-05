@@ -1,6 +1,6 @@
 ---
 id: 4742
-title: '&#8216;Hello, Operator&#8217; by Ironhand - A Comment'
+title: '\'Hello, Operator\' by Ironhand - A Comment'
 date: '2016-09-06T03:17:12+00:00'
 author: syr3fx
 excerpt: 'A comment on the ''Hello, Operator'' album by Ironhand (2016).'

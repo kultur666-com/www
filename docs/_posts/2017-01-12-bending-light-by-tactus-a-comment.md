@@ -1,6 +1,6 @@
 ---
 id: 7585
-title: '&#8216;Bending Light&#8217; by Tactus - A Comment'
+title: '\'Bending Light\' by Tactus - A Comment'
 date: '2017-01-12T00:57:49+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Bending Light'' album by Tactus (2016).'

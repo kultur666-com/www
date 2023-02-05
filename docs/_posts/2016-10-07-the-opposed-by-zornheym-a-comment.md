@@ -1,6 +1,6 @@
 ---
 id: 5489
-title: '&#8216;The Opposed&#8217; by Zornheym - A Comment'
+title: '\'The Opposed\' by Zornheym - A Comment'
 date: '2016-10-07T00:30:07+00:00'
 author: syr3fx
 excerpt: 'A Comment on the single ''The Opposed'' by Zornheym (2016).'

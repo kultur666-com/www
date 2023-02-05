@@ -1,6 +1,6 @@
 ---
 id: 392
-title: 'Cornell &amp; Diehl&#8217;s Engine 99 -  A Comment'
+title: 'Cornell &amp; Diehl\'s Engine 99 -  A Comment'
 date: '2016-01-14T15:54:37+00:00'
 author: syr3fx
 excerpt: 'A pipe tobacco comment of Cornell &amp; Diehl''s Engine 99.'

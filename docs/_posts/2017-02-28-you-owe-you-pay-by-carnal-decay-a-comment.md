@@ -1,6 +1,6 @@
 ---
 id: 8899
-title: '&#8216;You Owe You Pay&#8217; by Carnal Decay - A Comment'
+title: '\'You Owe You Pay\' by Carnal Decay - A Comment'
 date: '2017-02-28T20:42:08+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''You Owe You Pay'' album by Carnal Decay (2017).'

@@ -1,6 +1,6 @@
 ---
 id: 4057
-title: '&#8216;Innards Of Misanthropic Embodiment&#8217; by Infectology - A Comment'
+title: '\'Innards Of Misanthropic Embodiment\' by Infectology - A Comment'
 date: '2016-08-12T00:10:26+00:00'
 author: syr3fx
 excerpt: 'A comment of Infectology''s ''Innards Of Misanthropic Embodiment'' album (2016).'

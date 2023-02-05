@@ -1,6 +1,6 @@
 ---
 id: 8314
-title: '&#8216;Promised Land&#8217; by Valfreya - A Comment'
+title: '\'Promised Land\' by Valfreya - A Comment'
 date: '2017-02-06T00:10:40+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Promised Land'' album by Valfreya (2017).'

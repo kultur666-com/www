@@ -1,6 +1,6 @@
 ---
 id: 825
-title: 'Mac Baren&#8217;s 7 Seas Royal - A Comment'
+title: 'Mac Baren\'s 7 Seas Royal - A Comment'
 date: '2016-01-20T00:04:32+00:00'
 author: syr3fx
 excerpt: 'A comment of Mac Baren''s 7 Seas Royal pipe tobacco blend.'

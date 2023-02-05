@@ -1,6 +1,6 @@
 ---
 id: 7677
-title: '&#8216;The Cursed Travails of the Demeter&#8217; by Vircolac - A Comment'
+title: '\'The Cursed Travails of the Demeter\' by Vircolac - A Comment'
 date: '2017-01-16T00:10:23+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''The Cursed Travails of the Demeter'' album by Vircolac (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 4481
-title: '&#8216;Our Distopia&#8217; by Martyrion - A Comment'
+title: '\'Our Distopia\' by Martyrion - A Comment'
 date: '2016-08-26T00:10:37+00:00'
 author: syr3fx
 excerpt: 'A comment on ''Our Distopia'' by Martyrion (2016).'

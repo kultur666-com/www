@@ -1,6 +1,6 @@
 ---
 id: 1659
-title: 'Peterson&#8217;s Luxury Blend - A Comment'
+title: 'Peterson\'s Luxury Blend - A Comment'
 date: '2016-01-26T00:10:58+00:00'
 author: syr3fx
 excerpt: 'A comment of Peterson''s Luxury Blend aromatic pipe tobacco blend.'

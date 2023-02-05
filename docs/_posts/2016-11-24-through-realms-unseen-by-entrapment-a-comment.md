@@ -1,6 +1,6 @@
 ---
 id: 6804
-title: '&#8216;Through Realms Unseen&#8217; by Entrapment - A Comment'
+title: '\'Through Realms Unseen\' by Entrapment - A Comment'
 date: '2016-11-24T00:20:26+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Through Realms Unseen'' album by Entrapment (2016).'

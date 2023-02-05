@@ -1,6 +1,6 @@
 ---
 id: 8078
-title: '&#8216;Reign of Terror&#8217; by Acranius - A Comment'
+title: '\'Reign of Terror\' by Acranius - A Comment'
 date: '2017-01-26T02:53:44+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Reign of Terror'' new album by Acranius (2017).'

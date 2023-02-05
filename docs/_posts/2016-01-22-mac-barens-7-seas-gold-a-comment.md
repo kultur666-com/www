@@ -1,6 +1,6 @@
 ---
 id: 843
-title: 'Mac Baren&#8217;s 7 Seas Gold - A Comment'
+title: 'Mac Baren\'s 7 Seas Gold - A Comment'
 date: '2016-01-22T00:58:41+00:00'
 author: syr3fx
 excerpt: 'A comment of Mac Baren''s 7 Seas Gold pipe tobacco blend.'

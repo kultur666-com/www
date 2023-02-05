@@ -1,6 +1,6 @@
 ---
 id: 426
-title: 'Oh My God! It&#8217;s Shepard&#8217;s Pie!'
+title: 'Oh My God! It\'s Shepard\'s Pie!'
 date: '2016-01-06T06:43:25+00:00'
 author: syr3fx
 excerpt: 'A Metal Shepard''s pie recipe with Linzey Rae.'
