@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: '"The Old Continent" song by The Beast Within from Temperance album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3120'
-permalink: '/?p=3120'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

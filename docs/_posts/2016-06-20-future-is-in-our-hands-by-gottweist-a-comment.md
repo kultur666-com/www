@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on "Future Is In Our Hands" album by Gottweist (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3135'
-permalink: '/?p=3135'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -35,6 +34,6 @@ Keep them coming **Gottweist**.
 
 \[bandcamp width=100% height=120 album=903795199 size=large bgcol=333333 linkcol=0f91ff tracklist=false artwork=none\]
 
-**ORDER:** <https://gottweist.bandcamp.com/releases>  
-**ORDER:** [http://www collectivewave.ca/store](http://www%20collectivewave.ca/store)  
+**ORDER:** <https://gottweist.bandcamp.com/releases>
+**ORDER:** [http://www collectivewave.ca/store](http://www%20collectivewave.ca/store)
 **LIKE:** <http://www.facebook.com/gottweist>

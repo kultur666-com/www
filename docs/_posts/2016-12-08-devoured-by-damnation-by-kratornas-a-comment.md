@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Devoured By Damnation'' album by Kratornas (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7126'
-permalink: '/?p=7126'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,5 +33,5 @@ A good album to have in your playlist, ‘***Devoured By Damnation***‘ by **Kr
 
 \[bandcamp width=100% height=472 album=3690319955 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/officialkratornas>  
+LIKE: <https://www.facebook.com/officialkratornas>
 VISIT: <http://www.kratornas.com/>

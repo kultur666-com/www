@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Biophobia'' EP by Bearstorm (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7150'
-permalink: '/?p=7150'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -32,6 +31,6 @@ An intelligent EP album, ‘***Biophobia***‘ by **Bearstorm** is a band to fol
 
 \[bandcamp width=100% height=307 album=246047867 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-ORDER: <https://grimoirerecords.bandcamp.com/album/biophobia>  
-LIKE: <https://www.facebook.com/bearstormRVA>  
+ORDER: <https://grimoirerecords.bandcamp.com/album/biophobia>
+LIKE: <https://www.facebook.com/bearstormRVA>
 LABEL: <https://www.facebook.com/GrimoireRecords>

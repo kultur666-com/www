@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: '"Chameleon of the clouds" song by An Abstract Illusion from Atonement Is Nigh album (2014).'
 layout: post
 guid: 'http://kultur666.com/?p=2949'
-permalink: '/?p=2949'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

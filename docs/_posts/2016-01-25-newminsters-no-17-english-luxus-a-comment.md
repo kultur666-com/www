@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Newminster''s No.17 English Luxus pipe tobacco blend.'
 layout: post
 guid: 'http://kultur666.com/?p=1599'
-permalink: '/?p=1599'
 publicize_twitter_user:
     - kultur666
 categories:

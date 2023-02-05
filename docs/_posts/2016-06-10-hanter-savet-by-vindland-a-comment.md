@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Vindland''s new album "Hanter Savet".'
 layout: post
 guid: 'http://kultur666.com/?p=3059'
-permalink: '/?p=3059'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,5 +33,5 @@ The formation is made up of four members from France; although they do not sing 
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/dA0ttoUAzEc?feature=oembed" title="Vindland - Treuzwelus" width="500"></iframe>
 
-**ORDER:** [http://vindlandblacklion.bandcamp.com/album/hanter-savet](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=16bd9906cc&e=9efdf70388)  
+**ORDER:** [http://vindlandblacklion.bandcamp.com/album/hanter-savet](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=16bd9906cc&e=9efdf70388)
 **LIKE:** [https://www.facebook.com/vindlandBZH](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=08ff628f5a&e=9efdf70388)

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''La Nausée'' album by While They Sleep (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6118'
-permalink: '/?p=6118'
 timeline_notification:
     - '1477714576'
 publicize_twitter_user:
@@ -32,5 +31,5 @@ For fans of old school blackened doom metal, you can find ‘***La Nausée***‘
 
 \[bandcamp width=100% height=208 album=918795162 size=large bgcol=333333 linkcol=0f91ff artwork=small track=587318812\]
 
-BUY: <https://symbolofdomination.bandcamp.com/album/sodp054-while-they-sleep-la-nausee-2016>  
+BUY: <https://symbolofdomination.bandcamp.com/album/sodp054-while-they-sleep-la-nausee-2016>
 LABEL: <http://www.facebook.com/symbolofdominationprod> AND <http://www.morehate.com/>

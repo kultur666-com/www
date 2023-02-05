@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on Coldblood''s ''Indescribable Physiognomy Of The Devil'' album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5608'
-permalink: '/?p=5608'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,5 +32,5 @@ You can find **Coldblood**‘s ‘***Indescribable Physiognomy Of The Devil***�
 
 \[bandcamp width=100% height=472 album=3773257322 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <http://www.facebook.com/coldblood.officialpage>  
+LIKE: <http://www.facebook.com/coldblood.officialpage>
 BUY: <http://coldblood-deathmetal.bandcamp.com/>

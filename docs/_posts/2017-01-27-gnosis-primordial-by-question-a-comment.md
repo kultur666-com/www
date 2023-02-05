@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Gnosis Primordial'' EP by Question (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8143'
-permalink: '/?p=8143'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

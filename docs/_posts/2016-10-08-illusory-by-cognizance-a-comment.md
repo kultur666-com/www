@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on the Illusory EP by Cognizance (2016)'
 layout: post
 guid: 'http://kultur666.com/?p=5516'
-permalink: '/?p=5516'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -40,5 +39,5 @@ But you can listen to their EPs through the following Bandcamp streaming widget 
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/mmIRDkreWLw?feature=oembed" title="COGNIZANCE - The Making of "Illusory" Studio Documentary | GEAR GODS" width="500"></iframe>
 
-**LIKE**: <https://www.facebook.com/cognizanceband/>  
+**LIKE**: <https://www.facebook.com/cognizanceband/>
 **ORDER**: <https://cognizance.bandcamp.com/>

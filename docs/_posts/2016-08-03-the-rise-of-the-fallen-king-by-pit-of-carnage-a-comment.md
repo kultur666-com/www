@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Pit Of Carnage''s "The Rise Of The Fallen King" album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3670'
-permalink: '/?p=3670'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,6 +32,6 @@ Judge it by yourselves with the following streaming. As usual don’t be shy to 
 
 \[bandcamp width=100% height=472 album=688098211 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER:** [http://www.cdnrecords.com/product/pit-of-carnage-the-rise-of-the-fallen-king/](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=44dd7c9093&e=9efdf70388) AND <https://pitofcarnage.bandcamp.com/>  
-**LIKE:** [https://www.facebook.com/pitofcarnage](http://fullblastpr.us8.list-manage2.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=6ec1e0fe9f&e=9efdf70388)  
+**ORDER:** [http://www.cdnrecords.com/product/pit-of-carnage-the-rise-of-the-fallen-king/](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=44dd7c9093&e=9efdf70388) AND <https://pitofcarnage.bandcamp.com/>
+**LIKE:** [https://www.facebook.com/pitofcarnage](http://fullblastpr.us8.list-manage2.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=6ec1e0fe9f&e=9efdf70388)
 **LABEL**: [http://www.cdnrecords.com](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=3bab432950&e=9efdf70388)

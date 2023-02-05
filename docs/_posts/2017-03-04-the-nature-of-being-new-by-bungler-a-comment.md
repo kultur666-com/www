@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''The Nature of Being New'' album by Bungler (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8954'
-permalink: '/?p=8954'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -38,6 +37,6 @@ Have a listen:
 
 \[bandcamp width=100% height=472 album=3639138454 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/BunglerBand>  
-BUY: <https://innerstrengthrecords.bandcamp.com/album/bungler-the-nature-of-being-new>  
+LIKE: <https://www.facebook.com/BunglerBand>
+BUY: <https://innerstrengthrecords.bandcamp.com/album/bungler-the-nature-of-being-new>
 SPOTIFY: <https://open.spotify.com/album/57xzaDUVmgKSlDL8K3kyxe>

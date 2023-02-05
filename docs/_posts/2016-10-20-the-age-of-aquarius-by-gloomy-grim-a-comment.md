@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on ''The Age Of Aquarius'' album by Gloomy Grim (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5864'
-permalink: '/?p=5864'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,6 +32,6 @@ Using the theme of horror expect to be transported from song to song into a whir
 
 \[bandcamp width=100% height=472 album=3850035834 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/AgathonTheBeast/>  
-BUY: <https://satanath.bandcamp.com/album/sat151-gloomy-grim-the-age-of-aquarius-2016>  
+LIKE: <https://www.facebook.com/AgathonTheBeast/>
+BUY: <https://satanath.bandcamp.com/album/sat151-gloomy-grim-the-age-of-aquarius-2016>
 LABEL: <https://satanath.bandcamp.com/> AND <https://www.facebook.com/MurdHerRecords/>

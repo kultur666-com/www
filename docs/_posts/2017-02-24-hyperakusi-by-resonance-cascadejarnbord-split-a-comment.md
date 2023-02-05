@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Hyperakusi split album by Resonance Cascade and Järnbörd (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8764'
-permalink: '/?p=8764'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,5 +33,5 @@ Highly recommended, ***Hyperakusi***, which means”*hypersensitivity to everyda
 
 \[bandcamp width=100% height=472 album=4240868524 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/rxcxgrind/> &amp; <https://www.facebook.com/jarnboerd/>  
+LIKE: <https://www.facebook.com/rxcxgrind/> &amp; <https://www.facebook.com/jarnboerd/>
 LABEL: <http://www.wooaaargh.com/>

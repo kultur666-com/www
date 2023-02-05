@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Mac Baren''s 7 Seas Regular.'
 layout: post
 guid: 'http://kultur666.com/?p=815'
-permalink: '/?p=815'
 switch_like_status:
     - '1'
 publicize_twitter_user:

@@ -5,7 +5,6 @@ date: '2021-11-14T13:30:27+00:00'
 author: syr3fx
 layout: post
 guid: 'http://kultur666.com/?p=9104'
-permalink: '/?p=9104'
 spay_email:
     - ''
 jetpack_anchor_podcast:

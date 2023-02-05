@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on the ''Hello, Operator'' album by Ironhand (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=4742'
-permalink: '/?p=4742'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -31,6 +30,6 @@ Listen to the following Bandcamp streaming widget and judge by yourself.
 
 \[bandcamp width=100% height=472 album=3457159222 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER:** <https://ironhandnj.bandcamp.com/album/hello-operator>  
-**LIKE:** <http://www.facebook.com/pages/Ironhand/207287329287742>  
+**ORDER:** <https://ironhandnj.bandcamp.com/album/hello-operator>
+**LIKE:** <http://www.facebook.com/pages/Ironhand/207287329287742>
 **LABEL:** <http://www.xperimentxiii.com>

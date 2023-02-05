@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''In Dearth Of'' album by Death By Fungi (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6949'
-permalink: '/?p=6949'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,5 +33,5 @@ They are available on Bandcamp, as usual, be <span style="text-decoration:underl
 
 \[bandcamp width=100% height=274 album=2921782195 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/deathbyfungi>  
+LIKE: <https://www.facebook.com/deathbyfungi>
 BUY: <https://deathbyfungi.bandcamp.com/>

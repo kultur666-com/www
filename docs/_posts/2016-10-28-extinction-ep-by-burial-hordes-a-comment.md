@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on Extinction EP album by Burial Hordes (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6177'
-permalink: '/?p=6177'
 publicize_twitter_user:
     - kultur666
 timeline_notification:
@@ -37,5 +36,5 @@ You can find ***Extinction*** EP by **Burial Hordes** on Bancamp along their thr
 
 \[bandcamp width=100% height=274 album=530968413 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-BUY: <https://burialhordes.bandcamp.com/>  
+BUY: <https://burialhordes.bandcamp.com/>
 LABEL: <http://www.folter666.de/>

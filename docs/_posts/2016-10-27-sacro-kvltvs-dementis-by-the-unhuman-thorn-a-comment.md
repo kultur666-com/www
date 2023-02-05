@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Sacro-Kvltvs Dementis'' album by The Unhuman Thorn (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6042'
-permalink: '/?p=6042'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,6 +33,6 @@ A well recorded album with interesting riffs and good blast beats in the vein of
 
 \[bandcamp width=400 height=208 album=871094382 size=large bgcol=333333 linkcol=0f91ff artwork=small track=1845611207\]
 
-BUY: <https://symbolofdomination.bandcamp.com/track/sacro-kvltus-dementis>  
-LIKE: <http://www.facebook.com/theunhumanthorn.chile>  
+BUY: <https://symbolofdomination.bandcamp.com/track/sacro-kvltus-dementis>
+LIKE: <http://www.facebook.com/theunhumanthorn.chile>
 LABEL: <http://www.facebook.com/symbolofdominationprod> AND <http://www.facebook.com/baserecordproduction>

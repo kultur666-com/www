@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Into The Nebula'' album by Distant Sun   (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6652'
-permalink: '/?p=6652'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,6 +32,6 @@ I kind of enjoy the album as Mustaine is one of my idols. So what else from **Di
 
 \[bandcamp width=100% height=439 album=3329102785 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**BUY**: <https://metalism.bandcamp.com/album/into-the-nebula>  
-**LIKE**: <https://www.facebook.com/distantsunband/>  
+**BUY**: <https://metalism.bandcamp.com/album/into-the-nebula>
+**LIKE**: <https://www.facebook.com/distantsunband/>
 **FOLLOW:** <https://vk.com/distantsun>

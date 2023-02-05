@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Peterson''s Old Dublin English pipe tobacco blend.'
 layout: post
 guid: 'http://kultur666.com/?p=1666'
-permalink: '/?p=1666'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

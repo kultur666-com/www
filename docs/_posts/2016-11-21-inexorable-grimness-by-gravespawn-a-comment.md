@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Inexorable Grimness'' album by Gravespawn (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6591'
-permalink: '/?p=6591'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/TZheFtF3UDo'
 publicize_twitter_user:
@@ -33,5 +32,5 @@ Although a shorty, the album is available on CD today and available for streamin
 
 \[bandcamp width=100% height=307 album=1219056164 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-BUY: <https://gravespawn.bandcamp.com/album/inexorable-grimness>  
+BUY: <https://gravespawn.bandcamp.com/album/inexorable-grimness>
 LIKE: <https://www.facebook.com/GravespawnOfficial/>

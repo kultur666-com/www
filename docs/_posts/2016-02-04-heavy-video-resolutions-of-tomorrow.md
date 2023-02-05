@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'About 4K and its replacement. No, it might not be 8K...'
 layout: post
 guid: 'http://kultur666.com/?p=1023'
-permalink: '/?p=1023'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

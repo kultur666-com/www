@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'An article about dry snuff and how to mill its own.'
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=464'
-permalink: '/?p=464'
 switch_like_status:
     - '1'
 publicize_twitter_user:
@@ -35,14 +34,14 @@ After some time, I found some online stores selling Dry Snuff. The best in my op
 So, after a little reading from Arno’s blog and thinking, I guessed that what I needed to do was to find a way to grind some good tobacco and see if Dry Snuff would be an interesting way to part with my bad cigarette habit.
 
 > ## How to make Dry Snuff
-> 
+>
 > What you’ll need:
-> 
+>
 > - 0.25 oz of good English blend pipe tobacco
 > - One good wooden pepper grinder with an adjustable metallic mill
-> 
+>
 > Let the tobacco dry 12 to 18 hours if it ain’t dry enough (although I like to use the microwave to fast-dry tobacco in intermittent 30 second turns – 30 seconds on, 30 seconds wait for 6-8 minutes).
-> 
+>
 > For the pepper grinder, its wood keeps the tobacco fresh and dry and the metallic mill grinds the tobacco from the finest to a coarse powder depending of the adjustable mill screw.
 
 So there you have it. Dry Snuff for a fraction of the price.

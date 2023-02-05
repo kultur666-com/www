@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A rant about aromatic pipe tobacco and how I prefer natural blends lately.'
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=242'
-permalink: '/?p=242'
 image: /wp-content/uploads/2016/01/dunhillearlymorningpipemurrays-scaled.jpeg
 categories:
     - Pipe

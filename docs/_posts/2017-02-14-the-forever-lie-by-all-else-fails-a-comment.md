@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''The Forever Lie'' EP by All Else Fails (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8546'
-permalink: '/?p=8546'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,5 +32,5 @@ Available on Bandcamp.
 
 \[bandcamp width=100% height=340 album=3223121055 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/AllElseFailsCanada>  
+LIKE: <https://www.facebook.com/AllElseFailsCanada>
 BUY: <https://allelsefails.bandcamp.com/>

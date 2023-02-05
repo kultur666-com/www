@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''The Blackest Volume: Like All The Earth Was Buried'' album by Sunlight''s Bane (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8688'
-permalink: '/?p=8688'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,5 +33,5 @@ Highly recommended, â€˜***The Blackest Volume: Like All The Earth Was Buried***â
 
 \[bandcamp width=100% height=208 album=2011738608 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/sunlightsbane/>  
+LIKE: <https://www.facebook.com/sunlightsbane/>
 LABEL: <http://www.innerstrengthmusic.com/>

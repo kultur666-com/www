@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Cornell &amp; Diehl''s Pegasus pipe tobacco blend.'
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=412'
-permalink: '/?p=412'
 switch_like_status:
     - '1'
 publicize_twitter_user:

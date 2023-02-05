@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Song "Omnipresent Knife In Your Back" by Napalm Death  (2009).'
 layout: post
 guid: 'http://kultur666.com/?p=3534'
-permalink: '/?p=3534'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

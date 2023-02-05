@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Withering Lethargy song by Diligence (2014).'
 layout: post
 guid: 'http://kultur666.com/?p=2231'
-permalink: '/?p=2231'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

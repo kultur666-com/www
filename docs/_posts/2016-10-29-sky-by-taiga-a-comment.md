@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Sky album by Taiga (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6143'
-permalink: '/?p=6143'
 timeline_notification:
     - '1477714904'
 publicize_twitter_user:
@@ -33,5 +32,5 @@ If your a fan of DSBM then ***Sky*** by **Taiga** is for you and you can get the
 
 \[bandcamp width=100% height=406 album=1079641720 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/TaigaOfficialPage>  
+LIKE: <https://www.facebook.com/TaigaOfficialPage>
 LABEL: <http://www.facebook.com/symbolofdominationprod>

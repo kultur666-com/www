@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Corprophemia''s Abhorrogenesis album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3145'
-permalink: '/?p=3145'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -39,7 +38,7 @@ As I usually say, I prefer easy melodies. This is an album for fans of technical
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/0CgkA3XZyNE?feature=oembed" title="Corprophemia - Hour Of The Witch" width="500"></iframe>
 
-**ORDER:** <http://www.cdnrecords.com/product/corprophemia-abhorrogenesis/>  
-**LIKE:** <https://www.facebook.com/corprophemia>  
-**ORDER:** <http://www.corprophemia.bigcartel.com/>  
+**ORDER:** <http://www.cdnrecords.com/product/corprophemia-abhorrogenesis/>
+**LIKE:** <https://www.facebook.com/corprophemia>
+**ORDER:** <http://www.corprophemia.bigcartel.com/>
 **LABEL:** <http://www.cdnrecords.com/>

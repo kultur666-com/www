@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Apple Campus 2, August 2016 Update.'
 layout: post
 guid: 'http://kultur666.com/?p=4023'
-permalink: '/?p=4023'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Carry On The Black Flame by Black Pestilence.'
 layout: post
 guid: 'http://kultur666.com/?p=2889'
-permalink: '/?p=2889'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -37,5 +36,5 @@ Featuring Valax as the main member of the band *Carry On The Black Flame* is ano
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/yojB5qvTUEE?feature=oembed" title="Black Pestilence - Carry on the Black Flame (2016)" width="500"></iframe>
 
-**STREAM &amp; BUY:** [http://blackpestilence.bandcamp.com/album/carry-on-the-black-flame](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=f51b7d3513&e=9efdf70388)  
+**STREAM &amp; BUY:** [http://blackpestilence.bandcamp.com/album/carry-on-the-black-flame](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=f51b7d3513&e=9efdf70388)
 **LIKE:** [http://www.facebook.com/blackpestilenceband](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=0830f43992&e=9efdf70388)

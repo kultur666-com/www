@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Lethal Paralysis'' EP album by Psychotron (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5314'
-permalink: '/?p=5314'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -30,5 +29,5 @@ They have an awesome potential and I’m asking you to be generous and pre-order
 
 \[bandcamp width=100% height=274 album=4031110799 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/PsychotronOfficial>  
+LIKE: <https://www.facebook.com/PsychotronOfficial>
 BUY: <https://mortuaryrecords.bandcamp.com/>

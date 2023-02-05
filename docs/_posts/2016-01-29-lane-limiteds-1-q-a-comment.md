@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Lane Limited''s 1-Q aromatic pipe tobacco.'
 layout: post
 guid: 'http://kultur666.com/?p=1877'
-permalink: '/?p=1877'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

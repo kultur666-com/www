@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Defiatory''s Extinct album out on june 3rd 2016.'
 layout: post
 guid: 'http://kultur666.com/?p=2999'
-permalink: '/?p=2999'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -37,13 +36,13 @@ Looking for some new Trash sound? Buy **Extinct** by **Defiatory.**
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/TKMXUgsLYA0?feature=oembed" title="Defiatory - Aeons End" width="500"></iframe>
 
-Martin Runnzell – Vocals  
-Ronnie Björnström – Guitar  
-Ludvig Johansson – Lead Guitar  
-Patrik Wall – Bass  
+Martin Runnzell – Vocals
+Ronnie Björnström – Guitar
+Ludvig Johansson – Lead Guitar
+Patrik Wall – Bass
 Jon Skäre – Drums
 
-**ORDER:** [https://defiatoryblacklion.bandcamp.com/album/extinct](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=6217e75234&e=9efdf70388)  
+**ORDER:** [https://defiatoryblacklion.bandcamp.com/album/extinct](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=6217e75234&e=9efdf70388)
 **LIKE:** [https://www.facebook.com/defiatory  ](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=da40153c20&e=9efdf70388)**LABEL:** <https://blacklionproduction666.bandcamp.com/> and <https://www.facebook.com/blacklionprod666/>
 
 !,,!\_ Metal On \_!,,!

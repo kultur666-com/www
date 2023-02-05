@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Twingiant and Into the Storm cassette split (2017). '
 layout: post
 guid: 'http://kultur666.com/?p=7876'
-permalink: '/?p=7876'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,5 +32,5 @@ A nice intro into their music, discover both bands and surf their pages on Bandc
 
 \[bandcamp width=100% height=208 album=496650033 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-BUY Twingiant: <https://twingiant.bandcamp.com/>  
+BUY Twingiant: <https://twingiant.bandcamp.com/>
 BUY Into The Storm: <https://intothestorm.bandcamp.com/>

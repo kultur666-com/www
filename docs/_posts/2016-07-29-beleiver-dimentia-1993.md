@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Dimentia by Believer from Dimensions album (1993).'
 layout: post
 guid: 'http://kultur666.com/?p=3660'
-permalink: '/?p=3660'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

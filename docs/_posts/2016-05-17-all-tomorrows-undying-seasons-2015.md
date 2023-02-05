@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Undying Seasons by All Tomorrows from Sol Agnates album (2015).'
 layout: post
 guid: 'http://kultur666.com/?p=2944'
-permalink: '/?p=2944'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 7, playing some Sisters Of Suffocation, Corprophemia, Defiatory, Gottweist, Stages Of Decomposition, Saboter and Ironhand.  All permissions asked.'
 layout: post
 guid: 'http://kultur666.com/?p=4950'
-permalink: '/?p=4950'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/5qdYw8HDpJC'
 publicize_twitter_user:

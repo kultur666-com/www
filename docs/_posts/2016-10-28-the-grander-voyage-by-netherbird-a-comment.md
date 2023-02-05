@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''The Grander Voyage'' by Netherbird (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6092'
-permalink: '/?p=6092'
 timeline_notification:
     - '1477627952'
 publicize_google_plus_url:
@@ -31,7 +30,7 @@ A Sweden band, they are now poised to tour with this album and we’ll watch for
 
 \[bandcamp width=100% height=373 album=449056432 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-ORDER: <http://netherbird.bandcamp.com/album/the-grander-voyage>  
-LIKE: <http://facebook.com/netherbird>  
-WEB: <http://www.netherbird.com/>  
+ORDER: <http://netherbird.bandcamp.com/album/the-grander-voyage>
+LIKE: <http://facebook.com/netherbird>
+WEB: <http://www.netherbird.com/>
 LABEL: <http://www.soundpollutiondistribution.se/black-lodge>

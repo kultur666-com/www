@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Epitome Of Death song by Entrails (2015).'
 layout: post
 guid: 'http://kultur666.com/?p=3043'
-permalink: '/?p=3043'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

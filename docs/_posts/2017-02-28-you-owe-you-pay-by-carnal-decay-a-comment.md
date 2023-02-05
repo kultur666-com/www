@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''You Owe You Pay'' album by Carnal Decay (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8899'
-permalink: '/?p=8899'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -31,6 +30,6 @@ A great release to happen now, ‘***You Owe You Pay***‘ by **Carnal Decay** m
 
 \[bandcamp width=100% height=472 album=1750093701 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/carnaldecayband/>  
-BUY: <http://carnaldecay.bigcartel.com/>  
+LIKE: <https://www.facebook.com/carnaldecayband/>
+BUY: <http://carnaldecay.bigcartel.com/>
 LABEL: <http://risingnemesisrecords.bigcartel.com/>

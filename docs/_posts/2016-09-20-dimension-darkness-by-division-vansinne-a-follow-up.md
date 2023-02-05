@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A follow up on Division Vansinne''s ''Dimension Darkness'' album.'
 layout: post
 guid: 'http://kultur666.com/?p=4968'
-permalink: '/?p=4968'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

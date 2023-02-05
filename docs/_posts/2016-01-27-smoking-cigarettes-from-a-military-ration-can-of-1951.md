@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A youtube video where someone smokes a 1951 Chesterfield cigarette from a military ration can. '
 layout: post
 guid: 'http://kultur666.com/?p=1837'
-permalink: '/?p=1837'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

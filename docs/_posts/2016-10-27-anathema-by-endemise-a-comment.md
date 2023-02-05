@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on the Anathema album by Endemise (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6069'
-permalink: '/?p=6069'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -31,5 +30,5 @@ Having toured with big names and ***Anathema*** being their second full-length a
 
 \[bandcamp width=100% height=406 album=2693890828 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-VISIT: <http://www.endemise.com/>  
+VISIT: <http://www.endemise.com/>
 LIKE: <https://www.facebook.com/Endemise/>

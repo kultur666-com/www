@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Sutliff''s Tobacco Galleria: Fox &amp; Hound.'
 layout: post
 guid: 'http://kultur666.com/?p=827'
-permalink: '/?p=827'
 switch_like_status:
     - '1'
 publicize_twitter_user:

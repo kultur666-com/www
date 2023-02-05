@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Gezeteld in Zegeruïnen by Cultus''s black metal album.'
 layout: post
 guid: 'http://kultur666.com/?p=2507'
-permalink: '/?p=2507'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -45,5 +44,5 @@ https://heidenshart.bandcamp.com/album/gezeteld-in-zegeru-nen
 
 For more info look into the following links:
 
-www.facebook.com/heidenshart  
+www.facebook.com/heidenshart
 www.heidenshart.nl

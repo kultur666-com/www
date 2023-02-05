@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 9 - Playing some Abigorum/Cryostasium, Nonexist, Peter Grusel und die Unheimlichen, Netherbird, Defiatory, Tystnad and Eufori.  All permissions asked.'
 layout: post
 guid: 'http://kultur666.com/?p=5276'
-permalink: '/?p=5276'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

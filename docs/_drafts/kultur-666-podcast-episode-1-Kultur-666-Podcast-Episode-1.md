@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: "Playing some Urobilinemia, Guttural Corpora Cavernosa, Thirteenth Tambourine, Pit Of \nCarnage, Mist Of Misery, Hail Spirit Noir and Lung Sewage.  All permissions asked."
 layout: post
 guid: 'http://kultur666.com/?p=3999'
-permalink: '/?p=3999'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

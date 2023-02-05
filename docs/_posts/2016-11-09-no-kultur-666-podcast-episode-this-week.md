@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'No Kultur 666 Podcast Episode This Week.'
 layout: post
 guid: 'http://kultur666.com/?p=6455'
-permalink: '/?p=6455'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

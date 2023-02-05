@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Song "Gimme Chocolate!!" by Baby Metal.'
 layout: post
 guid: 'http://kultur666.com/?p=2642'
-permalink: '/?p=2642'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

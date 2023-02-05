@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Devilz by Definition''s The Devilution metal album.'
 layout: post
 guid: 'http://kultur666.com/?p=2569'
-permalink: '/?p=2569'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

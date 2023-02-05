@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Into the Kingdom of Graves'' album by Tyrants Blood (2013).'
 layout: post
 guid: 'http://kultur666.com/?p=8010'
-permalink: '/?p=8010'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,5 +35,5 @@ You can order the vinyl on Bandcamp.
 
 \[bandcamp width=100% height=472 album=1773262367 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/TYRANTSBLOOD>  
+LIKE: <https://www.facebook.com/TYRANTSBLOOD>
 BUY: <https://tridroid.bandcamp.com/album/into-the-kingdom-of-graves-special-edition>

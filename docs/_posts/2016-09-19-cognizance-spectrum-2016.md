@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Song Spectrum by Cognizance (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=4965'
-permalink: '/?p=4965'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

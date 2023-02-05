@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Song Beware Of Tramps by Gorod.'
 layout: post
 guid: 'http://kultur666.com/?p=2195'
-permalink: '/?p=2195'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

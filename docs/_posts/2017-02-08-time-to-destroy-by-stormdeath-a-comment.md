@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Time To Destroy'' album by Stormdeath (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=8428'
-permalink: '/?p=8428'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,6 +32,6 @@ Recommended to thrash metal fans looking for some good old-school northern thras
 
 \[bandcamp width=100% height=439 album=1538246338 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-BUY: <https://witchesbrewthrashes.bandcamp.com/album/time-to-destroy>  
-LIKE: <https://www.facebook.com/stormdeathband/>  
+BUY: <https://witchesbrewthrashes.bandcamp.com/album/time-to-destroy>
+LIKE: <https://www.facebook.com/stormdeathband/>
 WATCH: <https://www.youtube.com/user/TheStormdeath>

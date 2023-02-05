@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Memorandum Occultus'' album by The Committee (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8817'
-permalink: '/?p=8817'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

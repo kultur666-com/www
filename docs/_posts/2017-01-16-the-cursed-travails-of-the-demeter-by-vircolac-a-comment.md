@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''The Cursed Travails of the Demeter'' album by Vircolac (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7677'
-permalink: '/?p=7677'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''On The Verge Of Dysfunction'' EP by Speedwhore (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6363'
-permalink: '/?p=6363'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -32,6 +31,6 @@ A blackened trash metal band from Germany, they have a full-length album up thei
 
 With their blackish vocals and thrashy riffs and drums, ‘***On The Verge Of Dysfunction***‘ by **Speedwhore** is a refreshing album which is sure to please old-school and new thrash metal fans. Available on Bandcamp.
 
-\[bandcamp width=100% height=373 album=4145087038 size=large bgcol=333333 linkcol=0f91ff artwork=small\]  
-LIKE: <https://www.facebook.com/Speedwhore-124679414257404/>  
+\[bandcamp width=100% height=373 album=4145087038 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+LIKE: <https://www.facebook.com/Speedwhore-124679414257404/>
 BUY: <https://speedwhore.bandcamp.com/>

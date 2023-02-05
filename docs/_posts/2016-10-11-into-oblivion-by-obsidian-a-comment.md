@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Obsidian''s ''Into Oblivion'' album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5583'
-permalink: '/?p=5583'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -39,5 +38,5 @@ This is their second album after a well received debut album, ‘***Time Erodes*
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/8RB9TryDxPg?feature=oembed" title="HIGH CRIMES AND TREASON MUSIC VIDEO" width="500"></iframe>
 
-ORDER: <https://obsidianvancouver.bandcamp.com/album/into-oblivion>  
+ORDER: <https://obsidianvancouver.bandcamp.com/album/into-oblivion>
 LIKE: <https://www.facebook.com/ObsidianVancouver/>

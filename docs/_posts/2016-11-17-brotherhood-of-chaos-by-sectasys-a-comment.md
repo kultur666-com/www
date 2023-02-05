@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Brotherhood Of Chaos'' album by Sectasys (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6613'
-permalink: '/?p=6613'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/MeLqg7dxDj9'
 publicize_twitter_user:
@@ -32,6 +31,6 @@ Fans of black metal will enjoy the album and fans of death metal will love its b
 
 \[bandcamp width=100% height=472 album=2305006046 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/Sectasys/>  
-WATCH: <https://www.youtube.com/channel/UCN7kFI9NGFO7r2lvVOcxCrg>  
+LIKE: <https://www.facebook.com/Sectasys/>
+WATCH: <https://www.youtube.com/channel/UCN7kFI9NGFO7r2lvVOcxCrg>
 BUY: <https://sectasysvzla.bandcamp.com/album/brotherhood-of-chaos>

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Exta Malorvm album by Nebrus (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6310'
-permalink: '/?p=6310'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -35,5 +34,5 @@ Although in the veins of DSBM, ***Exta Malorvm*** is somewhat a good album with 
 
 \[bandcamp width=100% height=439 album=3487875609 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-ORDER: <https://nebrus.bandcamp.com/>  
+ORDER: <https://nebrus.bandcamp.com/>
 LIKE: <https://www.facebook.com/NEBRUSband/>

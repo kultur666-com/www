@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Video of Gojira''s song Stranded from Magma album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3114'
-permalink: '/?p=3114'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

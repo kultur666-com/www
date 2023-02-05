@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on ''Like A Runaway Combine Harvester In A Field Of Crippled Rabbits'' album by Acid Age (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5073'
-permalink: '/?p=5073'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,6 +33,6 @@ A really cool album if you’re into thrash metal and thrash/punk metal, ‘***L
 
 \[bandcamp width=100% height=472 album=1964909250 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**LIKE**: <https://www.facebook.com/acidagethrash>  
-**BUY**: <https://acidage.bandcamp.com/>  
+**LIKE**: <https://www.facebook.com/acidagethrash>
+**BUY**: <https://acidage.bandcamp.com/>
 **LABEL**: <http://www.witchesbrewthrashes.eu/>

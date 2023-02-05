@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'The near future of self-driving cars and one-seat autonomous drones. '
 layout: post
 guid: 'http://kultur666.com/?p=1000'
-permalink: '/?p=1000'
 switch_like_status:
     - '1'
 publicize_twitter_user:

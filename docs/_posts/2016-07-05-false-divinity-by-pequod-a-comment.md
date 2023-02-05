@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Pequod''s False Divinity album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3397'
-permalink: '/?p=3397'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -31,5 +30,5 @@ Mixed by Fredrik Folkare (Unleashed, Necrophobic) at Chrome Studios (Sweden), th
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/tU3r6W1FCj0?feature=oembed" title="PEQUOD - False Divinity (Lyric Video)" width="500"></iframe>
 
-**ORDER:** [http://www.pequod.eu/](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=a7c6914f34&e=9efdf70388)  
+**ORDER:** [http://www.pequod.eu/](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=a7c6914f34&e=9efdf70388)
 **LIKE:** [https://www.facebook.com/pequod.band](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=936bd0482b&e=9efdf70388)

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: '540 robots dancing for the new lunar calendar.'
 layout: post
 guid: 'http://kultur666.com/?p=2181'
-permalink: '/?p=2181'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

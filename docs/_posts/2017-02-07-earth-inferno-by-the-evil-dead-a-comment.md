@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Earth Inferno'' album by The Evil Dead (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8376'
-permalink: '/?p=8376'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

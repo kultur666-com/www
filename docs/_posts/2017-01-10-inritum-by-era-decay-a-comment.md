@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Inritum album by Era Decay (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7542'
-permalink: '/?p=7542'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -31,5 +30,5 @@ Although not found easily, you are asked to seek this album as it contains reall
 
 Unfortunately not found on Bandcamp.
 
-**ORDER:** <https://www.facebook.com/Eradecay>  
+**ORDER:** <https://www.facebook.com/Eradecay>
 **LIKE:** <https://www.facebook.com/Eradecay>

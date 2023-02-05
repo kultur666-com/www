@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Morbid Creation'' album by Inquiring Blood (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=8399'
-permalink: '/?p=8399'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -31,6 +30,6 @@ Having opened for many high profile bands such as *Aborted*, *Kataklysm* and *Be
 
 Although not available on Bandcamp, you can find the album on the **Kernkraftritter Records** Website. Recommended to fans of death metal in general.
 
-BUY: <http://www.kernkraftritter-records.de/>  
-LIKE: <https://www.facebook.com/inquiringblood>  
+BUY: <http://www.kernkraftritter-records.de/>
+LIKE: <https://www.facebook.com/inquiringblood>
 VISIT: <http://www.inquiringblood.com/>

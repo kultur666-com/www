@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Herzblut'' album by Projekt Mensch (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7212'
-permalink: '/?p=7212'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

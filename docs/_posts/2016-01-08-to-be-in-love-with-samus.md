@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Some words on Rainfall''s Metroid: The Sky Calls teaser/promo.'
 layout: post
 guid: 'http://kultur666.com/?p=697'
-permalink: '/?p=697'
 publicize_twitter_user:
     - kultur666
 image: /wp-content/uploads/2016/01/untitled.png

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Through Realms Unseen'' album by Entrapment (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6804'
-permalink: '/?p=6804'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,6 +33,6 @@ Truly an album to obtain and listen quite a lot, you can find Entrapment on Band
 
 \[bandcamp width=100% height=472 album=4076755919 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/entrapmentdeathmetal/>  
-BUY: <https://entrapment2.bandcamp.com/>  
+LIKE: <https://www.facebook.com/entrapmentdeathmetal/>
+BUY: <https://entrapment2.bandcamp.com/>
 LABEL: <http://www.pulverised.net/>

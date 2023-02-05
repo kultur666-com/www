@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on ''Pillars Of The Sky'' album by Netherbird (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5186'
-permalink: '/?p=5186'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,7 +32,7 @@ A mix of 90’s death and black metal, expect a unique sound with Netherbird and
 
 \[bandcamp width=100% height=208 album=4197373438 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER**: <https://netherbird.bandcamp.com/album/pillars-of-the-sky-single>  
-**LIKE**: <http://facebook.com/netherbird>  
-**WEB**: <http://www.netherbird.com/>  
+**ORDER**: <https://netherbird.bandcamp.com/album/pillars-of-the-sky-single>
+**LIKE**: <http://facebook.com/netherbird>
+**WEB**: <http://www.netherbird.com/>
 **LABEL**: <http://www.soundpollutiondistribution.se/black-lodge>

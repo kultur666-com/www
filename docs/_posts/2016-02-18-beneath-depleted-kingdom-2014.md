@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Depleted Kingdom song by Beneath.'
 layout: post
 guid: 'http://kultur666.com/?p=2206'
-permalink: '/?p=2206'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

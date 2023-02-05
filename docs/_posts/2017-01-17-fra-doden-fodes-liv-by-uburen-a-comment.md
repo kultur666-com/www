@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Frå Døden Fødes Liv'' album by Uburen (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7701'
-permalink: '/?p=7701'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -35,5 +34,5 @@ Not for the faint of heart. Available on Bandcamp.
 
 \[bandcamp width=100% height=439 album=646776602 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-ORDER: <http://store.vianocturna.com/uburen-fra-doden-fodes-liv-cd-p-1078.html>  
+ORDER: <http://store.vianocturna.com/uburen-fra-doden-fodes-liv-cd-p-1078.html>
 LIKE: <https://www.facebook.com/uburenofficial/>

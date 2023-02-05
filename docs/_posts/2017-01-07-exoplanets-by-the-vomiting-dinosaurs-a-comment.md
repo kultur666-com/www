@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment of the Exoplanets album by The Vomiting Dinosaurs (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=7506'
-permalink: '/?p=7506'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

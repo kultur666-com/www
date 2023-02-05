@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Wall Of Water''s eponymous first album.'
 layout: post
 guid: 'http://kultur666.com/?p=2845'
-permalink: '/?p=2845'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

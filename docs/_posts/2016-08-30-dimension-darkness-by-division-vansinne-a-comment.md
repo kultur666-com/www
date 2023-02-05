@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on ''Dimension Darkness'' by Division Vansinne (2016)'
 layout: post
 guid: 'http://kultur666.com/?p=4567'
-permalink: '/?p=4567'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,6 +32,6 @@ A trio from Stockholm, Sweden, they present us a eleven track album of good old 
 
 \[bandcamp width=100% height=472 album=1844657618 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**BUY**: <https://divisonvansinneblp.bandcamp.com/album/dimenson-darkness>  
-**LIKE**: <https://www.facebook.com/blacklionprod666/>  
+**BUY**: <https://divisonvansinneblp.bandcamp.com/album/dimenson-darkness>
+**LIKE**: <https://www.facebook.com/blacklionprod666/>
 **LABEL**: <http://blacklionprod666.bigcartel.com/>

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Some news on autonomous delivery drones with Amazon Prime Air.'
 layout: post
 guid: 'http://kultur666.com/?p=1712'
-permalink: '/?p=1712'
 publicize_twitter_user:
     - kultur666
 image: /wp-content/uploads/2016/01/prime-air_01-scaled.jpg

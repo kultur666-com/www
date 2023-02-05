@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'An article on star-warsian body armor. '
 layout: post
 guid: 'http://kultur666.com/?p=1763'
-permalink: '/?p=1763'
 publicize_twitter_user:
     - kultur666
 image: /wp-content/uploads/2016/01/lpurlp6vq9unfiheci6f_mandalorian_ar500_armor-01.jpg

@@ -5,7 +5,6 @@ date: '2016-10-10T00:10:11+00:00'
 author: syr3fx
 layout: post
 guid: 'http://kultur666.com/?p=5581'
-permalink: '/?p=5581'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

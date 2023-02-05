@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Exile Aux Confis Des Tourments'' album by Enoid (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7723'
-permalink: '/?p=7723'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,5 +32,5 @@ For true die-hard fans of Norwegian black metal, ‘***Exile Aux Confins Des Tou
 
 \[bandcamp width=100% height=406 album=374313387 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**BUY**: <https://enoid.bandcamp.com/album/exil-aux-confins-des-tourments>  
+**BUY**: <https://enoid.bandcamp.com/album/exil-aux-confins-des-tourments>
 **LIKE**: <https://www.facebook.com/enoidblackmetal>

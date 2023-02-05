@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Bewitcher''s eponymous album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=4286'
-permalink: '/?p=4286'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,6 +35,6 @@ Listen to the Bandcamp streaming widget below and add it to your playlist if the
 
 \[bandcamp width=100% height=439 album=868138847 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER:** [https://bewitcher.bandcamp.com/](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=e0ff719cc7&e=9efdf70388)  
-**LIKE:** [http://facebook.com/bewitcherofficial](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=f39af750f6&e=9efdf70388)  
+**ORDER:** [https://bewitcher.bandcamp.com/](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=e0ff719cc7&e=9efdf70388)
+**LIKE:** [http://facebook.com/bewitcherofficial](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=f39af750f6&e=9efdf70388)
 **WEB:** [http://www.cultofthebewitcher.com/](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=106b40d825&e=9efdf70388)

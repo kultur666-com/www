@@ -5,7 +5,6 @@ date: '2016-01-01T12:00:00+00:00'
 author: syr3fx
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=18'
-permalink: '/?p=18'
 categories:
     - Wishes
 tags:

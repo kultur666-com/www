@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Asunder EP by Samskaras (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=7820'
-permalink: '/?p=7820'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,5 +32,5 @@ If you’re seeking for something new, seek out ***Asunder*** by **Samskaras**. 
 
 \[bandcamp width=100% height=274 album=3554299774 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/SamskarasMetal/>  
+LIKE: <https://www.facebook.com/SamskarasMetal/>
 BUY: <https://samskarasmetal.bandcamp.com/>

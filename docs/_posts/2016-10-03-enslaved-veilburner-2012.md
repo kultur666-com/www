@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Song Veilburner by Enslaved from the album Riitiir (2012).'
 layout: post
 guid: 'http://kultur666.com/?p=5310'
-permalink: '/?p=5310'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

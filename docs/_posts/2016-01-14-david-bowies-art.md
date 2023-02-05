@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Remembering David Bowie.'
 layout: post
 guid: 'http://kultur666.com/?p=1263'
-permalink: '/?p=1263'
 switch_like_status:
     - '1'
 publicize_twitter_user:

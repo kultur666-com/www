@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Dissection''s Night''s Blood from ''Storm Of The Light''s Bane'' album (1995).'
 layout: post
 guid: 'http://kultur666.com/?p=4844'
-permalink: '/?p=4844'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

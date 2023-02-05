@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'An opinion on the Linux Mint distro.'
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=265'
-permalink: '/?p=265'
 switch_like_status:
     - '1'
 publicize_twitter_user:

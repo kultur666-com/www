@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Spirit Of The Forest''s ''A Void Into The Fields Of Silence'' album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5391'
-permalink: '/?p=5391'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,6 +35,6 @@ In the vein of Emperor and Dissection, listen to the following Bandcamp streamin
 
 \[bandcamp width=100% height=472 album=1661317822 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-ORDER: <http://scumproductions.bandcamp.com/album/a-void-into-the-fields-of-silence-la-nature-oubli-e>  
-LIKE: <https://www.facebook.com/pages/Spirit-of-the-forest/225454954171337>  
+ORDER: <http://scumproductions.bandcamp.com/album/a-void-into-the-fields-of-silence-la-nature-oubli-e>
+LIKE: <https://www.facebook.com/pages/Spirit-of-the-forest/225454954171337>
 LABEL: <https://www.facebook.com/scumproductions/>

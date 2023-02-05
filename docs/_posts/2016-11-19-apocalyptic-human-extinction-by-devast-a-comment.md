@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Apocalyptic Human Extinction'' album by Devast (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6686'
-permalink: '/?p=6686'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -32,6 +31,6 @@ Heavy death in all its sense, **Devast**‘s ‘***Apocalyptic Human Extinction*
 
 \[bandcamp width=100% height=472 album=709490858 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER**: <http://www.gorehouseproductions.com/devast>  
-**LIKE**: <https://www.facebook.com/devastbdm>  
+**ORDER**: <http://www.gorehouseproductions.com/devast>
+**LIKE**: <https://www.facebook.com/devastbdm>
 **LABEL**: <http://www.gorehouseproductions.com>

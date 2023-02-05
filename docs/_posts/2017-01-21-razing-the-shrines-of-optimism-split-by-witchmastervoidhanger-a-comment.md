@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Razing the Shrines of Optimism'' split album by Witchmaster and Voidhanger (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=7895'
-permalink: '/?p=7895'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/1JhxeLQBk33'
 publicize_twitter_user:

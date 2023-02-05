@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Hope album by Mord''A''Stigmata (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8601'
-permalink: '/?p=8601'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -35,6 +34,6 @@ In all, ***Hope** by **Mord’A’Stigmata*** is a good dark album of four songs
 
 A must to have on your playlist, available on Bandcamp.
 
-BUY: <https://mordastigmata.bandcamp.com/>  
-LIKE: <https://www.facebook.com/mordastigmata>  
+BUY: <https://mordastigmata.bandcamp.com/>
+LIKE: <https://www.facebook.com/mordastigmata>
 LABEL: <https://paganrecords.bandcamp.com/>

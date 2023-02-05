@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Plague album by Hate Unbound (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8661'
-permalink: '/?p=8661'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,18 +33,18 @@ A really good album if you’re into the death/thrash style; well produced, with
 
 \[bandcamp width=100% height=472 album=1606111191 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/HateUnbound>  
+LIKE: <https://www.facebook.com/HateUnbound>
 BUY: <https://hateunbound.bandcamp.com/>
 
-***Spread The Plague Tour 2017:***  
-4.-13 New Haven, IN  
-4.-14 Chicago, IL  
-4.-15 Milwaukee, WI  
-4.-16 Des Moines, IA  
-4.-17 Peoria, IL  
-4.-18 St. Louis, MO  
-4.-19 Nashville, TN  
-4.-20 Louisville, KY  
-4.-21 Pittsburgh, PA  
-4.-22 Cleveland, OH  
+***Spread The Plague Tour 2017:***
+4.-13 New Haven, IN
+4.-14 Chicago, IL
+4.-15 Milwaukee, WI
+4.-16 Des Moines, IA
+4.-17 Peoria, IL
+4.-18 St. Louis, MO
+4.-19 Nashville, TN
+4.-20 Louisville, KY
+4.-21 Pittsburgh, PA
+4.-22 Cleveland, OH
 4.-23 Toledo, OH

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'France seeking to replace its AZERTY keyboard.'
 layout: post
 guid: 'http://kultur666.com/?p=1979'
-permalink: '/?p=1979'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

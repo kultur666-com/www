@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Omerta album by Misanthropia (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=7482'
-permalink: '/?p=7482'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Oi Magoi by Hail Spirit Noir progressive black rock.'
 layout: post
 guid: 'http://kultur666.com/?p=2609'
-permalink: '/?p=2609'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -35,6 +34,6 @@ They deliver 7 songs out of which 5 are of genius composition. Here’s *The Mer
 
 \[youtube https://www.youtube.com/watch?v=oOQhnQerRfo\]
 
-Like: **https://www.facebook.com/Hail-Spirit-Noir-260062670728238/**  
-Listen: **https://hsn666.bandcamp.com/album/oi-magoi**  
+Like: **https://www.facebook.com/Hail-Spirit-Noir-260062670728238/**
+Listen: **https://hsn666.bandcamp.com/album/oi-magoi**
 Buy: **https://www.amazon.ca/Oi-Magoi-Hail-Spirit-Noir/dp/B00GTSVN5S**

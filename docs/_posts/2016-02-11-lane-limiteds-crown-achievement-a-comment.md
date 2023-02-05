@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Lane Limited''s Crown Achievement pipe tobacco.'
 layout: post
 guid: 'http://kultur666.com/?p=2098'
-permalink: '/?p=2098'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

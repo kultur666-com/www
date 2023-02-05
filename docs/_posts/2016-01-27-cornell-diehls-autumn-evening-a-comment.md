@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Cornell &amp; Diehl''s Autumn Evening aromatic pipe tobacco blend.'
 layout: post
 guid: 'http://kultur666.com/?p=1630'
-permalink: '/?p=1630'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

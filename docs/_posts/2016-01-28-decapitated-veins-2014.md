@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Decapitated''s Veins official video.'
 layout: post
 guid: 'http://kultur666.com/?p=1870'
-permalink: '/?p=1870'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

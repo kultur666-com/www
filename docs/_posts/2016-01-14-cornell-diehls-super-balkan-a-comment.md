@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Cornell &amp; Diehl''s Super Balkan blend.'
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=400'
-permalink: '/?p=400'
 switch_like_status:
     - '1'
 publicize_twitter_user:

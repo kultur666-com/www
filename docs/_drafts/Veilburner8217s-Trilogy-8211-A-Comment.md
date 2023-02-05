@@ -5,7 +5,6 @@ date: '2016-10-27T23:44:19+00:00'
 author: syr3fx
 layout: post
 guid: 'http://kultur666.com/?p=5742'
-permalink: '/?p=5742'
 categories:
     - Uncategorized
 ---

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Song Tyhjä Tempelli by Oranssi Pazuzu (2013).'
 layout: post
 guid: 'http://kultur666.com/?p=4653'
-permalink: '/?p=4653'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

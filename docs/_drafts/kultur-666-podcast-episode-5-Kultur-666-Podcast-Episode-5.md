@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Kultur 666 Podcast Episode 5 of August 31st 2016. Playing some HIRS, Pequod, Netherbird, Division Vansinne, Saddiscore, Karmanjaka and Diabolus Amator.'
 layout: post
 guid: 'http://kultur666.com/?p=4559'
-permalink: '/?p=4559'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

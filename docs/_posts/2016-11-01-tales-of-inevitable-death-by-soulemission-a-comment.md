@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on the ''Tales of Inevitable Death'' album by Soulemission (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6282'
-permalink: '/?p=6282'
 timeline_notification:
     - '1477974233'
 publicize_twitter_user:
@@ -32,6 +31,6 @@ Essentially a black metal album, ‘**Tales of Inevitable Death**‘ navigates a
 
 With solid rhythmic beats by *Menthor* (Enthroned, Lvcifyre, Nightbringer), **Soulemission**‘s album has strong elements to make it a good one to have in our playlists. Available on Bandcamp.
 
-\[bandcamp width=100% height=406 album=367053610 size=large bgcol=333333 linkcol=0f91ff artwork=small\]  
-**LIKE**: <https://www.facebook.com/Soulemission>  
+\[bandcamp width=100% height=406 album=367053610 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+**LIKE**: <https://www.facebook.com/Soulemission>
 **LABEL**: <http://store.blacklion.nu/>

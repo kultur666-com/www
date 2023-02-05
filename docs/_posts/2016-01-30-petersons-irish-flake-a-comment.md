@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Peterson''s Irish Flake pipe tobacco flake.'
 layout: post
 guid: 'http://kultur666.com/?p=1674'
-permalink: '/?p=1674'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

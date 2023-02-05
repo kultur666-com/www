@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Spit The Blood eponymous album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7746'
-permalink: '/?p=7746'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,6 +33,6 @@ Available on Bandcamp.
 
 \[bandcamp width=100% height=439 album=2962190020 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-BUY: <https://spittheblood.bandcamp.com/releases>  
-LIKE: <https://www.facebook.com/Spit-The-Blood-435083173234574/>  
+BUY: <https://spittheblood.bandcamp.com/releases>
+LIKE: <https://www.facebook.com/Spit-The-Blood-435083173234574/>
 WATCH: <https://www.youtube.com/user/spittheblood>

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Song Army Of Me by Khonsu.'
 layout: post
 guid: 'http://kultur666.com/?p=2279'
-permalink: '/?p=2279'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

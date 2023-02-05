@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Song Murder Hole by Huron (2015).'
 layout: post
 guid: 'http://kultur666.com/?p=3050'
-permalink: '/?p=3050'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/3CDwK3gC7mg'
 publicize_twitter_user:

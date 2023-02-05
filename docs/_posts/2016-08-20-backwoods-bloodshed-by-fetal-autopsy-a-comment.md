@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on ''Backwoods Bloodshed'' album by Fetal Autopsy (2016)'
 layout: post
 guid: 'http://kultur666.com/?p=4382'
-permalink: '/?p=4382'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,6 +33,6 @@ Even though you will find **Fetal Autopsy** on Soundcloud, you will find most of
 
 \[bandcamp width=100% height=439 album=1091576329 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER:** [https://meathookrecords.bandcamp.com/album/fetal-autopsy-backwoods-bloodshed](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=bc8e0bb822&e=9efdf70388)  
-**LIKE:** [http://www.facebook.com/fetalautopsy](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=c3c13bb000&e=9efdf70388)  
+**ORDER:** [https://meathookrecords.bandcamp.com/album/fetal-autopsy-backwoods-bloodshed](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=bc8e0bb822&e=9efdf70388)
+**LIKE:** [http://www.facebook.com/fetalautopsy](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=c3c13bb000&e=9efdf70388)
 **LISTEN:** [http://www.soundcloud.com/fetal-autopsy](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=1d13aa9daa&e=9efdf70388)

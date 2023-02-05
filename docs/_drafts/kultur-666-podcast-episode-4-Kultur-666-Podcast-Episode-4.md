@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Playing some Antiquus Scriptum, Aegeon, Onirism, Fetal Autopsy and Surtur.  All permissions asked.'
 layout: post
 guid: 'http://kultur666.com/?p=4474'
-permalink: '/?p=4474'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/5TwtTcfcPT2'
 publicize_twitter_user:

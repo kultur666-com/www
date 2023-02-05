@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 11 - Playing some Obsidian, Coldblood, Rapheumets Well, Colemesis, Life''s December &amp; Illyrian.'
 layout: post
 guid: 'http://kultur666.com/?p=5771'
-permalink: '/?p=5771'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/ZjpbuEvqB96'
 publicize_twitter_user:

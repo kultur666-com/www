@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Some words on the Drone Racing League.'
 layout: post
 guid: 'http://kultur666.com/?p=1814'
-permalink: '/?p=1814'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

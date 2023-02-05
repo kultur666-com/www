@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Netherbird''s Windwards single (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3417'
-permalink: '/?p=3417'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,6 +33,6 @@ I invite you to listen to the following sample from bandcamp and to buy the sing
 
 \[bandcamp width=100% height=120 album=653293527 size=large bgcol=333333 linkcol=0f91ff tracklist=false artwork=small\]
 
-**ORDER:** [https://netherbird.bandcamp.com/album/windwards-single](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=4664acc169&e=9efdf70388)  
-**WEB:** [http://www.netherbird.com/](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=9d9e28aafa&e=9efdf70388)  
+**ORDER:** [https://netherbird.bandcamp.com/album/windwards-single](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=4664acc169&e=9efdf70388)
+**WEB:** [http://www.netherbird.com/](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=9d9e28aafa&e=9efdf70388)
 **LIKE:** [http://facebook.com/netherbird](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=56f40537e5&e=9efdf70388)

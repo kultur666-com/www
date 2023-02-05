@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Blacknack''s "Until the last piece of meat" song from the album "Servants".'
 layout: post
 guid: 'http://kultur666.com/?p=2721'
-permalink: '/?p=2721'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

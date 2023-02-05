@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Epitaphs album by Obscure Sphinx (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6888'
-permalink: '/?p=6888'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,5 +32,5 @@ What to say more? Go add the three albums to your playlist right now; you’re m
 
 \[bandcamp width=100% height=208 album=2426963722 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/obscuresphinx/>  
+LIKE: <https://www.facebook.com/obscuresphinx/>
 BUY: <https://obscuresphinx.bandcamp.com/album/epitaphs>

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Underdark''s song "Manifestation Of Denial" from "In The Name Of Chaos" album (2010).'
 layout: post
 guid: 'http://kultur666.com/?p=3327'
-permalink: '/?p=3327'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Rape Crisis Actor by Crisis Actor (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3774'
-permalink: '/?p=3774'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

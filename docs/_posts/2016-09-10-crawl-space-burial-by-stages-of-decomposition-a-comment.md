@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Stages Of Decomposition''s album ''Crawl Space Burial'' (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=4804'
-permalink: '/?p=4804'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,6 +35,6 @@ With well written songs and aggressive beats and riffs, listen to the Bandcamp s
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/5ZqH2fBi3yM?feature=oembed" title="Stages of Decomposition - Killing Under Possession (Official Music Video)" width="500"></iframe>
 
-<span style="color:#000000;">**ORDER**: <https://gorehouseproductions.bandcamp.com/album/crawl-space-burial></span>  
-<span style="color:#000000;">**LIKE:** </span><https://www.facebook.com/StagesofDecomposition>  
+<span style="color:#000000;">**ORDER**: <https://gorehouseproductions.bandcamp.com/album/crawl-space-burial></span>
+<span style="color:#000000;">**LIKE:** </span><https://www.facebook.com/StagesofDecomposition>
 <span style="color:#000000;">**LABEL:** </span><http://www.gorehouseproductions.com>

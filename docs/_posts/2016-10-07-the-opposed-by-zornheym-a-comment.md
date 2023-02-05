@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the single ''The Opposed'' by Zornheym (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5489'
-permalink: '/?p=5489'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/6C9GaeQ7LDa'
 publicize_twitter_user:
@@ -31,6 +30,6 @@ So for the moment we’ll listen to ‘The Opposed’ a couple of times, but sti
 
 \[bandcamp width=100% height=208 album=2258459772 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**LIKE**: <https://www.facebook.com/zornheym/>  
-**ORDER**: <https://non-serviam-records.bandcamp.com/album/zornheym-the-opposed>  
+**LIKE**: <https://www.facebook.com/zornheym/>
+**ORDER**: <https://non-serviam-records.bandcamp.com/album/zornheym-the-opposed>
 **LABEL**: <http://www.non-serviam-records.com/>

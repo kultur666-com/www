@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'An amazing drawing of David Bowie.'
 layout: post
 guid: 'http://kultur666.com/?p=1860'
-permalink: '/?p=1860'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

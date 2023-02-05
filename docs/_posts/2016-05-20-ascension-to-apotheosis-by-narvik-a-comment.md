@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Narvik''s Ascension to Apotheosis black metal album.'
 layout: post
 guid: 'http://kultur666.com/?p=2408'
-permalink: '/?p=2408'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

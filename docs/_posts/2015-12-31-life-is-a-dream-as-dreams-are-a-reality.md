@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'About memories within dreams.'
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=2'
-permalink: '/?p=9180'
 categories:
     - Thoughts
 tags:

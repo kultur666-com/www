@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Rapheumets Well - Fall 2016 Tour Dates'
 layout: post
 guid: 'http://kultur666.com/?p=5639'
-permalink: '/?p=5639'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -29,11 +28,11 @@ Having launched their latest album album, ‘***The Exile***‘, last March 18th
 
 Here’s the dates:
 
-Oct 28 – Hickory, NC – Wizard Saloon  
-Oct 29 – Spartansburg, SC – Ground Zero  
-Nov 1 – Spartansburg, SC – Ground Zero w/ Alestorm, Nekrogoblikon, Aether Realm  
-Nov 18 – Tampa Bay, FL – Swarm Fest  
-Nov 19 – Greenville, SC – Radio Room  
+Oct 28 – Hickory, NC – Wizard Saloon
+Oct 29 – Spartansburg, SC – Ground Zero
+Nov 1 – Spartansburg, SC – Ground Zero w/ Alestorm, Nekrogoblikon, Aether Realm
+Nov 18 – Tampa Bay, FL – Swarm Fest
+Nov 19 – Greenville, SC – Radio Room
 Nov 30 – Raleigh, NC – Kings w/ Fleshgod Apocalypse, Arkona, The Agonist, Aether Realm
 
 You can find **Rapheumets Well**‘s ‘***The Exile***‘ on Bandcamp.

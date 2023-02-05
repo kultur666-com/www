@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'New podcast host, some tiny changes.'
 layout: post
 guid: 'http://kultur666.com/?p=4608'
-permalink: '/?p=4608'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

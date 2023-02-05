@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Newminster''s No.403 Superior Round Slices pipe tobacco.'
 layout: post
 guid: 'http://kultur666.com/?p=2114'
-permalink: '/?p=2114'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Sisters Of Suffocation''s Brutal Queen album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=4889'
-permalink: '/?p=4889'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/6qpwp4o3qW3'
 publicize_twitter_user:
@@ -38,5 +37,5 @@ So wait no more. Listen to the Bandcamp streaming widget below and discover by y
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/BcZqB1oDF7k?feature=oembed" title="SISTERS OF SUFFOCATION - Brutal Queen (Official Music Video)" width="500"></iframe>
 
-**LIKE**: <https://www.facebook.com/sistersofsuffocation/>  
+**LIKE**: <https://www.facebook.com/sistersofsuffocation/>
 **WATCH**: <https://www.youtube.com/channel/UC4k04ffrDND-43MgSPC1VGQ>

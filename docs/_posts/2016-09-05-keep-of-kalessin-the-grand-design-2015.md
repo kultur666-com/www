@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'The song ''The Grand Design'' by Keep Of Kalessin (2015)'
 layout: post
 guid: 'http://kultur666.com/?p=4696'
-permalink: '/?p=4696'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

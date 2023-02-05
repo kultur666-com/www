@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Dunhill''s Early Morning Pipe pipe tobacco.'
 layout: post
 guid: 'http://kultur666.com/?p=2736'
-permalink: '/?p=2736'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

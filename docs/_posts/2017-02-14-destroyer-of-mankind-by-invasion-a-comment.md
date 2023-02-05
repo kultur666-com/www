@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Destroyer Of Mankind'' album by Invasion (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8577'
-permalink: '/?p=8577'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -31,5 +30,5 @@ The riffs are catchy and the solos are really awesome. The whole album is a mech
 
 ‘***Destroyer Of Mankind***‘ by **Invasion** is awesome and a must-have for your playlist this year.
 
-BUY: <http://www.officialabyssrecords.com/abyss053cd-invasion-destroyer-of-mankind-cd.html>  
+BUY: <http://www.officialabyssrecords.com/abyss053cd-invasion-destroyer-of-mankind-cd.html>
 LIKE: <https://www.facebook.com/InvasionUSA>

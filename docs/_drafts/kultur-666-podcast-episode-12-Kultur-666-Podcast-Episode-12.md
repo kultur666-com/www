@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 12 - Playing some EDxKEMPER, Grotesque Ceremonium, Zornheym, Gloomy Grim, Acheronte, Endlos &amp; IceThurS. All permissions asked.'
 layout: post
 guid: 'http://kultur666.com/?p=5945'
-permalink: '/?p=5945'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Allgegenwärtig album by Streams of Blood (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8846'
-permalink: '/?p=8846'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,6 +32,6 @@ For the purest fans of black metal, ***Allgegenwärtig*** by **Streams of Blood*
 
 In the veins of Immortal, you can for the moment stream the previous albums of **Streams of Blood** while we wait for ***Allgegenwärtig*** to be online.
 
-LIKE: <https://www.facebook.com/StreamsOfficial/>  
-BUY: <https://streamsofblood.bandcamp.com/>  
+LIKE: <https://www.facebook.com/StreamsOfficial/>
+BUY: <https://streamsofblood.bandcamp.com/>
 LABEL: <http://www.folter666.de/>

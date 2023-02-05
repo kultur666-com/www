@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of ''Wriggling Chrysalis Of Metaphysical Grudge'' by Urobilinemia (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3473'
-permalink: '/?p=3473'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -38,6 +37,6 @@ A refreshing album is **Urobilinemia**‘s ‘***Wriggling Chrysalis Of Metaphys
 
 Buy their album, it is a must!
 
-**ORDER:** [http://smarturl.it/Urobilinemia](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=a579ab9b78&e=9efdf70388) **AND** <https://gorehouseproductions.bandcamp.com/album/wriggling-chrysalis-of-metaphysical-grudge-2>  
-**LIKE:** [https://www.facebook.com/urobilinemia1](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=7857786d81&e=9efdf70388)  
+**ORDER:** [http://smarturl.it/Urobilinemia](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=a579ab9b78&e=9efdf70388) **AND** <https://gorehouseproductions.bandcamp.com/album/wriggling-chrysalis-of-metaphysical-grudge-2>
+**LIKE:** [https://www.facebook.com/urobilinemia1](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=7857786d81&e=9efdf70388)
 **LABEL:** [www.gorehouseproductions.com](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=c5a7bc21fd&e=9efdf70388)

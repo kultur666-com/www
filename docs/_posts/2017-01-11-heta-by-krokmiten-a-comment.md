@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Heta album by Krokmitën (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7564'
-permalink: '/?p=7564'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

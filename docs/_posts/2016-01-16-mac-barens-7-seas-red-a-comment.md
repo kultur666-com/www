@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Mac Baren''s 7 Seas Red pipe tobacco blend.'
 layout: post
 guid: 'http://kultur666.com/?p=819'
-permalink: '/?p=819'
 switch_like_status:
     - '1'
 publicize_twitter_user:

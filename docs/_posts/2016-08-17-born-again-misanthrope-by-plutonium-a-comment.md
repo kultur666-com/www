@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on ''Born Again Misanthrope'' by Plutonium (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=4180'
-permalink: '/?p=4180'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,5 +35,5 @@ Listen to the following Bandcamp stream and buy the album, a must for most Black
 
 \[bandcamp width=100% height=439 album=1665326162 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**LIKE**: https://www.facebook.com/thetrueplutonium/  
+**LIKE**: https://www.facebook.com/thetrueplutonium/
 **BUY**: https://thetrueplutonium.bandcamp.com/

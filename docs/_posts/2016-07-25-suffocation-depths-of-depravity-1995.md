@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: '''Depths Of Depravity'' song by Suffocation from ''Pierced From Within'' album (1995).'
 layout: post
 guid: 'http://kultur666.com/?p=3599'
-permalink: '/?p=3599'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

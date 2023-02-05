@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Winterhymn''s Blood &amp; Shadow album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3128'
-permalink: '/?p=3128'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -39,7 +38,7 @@ Talented young folks with lots of potential for the future to come. Metal on!
 
 \[bandcamp width=100% height=472 album=805297409 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER:** [http://eng.soundage.org/shop/goods.php?id=5799](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=c745af3207&e=9efdf70388)  
-**LIKE:** [http://www.facebook.com/Winterhymn](http://fullblastpr.us8.list-manage2.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=648f2ec196&e=9efdf70388)  
-**WEB:** [http://www.winterhymn.net/](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=1151f52176&e=9efdf70388)  
+**ORDER:** [http://eng.soundage.org/shop/goods.php?id=5799](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=c745af3207&e=9efdf70388)
+**LIKE:** [http://www.facebook.com/Winterhymn](http://fullblastpr.us8.list-manage2.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=648f2ec196&e=9efdf70388)
+**WEB:** [http://www.winterhymn.net/](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=1151f52176&e=9efdf70388)
 **LABEL:** [http://soundage.org/](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=cf96b32984&e=9efdf70388)

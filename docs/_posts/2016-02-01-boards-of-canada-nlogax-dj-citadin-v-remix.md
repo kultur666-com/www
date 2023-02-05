@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Remix of Boards Of Canada''s Nlogax by DJ Citadin V.'
 layout: post
 guid: 'http://kultur666.com/?p=1963'
-permalink: '/?p=1963'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

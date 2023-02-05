@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Darkend''s The Canticle Of Shadows black metal album.'
 layout: post
 guid: 'http://kultur666.com/?p=2680'
-permalink: '/?p=2680'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,7 +35,7 @@ Here’s a video to sharpen the ears; *On The Defunct* by **Darkend**:
 
 Album coming out April 25th, 2016.
 
-**PRE-ORDER CD**: <http://www.non-serviam-records.com/shop.php#!/Darkend-The-Canticle-Of-Shadows-Limited-Digipack-Pre-order/p/62720066/category=5291899>  
-**PRE-ORDER DIGITAL**: <https://non-serviam-records.bandcamp.com/album/the-canticle-of-shadows>  
-**LIKE**: <https://www.facebook.com/darkendofficial>  
+**PRE-ORDER CD**: <http://www.non-serviam-records.com/shop.php#!/Darkend-The-Canticle-Of-Shadows-Limited-Digipack-Pre-order/p/62720066/category=5291899>
+**PRE-ORDER DIGITAL**: <https://non-serviam-records.bandcamp.com/album/the-canticle-of-shadows>
+**LIKE**: <https://www.facebook.com/darkendofficial>
 **LABEL**: <http://www.non-serviam-records.com/>

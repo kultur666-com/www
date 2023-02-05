@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Mors Secunda'' album by Terra (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7167'
-permalink: '/?p=7167'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -32,5 +31,5 @@ A cool album by **Terra** to have on its playlist, if you’re a fan of atmosphe
 
 \[bandcamp width=100% height=208 album=2598676560 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/TerraUK>  
+LIKE: <https://www.facebook.com/TerraUK>
 VISIT: <http://terra.band/>

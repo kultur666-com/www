@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Sutliff''s 965 Match pipe tobacco.'
 layout: post
 guid: 'http://kultur666.com/?p=2090'
-permalink: '/?p=2090'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/FotWtfdGjoV'
 publicize_twitter_user:

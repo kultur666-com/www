@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A thought on the Lulu album by Lou Reed &amp; Metallica (2011).'
 layout: post
 guid: 'http://kultur666.com/?p=5960'
-permalink: '/?p=5960'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

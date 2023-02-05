@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Life Is No Way To Treat An Animal'' album by CZAR (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=7922'
-permalink: '/?p=7922'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

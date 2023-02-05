@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Stop Believing Lies'' album by Mosh-Pit Justice (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6334'
-permalink: '/?p=6334'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -32,6 +31,6 @@ A really cool album in the movement of the new wave of thrash metal, a must for 
 
 ‘***Stop Believing Lies***‘ by **Mosh-Pit Justice** is available on Bandcamp.
 
-\[bandcamp width=100% height=406 album=4101576477 size=large bgcol=333333 linkcol=0f91ff artwork=small\]  
-LIKE: <https://www.facebook.com/moshpitjustice/>  
+\[bandcamp width=100% height=406 album=4101576477 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+LIKE: <https://www.facebook.com/moshpitjustice/>
 BUY: <https://mosh-pitjustice.bandcamp.com/>

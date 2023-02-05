@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on ''The Well Of Stars'' album by Onirism (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=4443'
-permalink: '/?p=4443'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -38,5 +37,5 @@ Be transported by the following Bandcamp streaming widget and buy, as Antoine is
 
 \[bandcamp width=100% height=307 album=775491505 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER**: [http://onirismband.bandcamp.com/album/the-well-of-stars-ep](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=c89dce32a3&e=9efdf70388)  
+**ORDER**: [http://onirismband.bandcamp.com/album/the-well-of-stars-ep](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=c89dce32a3&e=9efdf70388)
 **LIKE**: [https://www.facebook.com/Onirismband](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=fa706fba01&e=9efdf70388)

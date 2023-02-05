@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: '"All We Have Ever Known" song by Raze The Void (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3125'
-permalink: '/?p=3125'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

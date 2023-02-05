@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Good techno from SoundCloud.'
 layout: post
 guid: 'http://kultur666.com/?p=3338'
-permalink: '/?p=3338'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

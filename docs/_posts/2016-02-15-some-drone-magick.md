@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Doing magick with 24 drones.'
 layout: post
 guid: 'http://kultur666.com/?p=2202'
-permalink: '/?p=2202'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

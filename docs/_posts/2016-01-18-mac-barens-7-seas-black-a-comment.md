@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Mac Baren''s 7 Seas Black pipe tobacco blend.'
 layout: post
 guid: 'http://kultur666.com/?p=822'
-permalink: '/?p=822'
 publicize_twitter_user:
     - kultur666
 categories:

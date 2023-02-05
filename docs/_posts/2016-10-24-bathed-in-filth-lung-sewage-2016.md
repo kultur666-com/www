@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: '''Bathed In Filth'' by Lung Sewage (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6004'
-permalink: '/?p=6004'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

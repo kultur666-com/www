@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''A Silent God'' single by Zornheym (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5812'
-permalink: '/?p=5812'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -32,5 +31,5 @@ You can get the single ‘***A Silent God***‘ from **Zornheym** on bandcamp.
 
 \[bandcamp width=100% height=208 album=250027152 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**BUY**: <https://non-serviam-records.bandcamp.com/album/a-silent-god>  
+**BUY**: <https://non-serviam-records.bandcamp.com/album/a-silent-god>
 **LIKE**: <https://www.facebook.com/zornheym/>

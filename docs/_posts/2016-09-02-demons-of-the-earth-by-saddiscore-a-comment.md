@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Saddiscore''s ''Demons Of The Earth'' album  (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=4658'
-permalink: '/?p=4658'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/3REPZasqBxG'
 publicize_twitter_user:
@@ -33,7 +32,7 @@ Founded in 2011, they got the attention of their local fans and embarked into a 
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/oWKaBL3cQjM?feature=oembed" title="Too Far Away - Official Video" width="500"></iframe>
 
-LIKE: <https://www.facebook.com/Saddiscore>  
-LISTEN: <http://www.reverbnation.com/saddiscore>  
-VISIT: <https://www.saddiscore.de/>  
+LIKE: <https://www.facebook.com/Saddiscore>
+LISTEN: <http://www.reverbnation.com/saddiscore>
+VISIT: <https://www.saddiscore.de/>
 LABEL: <http://www.boersma-records.com/>

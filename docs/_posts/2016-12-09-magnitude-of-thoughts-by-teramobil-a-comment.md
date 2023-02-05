@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Magnitude Of Thoughts'' album by Teramobil (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7233'
-permalink: '/?p=7233'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,5 +35,5 @@ If you like experimental metal, seek **Teramobil**‘s ‘***Magnitude of Though
 
 \[bandcamp width=100% height=373 album=3012333143 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/Teramobil>  
+LIKE: <https://www.facebook.com/Teramobil>
 BUY: <https://teramobil.bandcamp.com/album/magnitude-of-thoughts>

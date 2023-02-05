@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of F &amp; K''s Black Bayou Mist pipe tobacco blend.'
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=408'
-permalink: '/?p=408'
 switch_like_status:
     - '1'
 publicize_twitter_user:

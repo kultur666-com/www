@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Bloodfields'' EP album by Wormlight (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7074'
-permalink: '/?p=7074'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/4m5SprdJ2wU'
 publicize_twitter_user:

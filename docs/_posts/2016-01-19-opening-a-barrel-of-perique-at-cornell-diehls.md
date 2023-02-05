@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'About Perique and a bit on how it is processed.'
 layout: post
 guid: 'http://kultur666.com/?p=1752'
-permalink: '/?p=1752'
 image: /wp-content/uploads/2016/01/vlcsnap-2016-01-18-15h46m26s803.png
 categories:
     - 'Cornell &amp; Diehl'

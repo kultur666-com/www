@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Song Satan Is Time by Hail Spirit Noir from the Oi Magoi album (2014).'
 layout: post
 guid: 'http://kultur666.com/?p=2382'
-permalink: '/?p=2382'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

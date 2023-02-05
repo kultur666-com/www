@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Eximperituserqethhzebibšiptugakkathšulweliarzaxułum''s Prajecyrujučy Sinhuliarnaje Wypramieńwańnie Daktryny Absaliutnaha J Usiopahłynaĺnaha Zła Skroź Šaścihrannuju Pryzmu Sîn​-​Ahhī​-​Erība Na Hipierpawierchniu Zadyjakaĺnaha Kaŭčęha Zasnawaĺnikaŭ Kosmatęchničnaha Ordęna Palieakantakta​.​.​. album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3764'
-permalink: '/?p=3764'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/UgfmM5CAVZB'
 publicize_twitter_user:
@@ -46,5 +45,5 @@ Isn’t the album cover gorgeous?
 
 \[bandcamp width=100% height=406 album=1814762780 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**LIKE:** <https://www.facebook.com/eximperitus.official/>  
+**LIKE:** <https://www.facebook.com/eximperitus.official/>
 **BUY:** <https://eximperitus.bandcamp.com/album/prajecyruju-y-sinhuliarnaje-wypramie-wa-nie-daktryny-absaliutnaha-j-usiopah-yna-naha-z-a-skro-a-cihrannuju-pryzmu-s-n-ahh-er-ba-na-hipierpawierchniu-zadyjaka-naha-ka-ha-zasnawa-nika-kosmat-chni-n>

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on the Absence album by Mist of Misery (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3541'
-permalink: '/?p=3541'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/K6CfDvGsVUw'
 publicize_twitter_user:
@@ -37,6 +36,6 @@ I haven’t listened to the previous releases of **Mist Of Misery**, but ***Abse
 
 Highly recommended for black metal fans and others.
 
-**LIKE**: <https://www.facebook.com/MistofMisery>  
-**LISTEN**: <https://mistofmisery.bandcamp.com/releases> AND <https://www.youtube.com/user/MistOfMiserySwe/videos> AND <https://soundcloud.com/mist-of-misery-sweden/>  
+**LIKE**: <https://www.facebook.com/MistofMisery>
+**LISTEN**: <https://mistofmisery.bandcamp.com/releases> AND <https://www.youtube.com/user/MistOfMiserySwe/videos> AND <https://soundcloud.com/mist-of-misery-sweden/>
 **LABEL**: <https://blacklionproduction666.bandcamp.com/>

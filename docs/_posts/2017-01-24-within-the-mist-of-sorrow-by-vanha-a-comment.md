@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Within the Mist of Sorrow'' album by Vanha (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7948'
-permalink: '/?p=7948'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,5 +33,5 @@ The album is well produced and the musicianship is all percepted from the beginn
 
 \[bandcamp width=100% height=373 album=4179831073 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/officialvanha/>  
+LIKE: <https://www.facebook.com/officialvanha/>
 BUY: <https://vanhablacklion.bandcamp.com/>

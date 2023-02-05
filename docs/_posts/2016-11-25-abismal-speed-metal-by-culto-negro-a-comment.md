@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Abismal Speed Metal'' album by Culto Negro (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6777'
-permalink: '/?p=6777'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -35,5 +34,5 @@ Be ready to unleash mayhem! Available on Bandcamp.
 
 \[bandcamp width=100% height=373 album=3889255573 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-BUY: <https://cultonegro.bandcamp.com/>  
+BUY: <https://cultonegro.bandcamp.com/>
 LIKE: <https://www.facebook.com/cultonegrocr>

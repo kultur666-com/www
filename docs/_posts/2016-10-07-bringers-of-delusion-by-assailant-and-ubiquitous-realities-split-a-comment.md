@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on the split album ''Bringers Of Delusion'' by Assailant and Ubiquitous Realities (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5436'
-permalink: '/?p=5436'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -31,6 +30,6 @@ From two of the most promising metal acts from Costa Rica, expect a really power
 
 \[bandcamp width=100% height=406 album=3806141108 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**LIKE Assailant**: <http://www.facebook.com/assailantcr>  
-**LIKE Ubiquitous Realities**: <http://www.facebook.com/ubiquitousrealities>  
+**LIKE Assailant**: <http://www.facebook.com/assailantcr>
+**LIKE Ubiquitous Realities**: <http://www.facebook.com/ubiquitousrealities>
 **LABELS**: <http://www.facebook.com/symbolofdominationprod> **AND** <http://www.thecavanstudio.com/>

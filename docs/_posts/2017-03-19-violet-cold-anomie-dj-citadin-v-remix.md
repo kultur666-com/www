@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Remix of Violet Cold''s Anomie song by DJ Citadin V.'
 layout: post
 guid: 'http://kultur666.com/?p=9014'
-permalink: '/?p=9014'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

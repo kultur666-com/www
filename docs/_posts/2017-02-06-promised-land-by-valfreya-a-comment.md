@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Promised Land'' album by Valfreya (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8314'
-permalink: '/?p=8314'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/F4Pf2SiDeKL'
 publicize_twitter_user:
@@ -36,7 +35,7 @@ So, you’re looking into epic metal but is still into the death realm, try ‘*
 
 \[bandcamp width=100% height=472 album=4240411509 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-VISIT: <http://www.valfreyaofficial.com/>  
-LIKE: <https://www.facebook.com/Valfreya.Metal/>  
-WATCH: <https://www.youtube.com/user/ValfreyaMetal>  
+VISIT: <http://www.valfreyaofficial.com/>
+LIKE: <https://www.facebook.com/Valfreya.Metal/>
+WATCH: <https://www.youtube.com/user/ValfreyaMetal>
 BUY: <https://valfreya.bandcamp.com/> AND <https://itunes.apple.com/us/album/promised-land/id1200001375>

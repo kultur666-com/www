@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Birth Of Setience song by Maahlas.'
 layout: post
 guid: 'http://kultur666.com/?p=2170'
-permalink: '/?p=2170'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

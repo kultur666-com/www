@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Infectology''s ''Innards Of Misanthropic Embodiment'' album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=4057'
-permalink: '/?p=4057'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,6 +35,6 @@ Listen to the streaming below to have a taste of their album and don’t forget 
 
 \[bandcamp width=100% height=406 album=3764019109 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER**: http://smarturl.it/Infectology\_BDM  
-**LIKE**: https://www.facebook.com/infectologybrutaldeath  
+**ORDER**: http://smarturl.it/Infectology\_BDM
+**LIKE**: https://www.facebook.com/infectologybrutaldeath
 **LABEL**: http://www.gorehouseproductions.com

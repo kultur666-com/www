@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'An excerpt on Blender, the Open Source 3D/CGI software.'
 layout: post
 guid: 'http://kultur666.com/?p=1297'
-permalink: '/?p=1297'
 switch_like_status:
     - '1'
 publicize_twitter_user:

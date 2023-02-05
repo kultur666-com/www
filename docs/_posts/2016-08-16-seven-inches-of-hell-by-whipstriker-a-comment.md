@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Whipstriker''s ''Seven Inches Of Hell'' double LP.'
 layout: post
 guid: 'http://kultur666.com/?p=4026'
-permalink: '/?p=4026'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -37,5 +36,5 @@ Here’s some streaming to make you look for **Whipstriker**‘s ‘***Seven Inc
 
 \[bandcamp width=100% height=241 album=62508823 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**BUY**: <http://www.whipstriker.bandcamp.com>  
+**BUY**: <http://www.whipstriker.bandcamp.com>
 **LIKE**: [http://www.facebook.com/whipstriker  ](http://www.facebook.com/whipstriker)**LABEL**: <https://folterrecords.bandcamp.com/> AND <http://www.folter666.de/>

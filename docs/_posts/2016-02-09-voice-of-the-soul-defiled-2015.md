@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Defiled music video by Voice of the Soul.'
 layout: post
 guid: 'http://kultur666.com/?p=2148'
-permalink: '/?p=2148'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

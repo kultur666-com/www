@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Graves Of Ceaseless Death'' album by Ruinous (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6499'
-permalink: '/?p=6499'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -32,6 +31,6 @@ The production is well done, a high quality sound with good riffing and musician
 
 \[bandcamp width=100% height=439 album=1841636943 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-WEB: <http://weareruinous.com/>  
-LIKE: <https://www.facebook.com/weareruinous/>  
+WEB: <http://weareruinous.com/>
+LIKE: <https://www.facebook.com/weareruinous/>
 BUY: [http://ruinous.bandcamp.com/releases](https://darkdescentrecords.bandcamp.com/album/graves-of-ceaseless-death)

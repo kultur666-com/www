@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 13 - Playing some Skewered, Bestialized, The Unhuman Thorn, Netherbird, Endemise, Taiga &amp; While They Sleep. All permissions asked.'
 layout: post
 guid: 'http://kultur666.com/?p=6171'
-permalink: '/?p=6171'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A pipe tobacco comment of Cornell &amp; Diehl''s Engine 99.'
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=392'
-permalink: '/?p=392'
 switch_like_status:
     - '1'
 publicize_twitter_user:

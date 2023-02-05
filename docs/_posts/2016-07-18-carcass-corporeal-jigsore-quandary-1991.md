@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Carcass''s song "Corporeal Jigsore Quandary" (1991).'
 layout: post
 guid: 'http://kultur666.com/?p=3526'
-permalink: '/?p=3526'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

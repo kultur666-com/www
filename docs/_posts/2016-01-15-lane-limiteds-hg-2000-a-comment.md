@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Lane Limited''s HG-2000 pipe tobacco blend.'
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=404'
-permalink: '/?p=404'
 switch_like_status:
     - '1'
 publicize_twitter_user:

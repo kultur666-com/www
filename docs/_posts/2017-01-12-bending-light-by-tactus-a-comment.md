@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Bending Light'' album by Tactus (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7585'
-permalink: '/?p=7585'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,5 +35,5 @@ Highly recommended. Available on Bandcamp and Spotify.
 
 \[bandcamp width=100% height=472 album=56354342 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**VISIT**: <http://www.tactusband.com>  
+**VISIT**: <http://www.tactusband.com>
 **BUY**: <https://tactusband.bandcamp.com/album/bending-light>

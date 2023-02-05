@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Unholy Infestation'' album by Desecrate the Faith (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8985'
-permalink: '/?p=8985'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,6 +33,6 @@ Highly recommended, available on Bandcamp and Spotify.
 
 \[bandcamp width=100% height=472 album=3508183829 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-BUY: <https://desecratethefaith.bandcamp.com/album/unholy-infestation>  
-LIKE: <https://www.facebook.com/desecratethefaithofficial/>  
+BUY: <https://desecratethefaith.bandcamp.com/album/unholy-infestation>
+LIKE: <https://www.facebook.com/desecratethefaithofficial/>
 SPOTIFY: <https://open.spotify.com/album/5yzQfg0QZiTHv0aNbBf6gx>

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Nothing To Lose'' album reissue by Battalions (2016/2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8872'
-permalink: '/?p=8872'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -35,5 +34,5 @@ So while waiting for their next release, relax and have a pounding rock’n’ro
 
 \[bandcamp width=100% height=406 album=2574994693 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/BattalionsSludge>  
+LIKE: <https://www.facebook.com/BattalionsSludge>
 BUY: <https://battalionsdirt.bandcamp.com/>

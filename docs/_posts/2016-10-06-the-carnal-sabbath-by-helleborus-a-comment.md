@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''The Carnal Sabbath'' album by Helleborus (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5339'
-permalink: '/?p=5339'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/MnXsX3PXc4e'
 publicize_twitter_user:
@@ -36,6 +35,6 @@ Check out for yourself through the following Bandcamp streaming widget.
 
 \[bandcamp width=100% height=439 album=37731634 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/HelleborusBlack/>  
-BUY: <https://helleborusblack.bandcamp.com/releases>  
+LIKE: <https://www.facebook.com/HelleborusBlack/>
+BUY: <https://helleborusblack.bandcamp.com/releases>
 LABELS: <http://satanath.com> AND <http://www.blackplaguerecords.com/>

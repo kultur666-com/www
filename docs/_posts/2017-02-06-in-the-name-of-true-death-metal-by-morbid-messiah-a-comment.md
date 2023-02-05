@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''In the Name of True Death Metal'' album by Morbid Messiah (2016/2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8348'
-permalink: '/?p=8348'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -35,5 +34,5 @@ Recommended to old death ears and young ones along. Available on Bandcamp.
 
 \[bandcamp width=100% height=373 album=1799143722 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/morbidmessiahofficial>  
+LIKE: <https://www.facebook.com/morbidmessiahofficial>
 LABEL: <http://www.godzovwar.com/>

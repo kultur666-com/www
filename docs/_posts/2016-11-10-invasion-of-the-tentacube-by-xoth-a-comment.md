@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on the ''Invasion Of The Tentacube'' album by Xoth (2016)'
 layout: post
 guid: 'http://kultur666.com/?p=6421'
-permalink: '/?p=6421'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,7 +33,7 @@ Available on Bandcamp.
 
 \[bandcamp width=100% height=439 album=4117307170 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**BUY**: <http://xoth.bandcamp.com/album/invasion-of-the-tentacube>  
-**LIKE**: <https://www.facebook.com/beholdxoth>  
-**TWEET**: [https://twitter.com/Behold\_Xoth](https://twitter.com/Behold_Xoth)  
+**BUY**: <http://xoth.bandcamp.com/album/invasion-of-the-tentacube>
+**LIKE**: <https://www.facebook.com/beholdxoth>
+**TWEET**: [https://twitter.com/Behold\_Xoth](https://twitter.com/Behold_Xoth)
 **WATCH**: [youtube.com/user/beholdXOTH](http://youtube.com/user/beholdXOTH)

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 3, playing some Plutonium, Zeal &amp; Ardor, Bewitcher, Idolatry, Athame, Shadow Witch and Whipstriker.  All permissions asked.'
 layout: post
 guid: 'http://kultur666.com/?p=4308'
-permalink: '/?p=4308'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/6yyqCTEZGBd'
 publicize_twitter_user:

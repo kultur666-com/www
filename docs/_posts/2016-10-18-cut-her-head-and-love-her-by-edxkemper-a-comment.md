@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of the ''Cut Her Head And Love Her'' album by EDxKEMPER (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5786'
-permalink: '/?p=5786'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -29,5 +28,5 @@ Another cool fact is that the album has been mastered by Dan Swano. The ‘***Cu
 
 \[bandcamp width=100% height=472 album=626031561 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**LIKE**: <https://www.facebook.com/edxkemper>  
+**LIKE**: <https://www.facebook.com/edxkemper>
 **BUY**: <https://edxkemper.bandcamp.com/>

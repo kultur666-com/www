@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the PrisonEgo album by Granada (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6546'
-permalink: '/?p=6546'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -32,7 +31,7 @@ An interesting album in Spanish for the new wave of thrash metal on your playlis
 
 \[bandcamp width=100% height=472 album=3746952958 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-BUY: <https://granadametal.bandcamp.com/>  
-VISIT: <http://www.granadametal.com/>  
-LIKE: <http://www.facebook.com/granadametal>  
+BUY: <https://granadametal.bandcamp.com/>
+VISIT: <http://www.granadametal.com/>
+LIKE: <http://www.facebook.com/granadametal>
 LABEL: <http://www.facebook.com/symbolofdominationprod>

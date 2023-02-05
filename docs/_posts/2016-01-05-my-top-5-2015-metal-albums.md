@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'My Top 5 of Metal albums from 2015.'
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=109'
-permalink: '/?p=109'
 categories:
     - '2015'
     - Metal

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Korridor Live PA @ Introspective, La Rochelle, France (2016)'
 layout: post
 guid: 'http://kultur666.com/?p=2270'
-permalink: '/?p=2270'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Omniverse''s album More To Explore EP (2014).'
 layout: post
 guid: 'http://kultur666.com/?p=3110'
-permalink: '/?p=3110'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/PXaZAz3RqJi'
 publicize_twitter_user:

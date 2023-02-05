@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Peterson''s Luxury Blend aromatic pipe tobacco blend.'
 layout: post
 guid: 'http://kultur666.com/?p=1659'
-permalink: '/?p=1659'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

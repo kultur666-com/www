@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A note on the new Lightworks 12.6 version.'
 layout: post
 guid: 'http://kultur666.com/?p=2061'
-permalink: '/?p=2061'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

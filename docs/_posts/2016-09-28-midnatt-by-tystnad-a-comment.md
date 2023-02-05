@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Midnatt album by Tystnad (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5131'
-permalink: '/?p=5131'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/cinAsX4aQVy'
 publicize_twitter_user:

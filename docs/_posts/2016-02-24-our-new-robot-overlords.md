@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Some words about Atlas the robot from Boston Dynamics.'
 layout: post
 guid: 'http://kultur666.com/?p=2235'
-permalink: '/?p=2235'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

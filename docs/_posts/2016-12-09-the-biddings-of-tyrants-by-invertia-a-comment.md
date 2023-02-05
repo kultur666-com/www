@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''The Biddings Of Tyrants'' album by Invertia (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7190'
-permalink: '/?p=7190'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -32,6 +31,6 @@ Available on Bandcamp, get it now!
 
 \[bandcamp width=100% height=472 album=979060933 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/invertiametal/>  
-BUY: <https://invertia.bandcamp.com/>  
+LIKE: <https://www.facebook.com/invertiametal/>
+BUY: <https://invertia.bandcamp.com/>
 VISIT: <https://inv3rtia.wordpress.com/>

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Kultur 666 Podcast Episode 6 published on September 7th 2016. Playing some Pentarium, Mist Of Misery, The Projectionist, Lethal Shock, Zornheym, Acid Age and Vulvodynia.  All permissions asked.'
 layout: post
 guid: 'http://kultur666.com/?p=4793'
-permalink: '/?p=4793'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

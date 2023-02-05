@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Some words on the Black Metal album "Litourgiya" of Batushka from Poland.'
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=24'
-permalink: '/?p=24'
 image: /wp-content/uploads/2016/01/cover.jpg
 categories:
     - 'Black Metal'

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''The Eyes of the Soulless'' album by Krepitus (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6853'
-permalink: '/?p=6853'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,7 +35,7 @@ A great album with good distortion and great vocals to have in your playlist and
 
 \[bandcamp width=100% height=406 album=3338271802 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/krepitusofficial>  
-TWEET: <https://twitter.com/krepitusmetal>  
-WATCH: <https://www.youtube.com/user/krepitusofficial>  
+LIKE: <https://www.facebook.com/krepitusofficial>
+TWEET: <https://twitter.com/krepitusmetal>
+WATCH: <https://www.youtube.com/user/krepitusofficial>
 BUY: <https://krepitus.bandcamp.com/album/eyes-of-the-soulless>

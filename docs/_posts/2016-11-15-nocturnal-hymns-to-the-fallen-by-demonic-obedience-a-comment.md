@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Nocturnal Hymns To The Fallen'' album by Demonic Obedience (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6569'
-permalink: '/?p=6569'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,5 +33,5 @@ To be in your playlist, you can find ‘***Nocturnal Hymns To The Fallen***‘ b
 
 \[bandcamp width=100% height=406 album=1908420959 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/demonicobedience>  
+LIKE: <https://www.facebook.com/demonicobedience>
 BUY: <https://demonicobedience.bandcamp.com/album/nocturnal-hymns-to-the-fallen>

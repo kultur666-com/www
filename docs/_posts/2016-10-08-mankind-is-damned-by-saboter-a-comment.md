@@ -5,7 +5,6 @@ date: '2016-10-08T00:30:16+00:00'
 author: syr3fx
 layout: post
 guid: 'http://kultur666.com/?p=5551'
-permalink: '/?p=5551'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -30,5 +29,5 @@ Very heavy metal-ish with vocals ‘à la’ Dickenson and Halford, along with r
 
 \[bandcamp width=100% height=406 album=1518418768 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**LIKE**: <https://www.facebook.com/saboterGR>  
+**LIKE**: <https://www.facebook.com/saboterGR>
 **LABEL**: <http://www.witchesbrewthrashes.eu/>

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Mac Baren''s 7 Seas Gold pipe tobacco blend.'
 layout: post
 guid: 'http://kultur666.com/?p=843'
-permalink: '/?p=843'
 publicize_twitter_user:
     - kultur666
 categories:

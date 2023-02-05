@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Engla Tocyme'' album by Forefather (2002/2017). '
 layout: post
 guid: 'http://kultur666.com/?p=7846'
-permalink: '/?p=7846'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

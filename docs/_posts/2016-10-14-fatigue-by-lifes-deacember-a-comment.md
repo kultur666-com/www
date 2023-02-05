@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Life''s December''s album ''Fatigue'' (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5669'
-permalink: '/?p=5669'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

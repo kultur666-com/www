@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Sacrosanct album by Epoch (2017). '
 layout: post
 guid: 'http://kultur666.com/?p=8253'
-permalink: '/?p=8253'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,5 +32,5 @@ A death metal act from Belgium, ***Sacrosanct*** is **Epoch**‘s only release y
 
 Generally a great album, ***Sacrosanct*** by **Epoch** is specially recorded with talent and innovation. A must to your playlist, you can find it on CD and digitally, as previously mentioned, on Bandcamp.
 
-LIKE: <https://www.facebook.com/Epoch-211652352187902/>  
+LIKE: <https://www.facebook.com/Epoch-211652352187902/>
 BUY: <https://epoch616.bandcamp.com/album/sacrosanct>

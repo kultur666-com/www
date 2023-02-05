@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Video of Maelstrom - Liberate Me Ex Inferis.'
 layout: post
 guid: 'http://kultur666.com/?p=1803'
-permalink: '/?p=1803'
 categories:
     - '2014'
     - 'Black Metal'

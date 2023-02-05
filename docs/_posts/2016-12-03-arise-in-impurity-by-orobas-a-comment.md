@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Arise In Impurity'' EP by Orobas (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7025'
-permalink: '/?p=7025'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,5 +32,5 @@ For the others searching for new stuff, lookout for â€˜***Arise in Impurity***â€
 
 \[bandcamp width=100% height=307 album=2733133642 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/orobasofficial>  
+LIKE: <https://www.facebook.com/orobasofficial>
 BUY: <https://orobasblacklion.bandcamp.com/>

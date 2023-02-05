@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Lane Limited''s 125th Anniversary pipe tobacco.'
 layout: post
 guid: 'http://kultur666.com/?p=2725'
-permalink: '/?p=2725'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/FFzkhCrUXnn'
 publicize_twitter_user:

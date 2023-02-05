@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Leprocomio'' album by Epidemia (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6999'
-permalink: '/?p=6999'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,6 +33,6 @@ The album has good songs and it is well produced. Available on Bandcamp.
 
 \[bandcamp width=100% height=406 album=3497512328 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/EPIDEMIAEC/>  
-LABEL: <http://www.musicahibrida.com/> and <http://satanath.com/>  
+LIKE: <https://www.facebook.com/EPIDEMIAEC/>
+LABEL: <http://www.musicahibrida.com/> and <http://satanath.com/>
 BUY: <https://satanath.bandcamp.com/album/sat147-epidemia-leprocomio-2016>

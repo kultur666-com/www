@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Lethal Shöck''s ''Evil Aggressors'' album (2016). '
 layout: post
 guid: 'http://kultur666.com/?p=4848'
-permalink: '/?p=4848'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,6 +33,6 @@ You can find **Lethal Shock**‘s ‘***Evil Aggressor***‘ on Bandcamp and thr
 
 \[bandcamp width=100% height=439 album=882329853 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**LABEL**: <http://www.witchesbrewthrashes.eu/>  
-**BUY**: <https://lethalshock.bandcamp.com/album/evil-aggressor>  
+**LABEL**: <http://www.witchesbrewthrashes.eu/>
+**BUY**: <https://lethalshock.bandcamp.com/album/evil-aggressor>
 **LIKE**: <https://www.facebook.com/lethalshockchicago/>

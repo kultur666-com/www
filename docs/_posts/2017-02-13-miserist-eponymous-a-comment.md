@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the eponymous album by Miserist   (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8449'
-permalink: '/?p=8449'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -35,5 +34,5 @@ A recommended album to fans of extreme metal, especially experimental instrument
 
 \[bandcamp width=100% height=340 album=2692547090 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-BUY: <https://miserist.bandcamp.com/album/miserist>  
+BUY: <https://miserist.bandcamp.com/album/miserist>
 LIKE: <https://www.facebook.com/miserist/>

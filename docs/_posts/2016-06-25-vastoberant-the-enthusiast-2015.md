@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: '"The Enthusiast" song by Vastoberant from Catharsis album (2015).'
 layout: post
 guid: 'http://kultur666.com/?p=3330'
-permalink: '/?p=3330'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/B7PmCQ2MEkm'
 publicize_twitter_user:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'About the Ehang 184 and our near future.'
 layout: post
 guid: 'http://kultur666.com/?p=1021'
-permalink: '/?p=1021'
 publicize_twitter_user:
     - kultur666
 image: /wp-content/uploads/2016/01/o-ehang-facebook.jpg

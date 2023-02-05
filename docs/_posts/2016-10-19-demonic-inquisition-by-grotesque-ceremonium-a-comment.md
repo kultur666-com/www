@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Demonic Inquisition'' album by Grotesque Ceremonium (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5836'
-permalink: '/?p=5836'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -32,6 +31,6 @@ You can find **Grotesque Ceremonium** on Bandcamp for streaming and buying the â
 
 \[bandcamp width=100% height=439 album=1262000766 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/grotesqueceremonium>  
-BUY: <https://grotesqueceremonium.bandcamp.com/>  
+LIKE: <https://www.facebook.com/grotesqueceremonium>
+BUY: <https://grotesqueceremonium.bandcamp.com/>
 LABEL: <http://www.morehate.com/> AND <http://satanath.com/>

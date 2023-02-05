@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Kronos''s Rapture In Misery song from Arisen New Era album (2015).'
 layout: post
 guid: 'http://kultur666.com/?p=3055'
-permalink: '/?p=3055'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

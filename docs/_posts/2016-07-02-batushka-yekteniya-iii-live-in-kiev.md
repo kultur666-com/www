@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Video of Batushka live in Kiev playing Yekteniya III.'
 layout: post
 guid: 'http://kultur666.com/?p=3341'
-permalink: '/?p=3341'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

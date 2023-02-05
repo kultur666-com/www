@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''The Ladder'' album by Palace of Worms (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8796'
-permalink: '/?p=8796'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

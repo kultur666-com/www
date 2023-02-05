@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Video of Kratornas - Archangels Of Destruction (2016)'
 layout: post
 guid: 'http://kultur666.com/?p=7559'
-permalink: '/?p=7559'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

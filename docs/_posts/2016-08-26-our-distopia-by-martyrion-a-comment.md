@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on ''Our Distopia'' by Martyrion (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=4481'
-permalink: '/?p=4481'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,6 +35,6 @@ Listen to the following track, a song featured in ‘***Our Distopia***‘, avai
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/zL8qDBJOaWg?feature=oembed" title="MARTYRION - What We Leave Behind (OFFICIAL VIDEO)" width="500"></iframe>
 
-LIKE: <https://www.facebook.com/MartyrionOfficial/>  
-VISIT: <http://www.martyrion.com>  
+LIKE: <https://www.facebook.com/MartyrionOfficial/>
+VISIT: <http://www.martyrion.com>
 LABEL: <http://www.boersma-records.com>

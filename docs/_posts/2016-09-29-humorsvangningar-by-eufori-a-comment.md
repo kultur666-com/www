@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Eufori''s Humörsvängningar album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5108'
-permalink: '/?p=5108'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,6 +33,6 @@ You can explore the following Bandcamp widget and have an idea of your own.
 
 \[bandcamp width=100% height=406 album=164824890 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**LIKE**: <https://www.facebook.com/EuforiSWE/>  
-**WATCH**: <https://www.youtube.com/channel/UCOO6opsMjPLiu7EUx0QZuoQ>  
+**LIKE**: <https://www.facebook.com/EuforiSWE/>
+**WATCH**: <https://www.youtube.com/channel/UCOO6opsMjPLiu7EUx0QZuoQ>
 **LABEL**: <http://store.blacklion.nu/>

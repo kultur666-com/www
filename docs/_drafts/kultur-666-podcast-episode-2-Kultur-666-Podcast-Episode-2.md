@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Playing some Crisis Actor, Infectology, Rotting Repugnancy, Corprophemia, Cuff, Phidion and Eximperitus.  All permissions asked.'
 layout: post
 guid: 'http://kultur666.com/?p=4167'
-permalink: '/?p=4167'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/ZfjXrwktmKa'
 publicize_twitter_user:

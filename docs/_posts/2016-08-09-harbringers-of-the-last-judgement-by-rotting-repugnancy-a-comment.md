@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of ''Harbringers Of The Last Judgement'' by Rotting Repugnancy (2016)'
 layout: post
 guid: 'http://kultur666.com/?p=4085'
-permalink: '/?p=4085'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,6 +33,6 @@ Listen to the streaming sample below and buy their album to have them on your pl
 
 \[bandcamp width=100% height=406 album=1599425759 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER**: <http://www.cdnrecords.com/product/rotting-repugnancy-harbingers-of-the-last-judgement/> AND <https://rottingrepugnancy.bandcamp.com/releases>  
-**LIKE**: <http://www.facebook.com/rottingrepugnancy>  
+**ORDER**: <http://www.cdnrecords.com/product/rotting-repugnancy-harbingers-of-the-last-judgement/> AND <https://rottingrepugnancy.bandcamp.com/releases>
+**LIKE**: <http://www.facebook.com/rottingrepugnancy>
 **WEB**: <http://rottingrepugnancy.yolasite.com/>

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Execration Diatribes'' album by Pestifer (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8513'
-permalink: '/?p=8513'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,5 +33,5 @@ Recommended to fans of old-school death metal and fans of European death metal,â
 
 \[bandcamp width=100% height=439 album=459989879 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/PESTIFERofficial/>  
+LIKE: <https://www.facebook.com/PESTIFERofficial/>
 BUY: <http://store.lavadome.org/>

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of Mac Baren''s 7 Seas Royal pipe tobacco blend.'
 layout: post
 guid: 'http://kultur666.com/?p=825'
-permalink: '/?p=825'
 publicize_twitter_user:
     - kultur666
 categories:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A compilation on pipe tobacco and tobacco pipe links on the Web.'
 layout: post
 guid: 'https://kultur666.wordpress.com/?p=415'
-permalink: '/?p=415'
 publicize_twitter_user:
     - kultur666
 image: /wp-content/uploads/2016/01/zmdubim-scaled.jpeg
@@ -35,78 +34,78 @@ So, all the text above is to lead to the links below about my favourite sites on
 
 ### Tobacco Stores
 
-- SmokingPipes.com 
-    - Maybe the best Website for pipes and pipe tobacco in my opinion. They excel in passion and quality for their services. 
+- SmokingPipes.com
+    - Maybe the best Website for pipes and pipe tobacco in my opinion. They excel in passion and quality for their services.
         - **[smokingpipes.com](http://www.smokingpipes.com/)**
-- ToqueSnuff.com 
-    - Maybe the best Website for Dry Snuff. I’m still looking for an American supplier ranging in the same seriousness and quality of service. 
+- ToqueSnuff.com
+    - Maybe the best Website for Dry Snuff. I’m still looking for an American supplier ranging in the same seriousness and quality of service.
         - **[toquesnuff.com](http://www.toquesnuff.com/)**
-- LeafOnly.com 
-    - Maybe the easiest way to get tobacco leaf by the pound by mail. They have a great variety of tobacco leafs. Don’t be picky as the industry might be, but you can’t get easier service for leaf by the pound by mail as this gets. 
+- LeafOnly.com
+    - Maybe the easiest way to get tobacco leaf by the pound by mail. They have a great variety of tobacco leafs. Don’t be picky as the industry might be, but you can’t get easier service for leaf by the pound by mail as this gets.
         - **[leafonly.com](https://www.leafonly.com/)**
 
 ### Pipe Tobacco Producers
 
-- G. L. Pease Blog 
-    - A great gentleman with intelligent Words and advice. Greg is a pipe tobacco poet. His knowledge and passion sure gets us by the emotions and his blog is a blessing for all of us. 
+- G. L. Pease Blog
+    - A great gentleman with intelligent Words and advice. Greg is a pipe tobacco poet. His knowledge and passion sure gets us by the emotions and his blog is a blessing for all of us.
         - **[glpease.com](http://www.glpease.com/)**
-- Cornell &amp; Diehl 
-    - A great pipe tobacco company in USA. Their range and variety is astonishing and you’ll sure spend a lot of time going through their inventory looking for the next perfect smoke. 
+- Cornell &amp; Diehl
+    - A great pipe tobacco company in USA. Their range and variety is astonishing and you’ll sure spend a lot of time going through their inventory looking for the next perfect smoke.
         - **[cornellanddiehl.com](http://cornellanddiehl.com/)**
-- McClelland Tobacco Company 
-    - Another great American pipe tobacco company. Lots of info on different types of blends. 
+- McClelland Tobacco Company
+    - Another great American pipe tobacco company. Lots of info on different types of blends.
         - **[mcclellandtobacco.com](http://www.mcclellandtobacco.com/)**
 
 ### Tobacco Review Sites
 
-- TobaccoReviews.com 
-    - A cool site for first hand reviews. Some are light hearted and some are very serious. You must visit this site on every new blend you try or are thinking of trying. 
+- TobaccoReviews.com
+    - A cool site for first hand reviews. Some are light hearted and some are very serious. You must visit this site on every new blend you try or are thinking of trying.
         - **[tobaccoreviews.com](http://www.tobaccoreviews.com/)**
-- LuxuryTobaccoReviews.com 
-    - Another cool site for pipe tobacco reviews. A visit to this one also is pertinent for your next new smoke. 
+- LuxuryTobaccoReviews.com
+    - Another cool site for pipe tobacco reviews. A visit to this one also is pertinent for your next new smoke.
         - **[luxurytobaccoreviews.com](http://luxurytobaccoreviews.com/)**
-- Cigars-Review.com 
-    - Although mainly for cigars, if you’re like me and enjoy a cigar once in while, you’ll like visiting this site for your next or new stoogy. 
+- Cigars-Review.com
+    - Although mainly for cigars, if you’re like me and enjoy a cigar once in while, you’ll like visiting this site for your next or new stoogy.
         - **[cigars-review.com](http://www.cigars-review.org/)**
 
 ### Tobacco Pipe Manufacturers and Artisan Pipe Makers
 
-- Savinelli 
-    - An *incontournable* of Italian pipe makers. Although most of their pipes are machine made, they are of very good quality and they offer a great Website for visiting their catalogue of pipes. 
+- Savinelli
+    - An *incontournable* of Italian pipe makers. Although most of their pipes are machine made, they are of very good quality and they offer a great Website for visiting their catalogue of pipes.
         - **[savinelli.it](http://www.savinelli.it/index.php)**
-- Peterson of Dublin 
-    - Another *incontournable* of pipe making. My favourite manufacturer, they have nice stuff on their Website. 
+- Peterson of Dublin
+    - Another *incontournable* of pipe making. My favourite manufacturer, they have nice stuff on their Website.
         - **[peterson.ie](http://www.peterson.ie/)**
-- Morgan Pipes 
-    - The only artisan pipe maker I’m listing here (I focus on eye pleasing Website navigation), Morgan Pipes is a cool Website where you can buy their pipes directly with them. I’m mostly fond of their Bones pipes. 
+- Morgan Pipes
+    - The only artisan pipe maker I’m listing here (I focus on eye pleasing Website navigation), Morgan Pipes is a cool Website where you can buy their pipes directly with them. I’m mostly fond of their Bones pipes.
         - **[morganpipes.com](http://www.morganpipes.com/)**
 
 ### Pipe Information
 
-- Pipedia.org 
-    - A great site to find a wide variety of information on pipes and pipe tobacco. If you’re new to pipe smoking or have a relatively low knowledge on pipes and tobacco, go to this Website. Lots and lots of information. 
+- Pipedia.org
+    - A great site to find a wide variety of information on pipes and pipe tobacco. If you’re new to pipe smoking or have a relatively low knowledge on pipes and tobacco, go to this Website. Lots and lots of information.
         - **[pipedia.org](http://pipedia.org/)**
-- PipePhil.eu 
-    - Although for more advanced pipers and pipe collectors, pipephil.eu is a great Website to scavenge for pipe history and pipe brands across the last century. 
+- PipePhil.eu
+    - Although for more advanced pipers and pipe collectors, pipephil.eu is a great Website to scavenge for pipe history and pipe brands across the last century.
         - **[pipephil.eu](http://www.pipephil.eu/)**
 
 ### Pipe Maker’s Supplies
 
-- Pimo Pipe Craft 
-    - Although a very basic 1998 style Website, you can order almost all the tools necessary to repair and craft your own pipes. 
+- Pimo Pipe Craft
+    - Although a very basic 1998 style Website, you can order almost all the tools necessary to repair and craft your own pipes.
         - **[pimopipecraft.com](http://www.pimopipecraft.com/index.html)**
-- PipeMakers.org 
-    - Another site that sells briar and stems to build your own pipes. 
+- PipeMakers.org
+    - Another site that sells briar and stems to build your own pipes.
         - **[pipemakers.org](http://www.pipemakers.org/)**
 
 ### Tobacco Pipe Blogs
 
-- Dutch Pipe Smoker 
-    - A cool blog maintained by a dude called Arno. He travels Europe for pleasure and pipes. Well written and very instructive. 
+- Dutch Pipe Smoker
+    - A cool blog maintained by a dude called Arno. He travels Europe for pleasure and pipes. Well written and very instructive.
         - **[dutchpipesmoker.wordpress.com](https://dutchpipesmoker.wordpress.com/)**
-- A Passion For Pipes 
-    - A gentleman called Neil Archer Roan shares his passion for pipes. Well written and a charm to read. 
+- A Passion For Pipes
+    - A gentleman called Neil Archer Roan shares his passion for pipes. Well written and a charm to read.
         - **[www.apassionforpipes.com](http://www.apassionforpipes.com/neills-blog/)**
-- SmokingPipes.com Blog 
-    - The smokingpipes.com online store team’s blog. A witty blog about all things tobacco pipes and pipe tobacco. Always a pleasure to read. 
+- SmokingPipes.com Blog
+    - The smokingpipes.com online store team’s blog. A witty blog about all things tobacco pipes and pipe tobacco. Always a pleasure to read.
         - **[smokingpipes.com/smokingpipesblog](http://www.smokingpipes.com/smokingpipesblog/index.cfm)**

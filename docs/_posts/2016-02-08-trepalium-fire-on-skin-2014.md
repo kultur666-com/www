@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Fire On Skin music by Trepalium.'
 layout: post
 guid: 'http://kultur666.com/?p=2075'
-permalink: '/?p=2075'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

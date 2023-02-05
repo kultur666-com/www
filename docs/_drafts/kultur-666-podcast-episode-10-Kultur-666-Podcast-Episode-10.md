@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 10 - Playing some Cognizance, Ruptured Birth, Ubiquitous Realities, Helleborus &amp; Spirit Of The Forest.'
 layout: post
 guid: 'http://kultur666.com/?p=5384'
-permalink: '/?p=5384'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

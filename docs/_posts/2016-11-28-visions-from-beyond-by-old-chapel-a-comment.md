@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Visions From Beyond'' album by Old Chapel (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6923'
-permalink: '/?p=6923'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -32,5 +31,5 @@ In the veins of Dismember, **Old Chapel**‘s *****Visions From Beyond***‘** c
 
 \[bandcamp width=100% height=439 album=1591477735 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/oldchapeldeath>  
+LIKE: <https://www.facebook.com/oldchapeldeath>
 LABEL: <http://www.chaos-records.com/>

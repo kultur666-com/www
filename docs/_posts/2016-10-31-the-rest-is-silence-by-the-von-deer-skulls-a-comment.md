@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on the ''The Rest Is Silence'' album by The Von Deer Skulls (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6231'
-permalink: '/?p=6231'
 timeline_notification:
     - '1477969659'
 publicize_twitter_user:
@@ -38,7 +37,7 @@ A delightful of diverse sounds where one is invited to drunkenness and ecstasy; 
 
 To have in your playlist – absolutely.
 
-\[bandcamp width=100% height=439 album=4113733596 size=large bgcol=333333 linkcol=0f91ff artwork=small\]  
-BUY: [https://thevondeerskulls.bandcamp.com/album/the-rest-is-silence  ](https://thevondeerskulls.bandcamp.com/album/the-rest-is-silence)VISIT: <http://www.thevondeerskulls.com/>  
-LIKE: <https://www.facebook.com/TheVonDeerSkulls/>  
+\[bandcamp width=100% height=439 album=4113733596 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+BUY: [https://thevondeerskulls.bandcamp.com/album/the-rest-is-silence  ](https://thevondeerskulls.bandcamp.com/album/the-rest-is-silence)VISIT: <http://www.thevondeerskulls.com/>
+LIKE: <https://www.facebook.com/TheVonDeerSkulls/>
 LABEL: <http://www.wraithproductions.net/>

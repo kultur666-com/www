@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Peter Grusel und die Unheimlichen eponymous album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5190'
-permalink: '/?p=5190'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -37,5 +36,5 @@ The album includes a live song, *Abattoir*, which has been recorded when as a su
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/ntl_Sk8XmmQ?feature=oembed" title="Peter Grusel und die unheimlichen live in Braunschweig 31.10.15 in Braunschweig im B58" width="500"></iframe>
 
-**WEB**: <http://www.petergrusel.de/>  
+**WEB**: <http://www.petergrusel.de/>
 **LIKE**: <https://www.facebook.com/pegudu/>

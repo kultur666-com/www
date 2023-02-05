@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Dead Conspiracy (Eponymous) album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6632'
-permalink: '/?p=6632'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,5 +33,5 @@ They are back powerful than ever and the album is freaking awesome. If you’re 
 
 \[bandcamp width=100% height=439 album=1477654496 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/deadconspiracy/>  
+LIKE: <https://www.facebook.com/deadconspiracy/>
 BUY: <https://deadconspiracy.bandcamp.com/album/dead-conspiracy-dead-conspiracy-lp-2016>

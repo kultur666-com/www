@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Orewoet''s ''ASfrodisiacum Der Vroomheid'' new album out September 16th 2016.'
 layout: post
 guid: 'http://kultur666.com/?p=5044'
-permalink: '/?p=5044'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,6 +35,6 @@ You can stream **Orewoet**‘s ‘***Afrodisiacum Der Vroomheid***‘ through Ba
 
 \[bandcamp width=100% height=307 album=800769664 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-ORDER: <https://heidenshart.bandcamp.com/album/afrodisiacum-der-vroomheid>  
-LABEL: [www.heidenshart.nl](http://www.heidenshart.nl)  
+ORDER: <https://heidenshart.bandcamp.com/album/afrodisiacum-der-vroomheid>
+LABEL: [www.heidenshart.nl](http://www.heidenshart.nl)
 LIKE: [www.facebook.com/heidenshart](http://www.facebook.com/heidenshart)

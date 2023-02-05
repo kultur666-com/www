@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''The Rotten Ways Of Human Misery'' reissue album by Blackthorn (1992/2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8491'
-permalink: '/?p=8491'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/RtEoVnTf7BA'
 publicize_twitter_user:

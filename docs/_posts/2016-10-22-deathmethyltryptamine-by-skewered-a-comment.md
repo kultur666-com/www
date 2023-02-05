@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Deathmethyltryptamine album by Skewered (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5975'
-permalink: '/?p=5975'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -30,6 +29,6 @@ The album ***Deathmethyltryptamine*** by **Skewered** is available on bandcamp.
 
 \[bandcamp width=100% height=472 album=51976443 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER**: <http://www.stillbirthrecords.com/skewered>  
-**LIKE**: <https://www.facebook.com/skewered>  
+**ORDER**: <http://www.stillbirthrecords.com/skewered>
+**LIKE**: <https://www.facebook.com/skewered>
 **LABEL**: <http://www.stillbirthrecords.com>

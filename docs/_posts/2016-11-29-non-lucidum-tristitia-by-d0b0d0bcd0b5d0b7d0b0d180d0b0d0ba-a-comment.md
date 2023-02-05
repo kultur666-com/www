@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Non Lucidum Tristitia'' album by Амезарак (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7051'
-permalink: '/?p=7051'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

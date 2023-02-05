@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on the Transmutant album by Ruptured Birth (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5430'
-permalink: '/?p=5430'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -32,6 +31,6 @@ Listen to the following Bandcamp streaming widget and buy.
 
 \[bandcamp width=100% height=472 album=3335055221 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER**: <http://www.cdnrecords.com/product/ruptured-birth-transmutant-arachni-supremacy-mcd-as-bonus-tracks/>  
-**LIKE**: <https://www.facebook.com/RupturedBirthScigrind>  
+**ORDER**: <http://www.cdnrecords.com/product/ruptured-birth-transmutant-arachni-supremacy-mcd-as-bonus-tracks/>
+**LIKE**: <https://www.facebook.com/RupturedBirthScigrind>
 **LABEL**: <http://www.cdnrecords.com>

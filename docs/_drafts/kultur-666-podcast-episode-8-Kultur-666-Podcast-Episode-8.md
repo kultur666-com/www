@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Playing some Merchant, Division Vansinne, Orewoet, Sin Of God and Swine Overlord.  All permissions asked.'
 layout: post
 guid: 'http://kultur666.com/?p=4978'
-permalink: '/?p=4978'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

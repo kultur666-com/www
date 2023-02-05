@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Kepler album by Aksaya (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=8199'
-permalink: '/?p=8199'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -35,5 +34,5 @@ For those looking new sounding black metal and original melodies, the album, ***
 
 \[bandcamp width=100% height=406 album=2196184346 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/aksayaofficial/>  
+LIKE: <https://www.facebook.com/aksayaofficial/>
 WATCH: [https://www.youtube.com/channel/UCQMuNef\_vVrzowdNPZBJfgw](https://www.youtube.com/channel/UCQMuNef_vVrzowdNPZBJfgw)

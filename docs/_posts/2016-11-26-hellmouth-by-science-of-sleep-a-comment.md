@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Hellmouth album by Science Of Sleep (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6831'
-permalink: '/?p=6831'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,5 +33,5 @@ You can find **Science of Sleep**‘s albums on Bandcamp.
 
 \[bandcamp width=100% height=472 album=2948999130 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/pg/SOSMETAL/about/>  
+LIKE: <https://www.facebook.com/pg/SOSMETAL/about/>
 LABEL: <http://www.bastardized.net/>

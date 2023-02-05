@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Song The Blame of Humanity by Fractured Insanity (2016)'
 layout: post
 guid: 'http://kultur666.com/?p=3047'
-permalink: '/?p=3047'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

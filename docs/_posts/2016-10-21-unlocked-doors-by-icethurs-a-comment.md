@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Unlocked Doors'' album by IceThurs (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5919'
-permalink: '/?p=5919'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -35,9 +34,9 @@ A fun album for one to divers its playlist, you can find **IceThurS**‘ ‘***U
 
 \[bandcamp width=100% height=439 album=2280816474 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-**ORDER**: <https://budmetalrecords.bandcamp.com/releases>  
-**ORDER iTunes**: <https://itunes.apple.com/en/album/id1155165194>  
-**ORDER Amazon**: [https://www.amazon.com/gp/product/B01LWKA4F4/ref=dm\_ws\_sp\_ps\_dp](https://www.amazon.com/gp/product/B01LWKA4F4/ref=dm_ws_sp_ps_dp)  
-**ORDER GooglePlay**: [https://play.google.com/store/music/album/IceThurS\_Unlocked\_Door?id=Beqawsfk4ngjtx2ryswnx7wl2u4](https://play.google.com/store/music/album/IceThurS_Unlocked_Door?id=Beqawsfk4ngjtx2ryswnx7wl2u4)  
-**LIKE**: <http://www.facebook.com/IceThurS>  
+**ORDER**: <https://budmetalrecords.bandcamp.com/releases>
+**ORDER iTunes**: <https://itunes.apple.com/en/album/id1155165194>
+**ORDER Amazon**: [https://www.amazon.com/gp/product/B01LWKA4F4/ref=dm\_ws\_sp\_ps\_dp](https://www.amazon.com/gp/product/B01LWKA4F4/ref=dm_ws_sp_ps_dp)
+**ORDER GooglePlay**: [https://play.google.com/store/music/album/IceThurS\_Unlocked\_Door?id=Beqawsfk4ngjtx2ryswnx7wl2u4](https://play.google.com/store/music/album/IceThurS_Unlocked_Door?id=Beqawsfk4ngjtx2ryswnx7wl2u4)
+**LIKE**: <http://www.facebook.com/IceThurS>
 **VK**: <http://vk.com/icethurs>

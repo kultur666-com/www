@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Serdce - Last Faith (2014)'
 layout: post
 guid: 'http://kultur666.com/?p=1919'
-permalink: '/?p=1919'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of "You Should Have Died When I killed You" album by Guttural Corpora Cavernosa (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=3438'
-permalink: '/?p=3438'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,5 +32,5 @@ Did I also say that they were from Taiwan? Well now you know. Coming out today J
 
 You can also order their album on these sites:
 
-**ORDER:** [http://www.gorehouseproductions.com/#!gutturalcorporacavernosa/hh15t](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=323f6e7979&e=9efdf70388)  
+**ORDER:** [http://www.gorehouseproductions.com/#!gutturalcorporacavernosa/hh15t](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=323f6e7979&e=9efdf70388)
 **ORDER:** [http://smarturl.it/GCCYouShouldHaveDied](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=0f7a3b0034&e=9efdf70388)

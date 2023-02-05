@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Sin Of God''s album Aenigmata out September 23rd 2016.'
 layout: post
 guid: 'http://kultur666.com/?p=4982'
-permalink: '/?p=4982'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -39,6 +38,6 @@ You can find **Sin of God** on Bandcamp for streaming and get their album in dig
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/Q7ZUj2zkxkU?feature=oembed" title="Sin Of God - Loss Leads Into Impiety" width="500"></iframe>
 
-LIKE: <https://www.facebook.com/sinofgodhu>  
-VIEW: <https://www.youtube.com/user/SinOfGodHU/videos>  
+LIKE: <https://www.facebook.com/sinofgodhu>
+VIEW: <https://www.youtube.com/user/SinOfGodHU/videos>
 LABEL: <http://satanath.com/>

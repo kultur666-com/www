@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Reign of Terror'' new album by Acranius (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8078'
-permalink: '/?p=8078'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,6 +35,6 @@ Well produced, ‘***Reign of Terror***‘ by **Acranius** is what you need in y
 
 \[bandcamp width=100% height=472 album=708468055 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/Acranius/>  
-BUY: <https://risingnemesisrecords.bandcamp.com/album/reign-of-terror>  
+LIKE: <https://www.facebook.com/Acranius/>
+BUY: <https://risingnemesisrecords.bandcamp.com/album/reign-of-terror>
 LABEL: <http://risingnemesisrecords.bigcartel.com/>

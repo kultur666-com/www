@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Dunhill''s My Mixture 965 pipe tobacco.'
 layout: post
 guid: 'http://kultur666.com/?p=2080'
-permalink: '/?p=2080'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

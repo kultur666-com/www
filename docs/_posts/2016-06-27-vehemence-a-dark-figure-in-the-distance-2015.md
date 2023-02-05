@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Vehemence''s "A Dark Figure In The Distance" from "Forward Without Motion" album (2015).'
 layout: post
 guid: 'http://kultur666.com/?p=3333'
-permalink: '/?p=3333'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

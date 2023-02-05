@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'On how Linux Mint 18.x is going to have its own apps.'
 layout: post
 guid: 'http://kultur666.com/?p=1924'
-permalink: '/?p=1924'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

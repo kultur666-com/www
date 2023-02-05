@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Kultur 666 Podcast: Episode 14 - Playing some Fornicus, Soulemission, Nebrus, Mosh-Pit Justice &amp; Speedwhore. All permissions asked.'
 layout: post
 guid: 'http://kultur666.com/?p=6392'
-permalink: '/?p=6392'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

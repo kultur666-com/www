@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment of the ''Hymns Of Dominion'' album by Fornicus (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6219'
-permalink: '/?p=6219'
 timeline_notification:
     - '1477974230'
 publicize_twitter_user:
@@ -35,6 +34,6 @@ A refreshing album for black metal fans looking for fresh inspiration and new da
 
 Available for streaming on Bandcamp.
 
-\[bandcamp width=100% height=472 album=2660738481 size=large bgcol=333333 linkcol=0f91ff artwork=small\]  
-**ORDER**: <https://fornicus.bandcamp.com/album/hymns-of-dominion>  
+\[bandcamp width=100% height=472 album=2660738481 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
+**ORDER**: <https://fornicus.bandcamp.com/album/hymns-of-dominion>
 **LIKE**: <https://www.facebook.com/fornicus666/>

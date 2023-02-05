@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Video of The Perseus Strain of The Imperium Of Man'
 layout: post
 guid: 'http://kultur666.com/?p=1796'
-permalink: '/?p=1796'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

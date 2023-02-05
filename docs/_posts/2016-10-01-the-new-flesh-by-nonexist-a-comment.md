@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on ''The New Flesh'' EP by Nonexist (2016). '
 layout: post
 guid: 'http://kultur666.com/?p=5194'
-permalink: '/?p=5194'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,7 +33,7 @@ Listen for yourself:
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/lMs7AupQcgE?feature=oembed" title="NONEXIST - A Promise Unfulfilled (OFFICIAL VIDEO)" width="500"></iframe>
 
-**ORDER iTunes**: <https://itunes.apple.com/se/album/the-new-flesh-ep/id1131525654>  
-**ORDER Amazon**: <https://amzn.com/B01I1L2EFI>  
-**ORDER Spotify**: <https://open.spotify.com/album/6fVaTgYAKh4UZAknIuNJJ7>  
+**ORDER iTunes**: <https://itunes.apple.com/se/album/the-new-flesh-ep/id1131525654>
+**ORDER Amazon**: <https://amzn.com/B01I1L2EFI>
+**ORDER Spotify**: <https://open.spotify.com/album/6fVaTgYAKh4UZAknIuNJJ7>
 **LIKE**: <https://www.facebook.com/nonexistofficial>

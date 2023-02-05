@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Defeat Zeke by Ahtme from The Demonization album (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=2940'
-permalink: '/?p=2940'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A look at Apple Campus 2.'
 layout: post
 guid: 'http://kultur666.com/?p=1969'
-permalink: '/?p=1969'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

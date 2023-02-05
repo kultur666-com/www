@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Nidingaslakt by Enslaved from the 1998 album Blodhemn.'
 layout: post
 guid: 'http://kultur666.com/?p=3761'
-permalink: '/?p=3761'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

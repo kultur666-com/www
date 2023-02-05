@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Madness Incarnate'' album by Nihilistinen Barbaarisuus (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6730'
-permalink: '/?p=6730'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -33,5 +32,5 @@ Co-founded by Mika Mage a dual citizen of Finland and the United States, he lead
 
 \[bandcamp width=100% height=307 album=3206248391 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-BUY: <http://nihilistinenbarbaarisuus.bandcamp.com/>  
+BUY: <http://nihilistinenbarbaarisuus.bandcamp.com/>
 LIKE: <http://www.facebook.com/nihilistinenbarbaarisuus>

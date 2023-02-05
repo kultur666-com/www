@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Song ''I Mean You Harm'' by Hail Spirit Noir (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6008'
-permalink: '/?p=6008'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

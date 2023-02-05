@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Kultur 666 Podcast announcement.'
 layout: post
 guid: 'http://kultur666.com/?p=3782'
-permalink: '/?p=3782'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A usage account of EditShare''s Lightworks on Linux Mint.'
 layout: post
 guid: 'http://kultur666.com/?p=727'
-permalink: '/?p=727'
 publicize_twitter_user:
     - kultur666
 image: /wp-content/uploads/2016/01/screenshot-from-2016-01-05-220907.png

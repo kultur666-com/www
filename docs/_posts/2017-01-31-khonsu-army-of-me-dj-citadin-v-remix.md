@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Remix by DJ Citadin V of the song ''Army of Me'' by Khonsu from the album Traveller (2014).'
 layout: post
 guid: 'http://kultur666.com/?p=8278'
-permalink: '/?p=8278'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

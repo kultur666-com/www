@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on Болотный Угар (Marsh Madness) by Тринадцатый Бубен (Thirteenth Tambourine) (2016). '
 layout: post
 guid: 'http://kultur666.com/?p=3717'
-permalink: '/?p=3717'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -36,6 +35,6 @@ Hoping they’ll have a Bandcamp entry soon so we can stream their album, for th
 
 https://www.youtube.com/watch?v=Eoi7JfTBuFA
 
-**ORDER:** [http://soundage.org/shop/goods.php?id=7026](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=842acaf449&e=9efdf70388)  
-**LIKE:** [https://www.facebook.com/trinadtsatiybuben/](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=0d51325260&e=9efdf70388)  
+**ORDER:** [http://soundage.org/shop/goods.php?id=7026](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=842acaf449&e=9efdf70388)
+**LIKE:** [https://www.facebook.com/trinadtsatiybuben/](http://fullblastpr.us8.list-manage1.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=0d51325260&e=9efdf70388)
 **LABEL:** [http://eng.soundage.org/shop/](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=61b5751b60&e=9efdf70388)

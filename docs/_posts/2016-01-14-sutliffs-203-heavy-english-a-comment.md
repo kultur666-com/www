@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Sutliff''s 203 Heavy English bulk tobacco.'
 layout: post
 guid: 'http://kultur666.com/?p=1092'
-permalink: '/?p=1092'
 switch_like_status:
     - '1'
 publicize_twitter_user:

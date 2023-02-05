@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on Acheronte''s latest album Ancient Furies out June 13th, 2016.'
 layout: post
 guid: 'http://kultur666.com/?p=3082'
-permalink: '/?p=3082'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -37,6 +36,6 @@ So for you fans, here’s Acheronte’s BLOOD FOR THE GODS (AHUITZOTL):
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="375" loading="lazy" src="https://www.youtube.com/embed/J4ki5sZB8zU?feature=oembed" title="ACHERONTE : BLOOD FOR THE GODS(AHUITZOTL)" width="500"></iframe>
 
-**ORDER:** [https://satanath.bandcamp.com/album/sat152-acheronte-ancient-furies-2016](http://fullblastpr.us8.list-manage2.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=c651b1b20e&e=9efdf70388)  
-**LIKE:** [http://www.facebook.com/acheronteofficialpage](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=e96f6d6396&e=9efdf70388)  
+**ORDER:** [https://satanath.bandcamp.com/album/sat152-acheronte-ancient-furies-2016](http://fullblastpr.us8.list-manage2.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=c651b1b20e&e=9efdf70388)
+**LIKE:** [http://www.facebook.com/acheronteofficialpage](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=e96f6d6396&e=9efdf70388)
 **WATCH:** [https://www.youtube.com/watch?v=Zsy-KdZHUzE](http://fullblastpr.us8.list-manage.com/track/click?u=bbc94b4fb82edbcbb6939bcd0&id=a2cb238637&e=9efdf70388)

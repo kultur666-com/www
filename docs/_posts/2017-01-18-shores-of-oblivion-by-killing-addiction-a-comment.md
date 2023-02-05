@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Shores of Oblivion'' EP by Killing Addiction (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7774'
-permalink: '/?p=7774'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,5 +33,5 @@ A good album to have in your playlist, ‘***Shores of Oblivion***‘ by **Killi
 
 \[bandcamp width=100% height=274 album=2775807821 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-BUY: <https://killingaddiction.bandcamp.com/>  
+BUY: <https://killingaddiction.bandcamp.com/>
 LIKE: <https://www.facebook.com/killingaddiction/>

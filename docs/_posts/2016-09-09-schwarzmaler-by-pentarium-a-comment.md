@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A comment on the Schwarzmaler album by Pentarium (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=4705'
-permalink: '/?p=4705'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -35,6 +34,6 @@ Available today, visit **Boersma Records** and **Pentarium**‘s Website for mor
 
 https://www.youtube.com/watch?v=bswT6JY7XQc
 
-VISIT: <http://www.pentarium.de>  
-LIKE: <https://www.facebook.com/Pentarium/>  
+VISIT: <http://www.pentarium.de>
+LIKE: <https://www.facebook.com/Pentarium/>
 LABEL: <http://www.boersma-records.com/>

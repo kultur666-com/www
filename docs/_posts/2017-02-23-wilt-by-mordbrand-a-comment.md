@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the Wilt album by Mordbrand (2017).'
 layout: post
 guid: 'http://kultur666.com/?p=8717'
-permalink: '/?p=8717'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'Song Staring Into The Sun by Synergic Ire.'
 layout: post
 guid: 'http://kultur666.com/?p=1922'
-permalink: '/?p=1922'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

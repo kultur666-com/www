@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Door 218'' album by Balance Interruption (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6974'
-permalink: '/?p=6974'
 publicize_google_plus_url:
     - 'https://plus.google.com/+Kultur666-k6/posts/dV7WtmaKwJm'
 publicize_twitter_user:
@@ -37,6 +36,6 @@ Available with joy on Bandcamp and Spotify.
 
 \[bandcamp width=100% height=406 album=1938593104 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/balanceinterruption/>  
-WATCH: <https://www.youtube.com/user/BalanceInterruption>  
+LIKE: <https://www.facebook.com/balanceinterruption/>
+WATCH: <https://www.youtube.com/user/BalanceInterruption>
 BUY: <https://satanath.bandcamp.com/album/sat159-balance-interruption-door-218-2016>

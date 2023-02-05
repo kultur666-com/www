@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Without Voices'' album by Negative Symbols (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=6521'
-permalink: '/?p=6521'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

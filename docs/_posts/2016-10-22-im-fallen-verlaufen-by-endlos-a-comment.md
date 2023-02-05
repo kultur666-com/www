@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''Im Fallen Verlaufen'' album by Endlos (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=5887'
-permalink: '/?p=5887'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:
@@ -34,6 +33,6 @@ For fans of the style and other ears curious to the style, the album is apprecia
 
 \[bandcamp width=100% height=472 album=2420336017 size=large bgcol=333333 linkcol=0f91ff artwork=small\]
 
-LIKE: <https://www.facebook.com/AllesIstEndlos/>  
-BUY: <https://allesistendlos.bandcamp.com/> AND <https://symbolofdomination.bandcamp.com/album/sodp052-endlos-im-fallen-verlaufen-2016>  
+LIKE: <https://www.facebook.com/AllesIstEndlos/>
+BUY: <https://allesistendlos.bandcamp.com/> AND <https://symbolofdomination.bandcamp.com/album/sodp052-endlos-im-fallen-verlaufen-2016>
 LABEL: <https://www.facebook.com/SymbolOfDominationProd/> AND <http://narbentage.de/>

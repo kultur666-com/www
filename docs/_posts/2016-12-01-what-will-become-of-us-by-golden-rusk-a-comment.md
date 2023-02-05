@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'A Comment on the ''What Will Become Of Us?'' album by Golden Rusk (2016).'
 layout: post
 guid: 'http://kultur666.com/?p=7101'
-permalink: '/?p=7101'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

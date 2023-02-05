@@ -6,7 +6,6 @@ author: syr3fx
 excerpt: 'News on Linux Mint 18.'
 layout: post
 guid: 'http://kultur666.com/?p=3352'
-permalink: '/?p=3352'
 publicize_twitter_user:
     - kultur666
 publicize_google_plus_url:

@@ -5,7 +5,6 @@ date: '2022-04-07T13:55:02+00:00'
 author: syr3fx
 layout: post
 guid: 'https://kultur666.com/?p=9250'
-permalink: '/?p=9250'
 timeline_notification:
     - '1649354105'
 publicize_twitter_user:
