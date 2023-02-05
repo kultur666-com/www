@@ -1,6 +1,6 @@
 ---
 id: 2359
-title: 'Lane Limited&#8217;s Medal of Valor &#8211; A Comment'
+title: 'Lane Limited&#8217;s Medal of Valor - A Comment'
 date: '2016-04-08T00:33:29+00:00'
 author: syr3fx
 excerpt: 'A comment on Lane Limited''s Medal of Valor English blend pipe tobacco.'

@@ -1,6 +1,6 @@
 ---
 id: 2231
-title: 'Diligence &#8211; Withering Lethargy (2014)'
+title: 'Diligence - Withering Lethargy (2014)'
 date: '2016-02-22T20:55:04+00:00'
 author: syr3fx
 excerpt: 'Withering Lethargy song by Diligence (2014).'

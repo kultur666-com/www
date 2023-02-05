@@ -1,6 +1,6 @@
 ---
 id: 9230
-title: 'The Rise Of Evil​:​Killer Instinct &#8211; Rimfrost'
+title: 'The Rise Of Evil​:​Killer Instinct - Rimfrost'
 date: '2022-01-26T03:00:00+00:00'
 author: syr3fx
 layout: post

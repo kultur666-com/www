@@ -1,6 +1,6 @@
 ---
 id: 3397
-title: 'False Divinity by Pequod &#8211; A Comment'
+title: 'False Divinity by Pequod - A Comment'
 date: '2016-07-05T00:29:01+00:00'
 author: syr3fx
 excerpt: 'A comment on Pequod''s False Divinity album (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 9236
-title: 'Sentence &#8211; Beyond The Styx'
+title: 'Sentence - Beyond The Styx'
 date: '2022-01-28T03:00:00+00:00'
 author: syr3fx
 layout: post

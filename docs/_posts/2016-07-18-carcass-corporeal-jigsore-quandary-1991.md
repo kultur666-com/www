@@ -1,6 +1,6 @@
 ---
 id: 3526
-title: 'Carcass &#8211; Corporal Jigsore Quandary (1991)'
+title: 'Carcass - Corporal Jigsore Quandary (1991)'
 date: '2016-07-18T01:46:12+00:00'
 author: syr3fx
 excerpt: 'Carcass''s song "Corporeal Jigsore Quandary" (1991).'

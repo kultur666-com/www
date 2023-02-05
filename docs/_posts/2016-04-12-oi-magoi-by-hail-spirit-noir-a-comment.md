@@ -1,6 +1,6 @@
 ---
 id: 2609
-title: 'Oi Magoi By Hail Spirit Noir &#8211; A Comment'
+title: 'Oi Magoi By Hail Spirit Noir - A Comment'
 date: '2016-04-12T21:30:43+00:00'
 author: syr3fx
 excerpt: 'A comment on Oi Magoi by Hail Spirit Noir progressive black rock.'

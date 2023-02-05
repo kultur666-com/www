@@ -1,6 +1,6 @@
 ---
 id: 1963
-title: 'Boards Of Canada &#8211; Nlogax (DJ Citadin V Remix)'
+title: 'Boards Of Canada - Nlogax (DJ Citadin V Remix)'
 date: '2016-02-01T00:52:10+00:00'
 author: syr3fx
 excerpt: 'Remix of Boards Of Canada''s Nlogax by DJ Citadin V.'

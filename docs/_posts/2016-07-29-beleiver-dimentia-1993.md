@@ -1,6 +1,6 @@
 ---
 id: 3660
-title: 'Believer &#8211; Dimentia (1993)'
+title: 'Believer - Dimentia (1993)'
 date: '2016-07-29T22:47:17+00:00'
 author: syr3fx
 excerpt: 'Dimentia by Believer from Dimensions album (1993).'

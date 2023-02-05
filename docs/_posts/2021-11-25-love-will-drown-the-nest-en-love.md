@@ -1,6 +1,6 @@
 ---
 id: 9140
-title: 'Love Will Drown The Nest &#8211; En Love'
+title: 'Love Will Drown The Nest - En Love'
 date: '2021-11-25T14:38:31+00:00'
 author: syr3fx
 layout: post

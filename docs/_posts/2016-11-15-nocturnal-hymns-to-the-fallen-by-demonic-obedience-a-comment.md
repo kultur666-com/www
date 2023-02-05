@@ -1,6 +1,6 @@
 ---
 id: 6569
-title: '&#8216;Nocturnal Hymns To The Fallen&#8217; by Demonic Obedience &#8211; A Comment'
+title: '&#8216;Nocturnal Hymns To The Fallen&#8217; by Demonic Obedience - A Comment'
 date: '2016-11-15T00:10:00+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Nocturnal Hymns To The Fallen'' album by Demonic Obedience (2016).'

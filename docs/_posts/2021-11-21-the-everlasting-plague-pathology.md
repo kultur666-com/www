@@ -1,6 +1,6 @@
 ---
 id: 9135
-title: 'The Everlasting Plague &#8211; Pathology'
+title: 'The Everlasting Plague - Pathology'
 date: '2021-11-21T08:59:15+00:00'
 author: syr3fx
 layout: post

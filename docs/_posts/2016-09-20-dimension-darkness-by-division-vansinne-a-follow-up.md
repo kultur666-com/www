@@ -1,6 +1,6 @@
 ---
 id: 4968
-title: 'Dimension Darkness by Division Vansinne &#8211; A Follow Up'
+title: 'Dimension Darkness by Division Vansinne - A Follow Up'
 date: '2016-09-20T00:10:07+00:00'
 author: syr3fx
 excerpt: 'A follow up on Division Vansinne''s ''Dimension Darkness'' album.'

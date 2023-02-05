@@ -1,6 +1,6 @@
 ---
 id: 3059
-title: 'Hanter Savet by Vindland &#8211; A Comment'
+title: 'Hanter Savet by Vindland - A Comment'
 date: '2016-06-10T00:00:41+00:00'
 author: syr3fx
 excerpt: 'A comment on Vindland''s new album "Hanter Savet".'

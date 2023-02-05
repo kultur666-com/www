@@ -1,6 +1,6 @@
 ---
 id: 3120
-title: 'The Beast Within &#8211; The Old Continent (2016)'
+title: 'The Beast Within - The Old Continent (2016)'
 date: '2016-06-17T00:45:42+00:00'
 author: syr3fx
 excerpt: '"The Old Continent" song by The Beast Within from Temperance album (2016).'

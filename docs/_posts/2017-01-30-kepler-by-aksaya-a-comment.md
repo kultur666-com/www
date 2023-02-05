@@ -1,6 +1,6 @@
 ---
 id: 8199
-title: 'Kepler by Aksaya &#8211; A Comment'
+title: 'Kepler by Aksaya - A Comment'
 date: '2017-01-30T02:14:30+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Kepler album by Aksaya (2016).'

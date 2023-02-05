@@ -1,6 +1,6 @@
 ---
 id: 2408
-title: 'Ascension To Apotheosis By Narvik &#8211; A Comment'
+title: 'Ascension To Apotheosis By Narvik - A Comment'
 date: '2016-05-20T00:14:26+00:00'
 author: syr3fx
 excerpt: 'A comment on Narvik''s Ascension to Apotheosis black metal album.'

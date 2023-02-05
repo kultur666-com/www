@@ -1,6 +1,6 @@
 ---
 id: 8039
-title: 'Hostis (Eponymous) &#8211; A Comment'
+title: 'Hostis (Eponymous) - A Comment'
 date: '2017-01-25T00:58:28+00:00'
 author: syr3fx
 excerpt: 'A Comment on the eponymous album by Hostis (2016).'

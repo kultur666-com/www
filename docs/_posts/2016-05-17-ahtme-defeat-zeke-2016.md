@@ -1,6 +1,6 @@
 ---
 id: 2940
-title: 'Ahtme &#8211; Defeat Zeke (2016)'
+title: 'Ahtme - Defeat Zeke (2016)'
 date: '2016-05-17T14:11:56+00:00'
 author: syr3fx
 excerpt: 'Defeat Zeke by Ahtme from The Demonization album (2016).'

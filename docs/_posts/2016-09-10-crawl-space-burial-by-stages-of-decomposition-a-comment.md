@@ -1,6 +1,6 @@
 ---
 id: 4804
-title: '&#8216;Crawl Space Burial&#8217; by Stages Of Decomposition &#8211; A Comment'
+title: '&#8216;Crawl Space Burial&#8217; by Stages Of Decomposition - A Comment'
 date: '2016-09-10T00:10:01+00:00'
 author: syr3fx
 excerpt: 'A comment on Stages Of Decomposition''s album ''Crawl Space Burial'' (2016).'

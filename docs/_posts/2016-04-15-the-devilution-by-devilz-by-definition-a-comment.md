@@ -1,6 +1,6 @@
 ---
 id: 2569
-title: 'The Devilution By Devilz By Definition &#8211; A Comment'
+title: 'The Devilution By Devilz By Definition - A Comment'
 date: '2016-04-15T00:50:57+00:00'
 author: syr3fx
 excerpt: 'A comment on Devilz by Definition''s The Devilution metal album.'

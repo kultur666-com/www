@@ -1,6 +1,6 @@
 ---
 id: 2725
-title: 'Lane Limited&#8217;s 125th Anniversary &#8211; A Comment'
+title: 'Lane Limited&#8217;s 125th Anniversary - A Comment'
 date: '2016-05-12T13:55:25+00:00'
 author: syr3fx
 excerpt: 'A comment on Lane Limited''s 125th Anniversary pipe tobacco.'

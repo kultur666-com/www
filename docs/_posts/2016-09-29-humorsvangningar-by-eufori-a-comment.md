@@ -1,6 +1,6 @@
 ---
 id: 5108
-title: 'Humörsvängningar by Eufori &#8211; A Comment'
+title: 'Humörsvängningar by Eufori - A Comment'
 date: '2016-09-29T00:10:28+00:00'
 author: syr3fx
 excerpt: 'A comment on Eufori''s Humörsvängningar album (2016).'

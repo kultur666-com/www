@@ -1,6 +1,6 @@
 ---
 id: 9162
-title: 'LA NOYADE DE LA SORCIÈRE &#8211; RVBBERVVITCH'
+title: 'LA NOYADE DE LA SORCIÈRE - RVBBERVVITCH'
 date: '2021-12-08T22:54:42+00:00'
 author: syr3fx
 layout: post

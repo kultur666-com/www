@@ -1,6 +1,6 @@
 ---
 id: 9195
-title: 'Kyr&#8217;am Beskar &#8211; Ecryptus'
+title: 'Kyr&#8217;am Beskar - Ecryptus'
 date: '2022-01-14T03:00:00+00:00'
 author: syr3fx
 layout: post

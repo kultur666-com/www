@@ -1,6 +1,6 @@
 ---
 id: 6591
-title: '&#8216;Inexorable Grimness&#8217; by Gravespawn &#8211; A Comment'
+title: '&#8216;Inexorable Grimness&#8217; by Gravespawn - A Comment'
 date: '2016-11-21T00:10:54+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Inexorable Grimness'' album by Gravespawn (2016).'

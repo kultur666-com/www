@@ -1,6 +1,6 @@
 ---
 id: 6177
-title: 'Extinction EP by Burial Hordes &#8211; A Comment'
+title: 'Extinction EP by Burial Hordes - A Comment'
 date: '2016-10-28T00:20:33+00:00'
 author: syr3fx
 excerpt: 'A Comment on Extinction EP album by Burial Hordes (2016).'

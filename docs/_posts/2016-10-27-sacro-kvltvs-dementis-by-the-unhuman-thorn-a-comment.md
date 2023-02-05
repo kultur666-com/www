@@ -1,6 +1,6 @@
 ---
 id: 6042
-title: '&#8216;Sacro-Kvltvs Dementis&#8217; by The Unhuman Thorn &#8211; A Comment'
+title: '&#8216;Sacro-Kvltvs Dementis&#8217; by The Unhuman Thorn - A Comment'
 date: '2016-10-27T00:10:24+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Sacro-Kvltvs Dementis'' album by The Unhuman Thorn (2016).'

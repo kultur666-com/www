@@ -1,6 +1,6 @@
 ---
 id: 3599
-title: 'Suffocation &#8211; Depths Of Depravity (1995)'
+title: 'Suffocation - Depths Of Depravity (1995)'
 date: '2016-07-25T00:48:18+00:00'
 author: syr3fx
 excerpt: '''Depths Of Depravity'' song by Suffocation from ''Pierced From Within'' album (1995).'

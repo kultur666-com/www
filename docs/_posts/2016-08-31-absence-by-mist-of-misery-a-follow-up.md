@@ -1,6 +1,6 @@
 ---
 id: 4525
-title: 'Absence by Mist Of Misery &#8211; A Follow Up'
+title: 'Absence by Mist Of Misery - A Follow Up'
 date: '2016-08-31T00:10:02+00:00'
 author: syr3fx
 excerpt: 'Follow up of Mist of Misery''s Absence album (2016).'

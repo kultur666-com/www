@@ -1,6 +1,6 @@
 ---
 id: 2731
-title: 'Gawith Hoggarth &amp; Co.&#8217;s Brown Twist Sliced And Happy (Brown) Bogie &#8211; A Comment'
+title: 'Gawith Hoggarth &amp; Co.&#8217;s Brown Twist Sliced And Happy (Brown) Bogie - A Comment'
 date: '2016-05-16T00:58:28+00:00'
 author: syr3fx
 excerpt: 'A comment on Gawith Hoggarth &amp; Co.''s Brown Twist Sliced pipe tobacco.'

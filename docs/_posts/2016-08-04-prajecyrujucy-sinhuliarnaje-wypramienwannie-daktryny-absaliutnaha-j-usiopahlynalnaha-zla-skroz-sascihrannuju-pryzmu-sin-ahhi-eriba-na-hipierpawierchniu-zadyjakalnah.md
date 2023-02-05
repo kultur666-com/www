@@ -1,6 +1,6 @@
 ---
 id: 3764
-title: 'Prajecyrujučy Sinhuliarnaje Wypramieńwańnie Daktryny Absaliutnaha J Usiopahłynaĺnaha Zła Skroź Šaścihrannuju Pryzmu Sîn​-​Ahhī​-​Erība Na Hipierpawierchniu Zadyjakaĺnaha Kaŭčęha Zasnawaĺnikaŭ Kosmatęchničnaha Ordęna Palieakantakta​.​.​. by Eximperituserqethhzebibšiptugakkathšulweliarzaxułum &#8211; A Comment'
+title: 'Prajecyrujučy Sinhuliarnaje Wypramieńwańnie Daktryny Absaliutnaha J Usiopahłynaĺnaha Zła Skroź Šaścihrannuju Pryzmu Sîn​-​Ahhī​-​Erība Na Hipierpawierchniu Zadyjakaĺnaha Kaŭčęha Zasnawaĺnikaŭ Kosmatęchničnaha Ordęna Palieakantakta​.​.​. by Eximperituserqethhzebibšiptugakkathšulweliarzaxułum - A Comment'
 date: '2016-08-04T00:10:33+00:00'
 author: syr3fx
 excerpt: 'A comment of Eximperituserqethhzebibšiptugakkathšulweliarzaxułum''s Prajecyrujučy Sinhuliarnaje Wypramieńwańnie Daktryny Absaliutnaha J Usiopahłynaĺnaha Zła Skroź Šaścihrannuju Pryzmu Sîn​-​Ahhī​-​Erība Na Hipierpawierchniu Zadyjakaĺnaha Kaŭčęha Zasnawaĺnikaŭ Kosmatęchničnaha Ordęna Palieakantakta​.​.​. album (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 3327
-title: 'Underdark &#8211; Manifestation Of Denial (2010)'
+title: 'Underdark - Manifestation Of Denial (2010)'
 date: '2016-06-23T22:38:50+00:00'
 author: syr3fx
 excerpt: 'Underdark''s song "Manifestation Of Denial" from "In The Name Of Chaos" album (2010).'

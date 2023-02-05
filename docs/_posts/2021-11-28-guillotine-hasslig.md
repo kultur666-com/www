@@ -1,6 +1,6 @@
 ---
 id: 9148
-title: 'Guillotine &#8211; Hässlig'
+title: 'Guillotine - Hässlig'
 date: '2021-11-28T09:37:28+00:00'
 author: syr3fx
 layout: post

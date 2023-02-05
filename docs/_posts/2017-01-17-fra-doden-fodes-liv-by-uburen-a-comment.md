@@ -1,6 +1,6 @@
 ---
 id: 7701
-title: '&#8216;Frå Døden Fødes Liv&#8217; by Uburen &#8211; A Comment'
+title: '&#8216;Frå Døden Fødes Liv&#8217; by Uburen - A Comment'
 date: '2017-01-17T00:10:38+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Frå Døden Fødes Liv'' album by Uburen (2016).'

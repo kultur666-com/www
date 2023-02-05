@@ -1,6 +1,6 @@
 ---
 id: 8764
-title: 'Hyperakusi by Resonance Cascade/Järnbörd (Split) &#8211; A Comment'
+title: 'Hyperakusi by Resonance Cascade/Järnbörd (Split) - A Comment'
 date: '2017-02-24T01:17:54+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Hyperakusi split album by Resonance Cascade and Järnbörd (2017).'

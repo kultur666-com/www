@@ -1,6 +1,6 @@
 ---
 id: 3761
-title: 'Enslaved &#8211; Nidingaslakt (1998)'
+title: 'Enslaved - Nidingaslakt (1998)'
 date: '2016-08-05T00:10:27+00:00'
 author: syr3fx
 excerpt: 'Nidingaslakt by Enslaved from the 1998 album Blodhemn.'

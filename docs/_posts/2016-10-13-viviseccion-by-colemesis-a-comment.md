@@ -1,6 +1,6 @@
 ---
 id: 5698
-title: '&#8216;Viviseccion&#8217; by Colemesis &#8211; A Comment'
+title: '&#8216;Viviseccion&#8217; by Colemesis - A Comment'
 date: '2016-10-13T00:10:24+00:00'
 author: syr3fx
 excerpt: 'A comment on Colemesis'' ''Viviseccion'' album (2016).'

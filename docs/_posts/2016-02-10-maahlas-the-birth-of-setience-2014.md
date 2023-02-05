@@ -1,6 +1,6 @@
 ---
 id: 2170
-title: 'Maahlas &#8211; The Birth Of Setience (2014)'
+title: 'Maahlas - The Birth Of Setience (2014)'
 date: '2016-02-10T13:18:11+00:00'
 author: syr3fx
 excerpt: 'Birth Of Setience song by Maahlas.'

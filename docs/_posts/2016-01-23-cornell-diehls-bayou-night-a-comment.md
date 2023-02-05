@@ -1,6 +1,6 @@
 ---
 id: 387
-title: 'Cornell &amp; Diehl&#8217;s Bayou Night &#8211; A Comment'
+title: 'Cornell &amp; Diehl&#8217;s Bayou Night - A Comment'
 date: '2016-01-23T00:48:49+00:00'
 author: syr3fx
 excerpt: 'A comment of Cornell &amp; Diehl''s Bayou Night pipe tobacco blend. '

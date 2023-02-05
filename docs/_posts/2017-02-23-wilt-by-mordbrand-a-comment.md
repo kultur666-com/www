@@ -1,6 +1,6 @@
 ---
 id: 8717
-title: 'Wilt by Mordbrand &#8211; A Comment'
+title: 'Wilt by Mordbrand - A Comment'
 date: '2017-02-23T00:10:21+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Wilt album by Mordbrand (2017).'

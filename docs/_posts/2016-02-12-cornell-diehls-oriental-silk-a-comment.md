@@ -1,6 +1,6 @@
 ---
 id: 2107
-title: 'Cornell &amp; Diehl&#8217;s Oriental Silk &#8211; A Comment'
+title: 'Cornell &amp; Diehl&#8217;s Oriental Silk - A Comment'
 date: '2016-02-12T00:10:46+00:00'
 author: syr3fx
 excerpt: 'A comment on Cornell &amp; Diehl''s Oriental Silk pipe tobacco.'

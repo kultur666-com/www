@@ -1,6 +1,6 @@
 ---
 id: 7123
-title: 'Zornheym &#8211; The Opposed (2016)'
+title: 'Zornheym - The Opposed (2016)'
 date: '2016-12-07T20:04:06+00:00'
 author: syr3fx
 excerpt: 'Zornheym - The Opposed video clip (2016).'

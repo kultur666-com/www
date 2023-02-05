@@ -1,6 +1,6 @@
 ---
 id: 6004
-title: 'Bathed In Filth &#8211; Lung Sewage (2016)'
+title: 'Bathed In Filth - Lung Sewage (2016)'
 date: '2016-10-24T00:10:41+00:00'
 author: syr3fx
 excerpt: '''Bathed In Filth'' by Lung Sewage (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 8796
-title: '&#8216;The Ladder&#8217; by Palace of Worms &#8211; A Comment'
+title: '&#8216;The Ladder&#8217; by Palace of Worms - A Comment'
 date: '2017-02-24T02:00:15+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''The Ladder'' album by Palace of Worms (2017).'

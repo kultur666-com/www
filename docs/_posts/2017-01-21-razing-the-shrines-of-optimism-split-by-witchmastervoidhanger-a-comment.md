@@ -1,6 +1,6 @@
 ---
 id: 7895
-title: '&#8216;Razing the Shrines of Optimism&#8217; (Split) by Witchmaster/Voidhanger &#8211; A Comment'
+title: '&#8216;Razing the Shrines of Optimism&#8217; (Split) by Witchmaster/Voidhanger - A Comment'
 date: '2017-01-21T00:10:45+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Razing the Shrines of Optimism'' split album by Witchmaster and Voidhanger (2017).'

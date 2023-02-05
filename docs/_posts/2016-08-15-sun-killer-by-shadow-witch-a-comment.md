@@ -1,6 +1,6 @@
 ---
 id: 4241
-title: 'Sun Killer by Shadow Witch &#8211; A Comment'
+title: 'Sun Killer by Shadow Witch - A Comment'
 date: '2016-08-15T00:11:32+00:00'
 author: syr3fx
 excerpt: 'A comment on Shadow Witch''s ''Sun Killer'' album (2016).'

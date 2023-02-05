@@ -1,6 +1,6 @@
 ---
 id: 4696
-title: 'Keep Of Kalessin &#8211; The Grand Design (2015)'
+title: 'Keep Of Kalessin - The Grand Design (2015)'
 date: '2016-09-05T00:10:58+00:00'
 author: syr3fx
 excerpt: 'The song ''The Grand Design'' by Keep Of Kalessin (2015)'

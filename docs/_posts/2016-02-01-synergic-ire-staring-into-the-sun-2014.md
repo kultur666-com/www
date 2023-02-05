@@ -1,6 +1,6 @@
 ---
 id: 1922
-title: 'Synergic Ire &#8211; Staring Into The Sun (2014)'
+title: 'Synergic Ire - Staring Into The Sun (2014)'
 date: '2016-02-01T00:23:34+00:00'
 author: syr3fx
 excerpt: 'Song Staring Into The Sun by Synergic Ire.'

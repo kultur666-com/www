@@ -1,6 +1,6 @@
 ---
 id: 5960
-title: 'Lulu by Lou Reed &amp; Metallica &#8211; A Thought'
+title: 'Lulu by Lou Reed &amp; Metallica - A Thought'
 date: '2016-12-14T00:21:17+00:00'
 author: syr3fx
 excerpt: 'A thought on the Lulu album by Lou Reed &amp; Metallica (2011).'

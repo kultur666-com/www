@@ -1,6 +1,6 @@
 ---
 id: 6499
-title: '&#8216;Graves Of Ceaseless Death&#8217; by Ruinous &#8211; A Comment'
+title: '&#8216;Graves Of Ceaseless Death&#8217; by Ruinous - A Comment'
 date: '2016-11-11T17:24:17+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Graves Of Ceaseless Death'' album by Ruinous (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 819
-title: 'Mac Baren&#8217;s 7 Seas Red &#8211; A Comment'
+title: 'Mac Baren&#8217;s 7 Seas Red - A Comment'
 date: '2016-01-16T00:10:49+00:00'
 author: syr3fx
 excerpt: 'A comment of Mac Baren''s 7 Seas Red pipe tobacco blend.'

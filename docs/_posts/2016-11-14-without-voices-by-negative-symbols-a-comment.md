@@ -1,6 +1,6 @@
 ---
 id: 6521
-title: '&#8216;Without Voices&#8217; by Negative Symbols &#8211; A Comment'
+title: '&#8216;Without Voices&#8217; by Negative Symbols - A Comment'
 date: '2016-11-14T00:10:26+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Without Voices'' album by Negative Symbols (2016).'

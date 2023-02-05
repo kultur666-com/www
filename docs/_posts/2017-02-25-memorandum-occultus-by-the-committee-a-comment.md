@@ -1,6 +1,6 @@
 ---
 id: 8817
-title: '&#8216;Memorandum Occultus&#8217; by The Committee &#8211; A Comment'
+title: '&#8216;Memorandum Occultus&#8217; by The Committee - A Comment'
 date: '2017-02-25T01:03:45+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Memorandum Occultus'' album by The Committee (2017).'

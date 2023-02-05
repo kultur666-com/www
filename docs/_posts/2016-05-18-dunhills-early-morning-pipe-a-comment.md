@@ -1,6 +1,6 @@
 ---
 id: 2736
-title: 'Dunhill&#8217;s Early Morning Pipe &#8211; A Comment'
+title: 'Dunhill&#8217;s Early Morning Pipe - A Comment'
 date: '2016-05-18T00:08:53+00:00'
 author: syr3fx
 excerpt: 'A comment on Dunhill''s Early Morning Pipe pipe tobacco.'

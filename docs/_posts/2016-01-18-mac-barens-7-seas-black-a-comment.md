@@ -1,6 +1,6 @@
 ---
 id: 822
-title: 'Mac Baren&#8217;s 7 Seas Black &#8211; A Comment'
+title: 'Mac Baren&#8217;s 7 Seas Black - A Comment'
 date: '2016-01-18T00:21:00+00:00'
 author: syr3fx
 excerpt: 'A comment of Mac Baren''s 7 Seas Black pipe tobacco blend.'

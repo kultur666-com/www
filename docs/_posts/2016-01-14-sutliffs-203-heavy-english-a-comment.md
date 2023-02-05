@@ -1,6 +1,6 @@
 ---
 id: 1092
-title: 'Sutliff&#8217;s 203 Heavy English &#8211; A Comment'
+title: 'Sutliff&#8217;s 203 Heavy English - A Comment'
 date: '2016-01-14T16:09:28+00:00'
 author: syr3fx
 excerpt: 'A comment on Sutliff''s 203 Heavy English bulk tobacco.'

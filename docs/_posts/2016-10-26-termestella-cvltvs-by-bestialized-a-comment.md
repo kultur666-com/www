@@ -1,6 +1,6 @@
 ---
 id: 6012
-title: '&#8216;Termestella Cvltvs&#8217; by Bestialized &#8211; A Comment'
+title: '&#8216;Termestella Cvltvs&#8217; by Bestialized - A Comment'
 date: '2016-10-26T00:10:51+00:00'
 author: syr3fx
 excerpt: 'A comment on the ''Termestella Cvltvs'' album by Bestialized (2016).'

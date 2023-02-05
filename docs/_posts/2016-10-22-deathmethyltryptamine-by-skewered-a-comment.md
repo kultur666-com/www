@@ -1,6 +1,6 @@
 ---
 id: 5975
-title: 'Deathmethyltryptamine by Skewered &#8211; A Comment'
+title: 'Deathmethyltryptamine by Skewered - A Comment'
 date: '2016-10-22T06:29:04+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Deathmethyltryptamine album by Skewered (2016).'

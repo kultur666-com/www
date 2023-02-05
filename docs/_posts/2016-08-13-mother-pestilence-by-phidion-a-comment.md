@@ -1,6 +1,6 @@
 ---
 id: 4136
-title: 'Mother Pestilence by Phidion &#8211; A Comment'
+title: 'Mother Pestilence by Phidion - A Comment'
 date: '2016-08-13T00:10:25+00:00'
 author: syr3fx
 excerpt: 'A comment on Phidion''s ''Mother Pestilence'' album (2016).'

@@ -1,6 +1,6 @@
 ---
 id: 5339
-title: '&#8216;The Carnal Sabbath&#8217; by Helleborus &#8211; A Comment'
+title: '&#8216;The Carnal Sabbath&#8217; by Helleborus - A Comment'
 date: '2016-10-06T00:10:21+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''The Carnal Sabbath'' album by Helleborus (2016).'

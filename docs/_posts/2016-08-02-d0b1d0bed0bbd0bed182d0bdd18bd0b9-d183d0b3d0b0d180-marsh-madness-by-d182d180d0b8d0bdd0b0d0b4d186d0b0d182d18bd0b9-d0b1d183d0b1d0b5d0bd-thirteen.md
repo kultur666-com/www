@@ -1,6 +1,6 @@
 ---
 id: 3717
-title: 'Болотный Угар (Marsh Madness) by Тринадцатый Бубен (Thirteenth Tambourine) &#8211; A Comment'
+title: 'Болотный Угар (Marsh Madness) by Тринадцатый Бубен (Thirteenth Tambourine) - A Comment'
 date: '2016-08-02T00:15:04+00:00'
 author: syr3fx
 excerpt: 'A Comment on Болотный Угар (Marsh Madness) by Тринадцатый Бубен (Thirteenth Tambourine) (2016). '

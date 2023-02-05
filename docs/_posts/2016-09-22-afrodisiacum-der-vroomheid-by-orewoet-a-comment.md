@@ -1,6 +1,6 @@
 ---
 id: 5044
-title: '&#8216;Afrodisiacum Der Vroomheid&#8217; by Orewoet &#8211; A Comment'
+title: '&#8216;Afrodisiacum Der Vroomheid&#8217; by Orewoet - A Comment'
 date: '2016-09-22T00:10:39+00:00'
 author: syr3fx
 excerpt: 'A comment on Orewoet''s ''ASfrodisiacum Der Vroomheid'' new album out September 16th 2016.'

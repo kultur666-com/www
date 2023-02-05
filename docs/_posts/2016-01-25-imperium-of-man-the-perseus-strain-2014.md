@@ -1,6 +1,6 @@
 ---
 id: 1796
-title: 'Imperium Of Man &#8211; The Perseus Strain (2014)'
+title: 'Imperium Of Man - The Perseus Strain (2014)'
 date: '2016-01-25T23:00:58+00:00'
 author: syr3fx
 excerpt: 'Video of The Perseus Strain of The Imperium Of Man'

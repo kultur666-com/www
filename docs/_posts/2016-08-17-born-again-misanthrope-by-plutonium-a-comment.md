@@ -1,6 +1,6 @@
 ---
 id: 4180
-title: '&#8216;Born Again Misanthrope&#8217; by Plutonium &#8211; A Comment'
+title: '&#8216;Born Again Misanthrope&#8217; by Plutonium - A Comment'
 date: '2016-08-17T00:10:29+00:00'
 author: syr3fx
 excerpt: 'A comment on ''Born Again Misanthrope'' by Plutonium (2016).'

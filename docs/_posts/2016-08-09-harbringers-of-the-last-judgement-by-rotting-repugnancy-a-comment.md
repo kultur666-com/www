@@ -1,6 +1,6 @@
 ---
 id: 4085
-title: '&#8216;Harbringers Of The Last Judgement&#8217; by Rotting Repugnancy &#8211; A Comment'
+title: '&#8216;Harbringers Of The Last Judgement&#8217; by Rotting Repugnancy - A Comment'
 date: '2016-08-09T00:10:02+00:00'
 author: syr3fx
 excerpt: 'A comment of ''Harbringers Of The Last Judgement'' by Rotting Repugnancy (2016)'

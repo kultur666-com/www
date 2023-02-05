@@ -1,6 +1,6 @@
 ---
 id: 9225
-title: 'Forever as I Beg (Single) &#8211; Messora'
+title: 'Forever as I Beg (Single) - Messora'
 date: '2022-01-21T00:57:20+00:00'
 author: syr3fx
 layout: post

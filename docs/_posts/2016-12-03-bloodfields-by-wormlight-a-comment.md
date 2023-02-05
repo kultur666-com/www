@@ -1,6 +1,6 @@
 ---
 id: 7074
-title: '&#8216;Bloodfields&#8217; by Wormlight &#8211; A Comment'
+title: '&#8216;Bloodfields&#8217; by Wormlight - A Comment'
 date: '2016-12-03T00:10:12+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Bloodfields'' EP album by Wormlight (2016).'

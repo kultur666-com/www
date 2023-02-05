@@ -1,6 +1,6 @@
 ---
 id: 6069
-title: 'Anathema by Endemise &#8211; A Comment'
+title: 'Anathema by Endemise - A Comment'
 date: '2016-10-27T00:20:57+00:00'
 author: syr3fx
 excerpt: 'A comment on the Anathema album by Endemise (2016).'

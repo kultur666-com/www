@@ -1,6 +1,6 @@
 ---
 id: 6219
-title: '&#8216;Hymns Of Dominion&#8217; by Fornicus &#8211; A Comment'
+title: '&#8216;Hymns Of Dominion&#8217; by Fornicus - A Comment'
 date: '2016-11-01T00:10:57+00:00'
 author: syr3fx
 excerpt: 'A comment of the ''Hymns Of Dominion'' album by Fornicus (2016).'

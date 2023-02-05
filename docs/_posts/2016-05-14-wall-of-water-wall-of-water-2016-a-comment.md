@@ -1,6 +1,6 @@
 ---
 id: 2845
-title: 'Wall Of Water (Eponymous) &#8211; A Comment'
+title: 'Wall Of Water (Eponymous) - A Comment'
 date: '2016-05-14T01:42:24+00:00'
 author: syr3fx
 excerpt: 'A comment on Wall Of Water''s eponymous first album.'

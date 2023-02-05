@@ -1,6 +1,6 @@
 ---
 id: 8546
-title: '&#8216;The Forever Lie&#8217; by All Else Fails &#8211; A Comment'
+title: '&#8216;The Forever Lie&#8217; by All Else Fails - A Comment'
 date: '2017-02-14T00:20:34+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''The Forever Lie'' EP by All Else Fails (2017).'

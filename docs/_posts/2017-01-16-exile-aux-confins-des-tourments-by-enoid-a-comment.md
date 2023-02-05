@@ -1,6 +1,6 @@
 ---
 id: 7723
-title: '&#8216;Exile Aux Confins Des Tourments&#8217; by Enoid &#8211; A Comment'
+title: '&#8216;Exile Aux Confins Des Tourments&#8217; by Enoid - A Comment'
 date: '2017-01-16T02:17:55+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Exile Aux Confis Des Tourments'' album by Enoid (2016).'

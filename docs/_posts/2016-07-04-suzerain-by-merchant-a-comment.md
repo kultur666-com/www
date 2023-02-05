@@ -1,6 +1,6 @@
 ---
 id: 3372
-title: 'Suzerain by Merchant &#8211; A Comment'
+title: 'Suzerain by Merchant - A Comment'
 date: '2016-07-04T00:00:36+00:00'
 author: syr3fx
 excerpt: 'A comment on Merchant''s Suzerain album (2016).'

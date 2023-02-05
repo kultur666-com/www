@@ -1,6 +1,6 @@
 ---
 id: 7542
-title: 'Inritum by Era Decay &#8211; A Comment'
+title: 'Inritum by Era Decay - A Comment'
 date: '2017-01-10T00:10:49+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Inritum album by Era Decay (2016).'

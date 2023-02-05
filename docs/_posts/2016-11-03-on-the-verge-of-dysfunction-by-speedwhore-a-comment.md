@@ -1,6 +1,6 @@
 ---
 id: 6363
-title: '&#8216;On The Verge Of Dysfunction&#8217; by Speedwhore &#8211; A Comment'
+title: '&#8216;On The Verge Of Dysfunction&#8217; by Speedwhore - A Comment'
 date: '2016-11-03T00:10:30+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''On The Verge Of Dysfunction'' EP by Speedwhore (2016).'

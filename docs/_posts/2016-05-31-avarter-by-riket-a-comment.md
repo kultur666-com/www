@@ -1,6 +1,6 @@
 ---
 id: 2953
-title: 'Avarter by Riket &#8211; A Comment'
+title: 'Avarter by Riket - A Comment'
 date: '2016-05-31T00:18:48+00:00'
 author: syr3fx
 excerpt: 'A comment on Riket''s new EP album: Averter.'

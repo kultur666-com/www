@@ -1,6 +1,6 @@
 ---
 id: 7876
-title: 'Twingiant/Into the Storm, Cassette Split &#8211; A Comment'
+title: 'Twingiant/Into the Storm, Cassette Split - A Comment'
 date: '2017-01-19T00:20:46+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Twingiant and Into the Storm cassette split (2017). '

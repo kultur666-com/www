@@ -1,6 +1,6 @@
 ---
 id: 3050
-title: 'Huron &#8211; Murder Hole (2015)'
+title: 'Huron - Murder Hole (2015)'
 date: '2016-06-06T00:40:45+00:00'
 author: syr3fx
 excerpt: 'Song Murder Hole by Huron (2015).'

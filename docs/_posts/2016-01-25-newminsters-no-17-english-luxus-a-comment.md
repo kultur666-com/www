@@ -1,6 +1,6 @@
 ---
 id: 1599
-title: 'Newminster&#8217;s No.17 English Luxus &#8211; A Comment'
+title: 'Newminster&#8217;s No.17 English Luxus - A Comment'
 date: '2016-01-25T00:44:26+00:00'
 author: syr3fx
 excerpt: 'A comment of Newminster''s No.17 English Luxus pipe tobacco blend.'

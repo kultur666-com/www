@@ -1,6 +1,6 @@
 ---
 id: 9014
-title: 'Violet Cold &#8211; Anomie (DJ Citadin V Remix)'
+title: 'Violet Cold - Anomie (DJ Citadin V Remix)'
 date: '2017-03-19T11:42:38+00:00'
 author: syr3fx
 excerpt: 'Remix of Violet Cold''s Anomie song by DJ Citadin V.'

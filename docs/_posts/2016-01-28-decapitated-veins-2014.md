@@ -1,6 +1,6 @@
 ---
 id: 1870
-title: 'Decapitated &#8211; Veins (2014)'
+title: 'Decapitated - Veins (2014)'
 date: '2016-01-28T00:34:40+00:00'
 author: syr3fx
 excerpt: 'Decapitated''s Veins official video.'

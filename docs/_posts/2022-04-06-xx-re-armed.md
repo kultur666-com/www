@@ -1,6 +1,6 @@
 ---
 id: 9244
-title: 'XX &#8211; Re-Armed'
+title: 'XX - Re-Armed'
 date: '2022-04-06T15:14:33+00:00'
 author: syr3fx
 layout: post

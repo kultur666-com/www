@@ -1,6 +1,6 @@
 ---
 id: 415
-title: 'On Pipes &amp; Tobacco And Online Readings &#8211; Part I'
+title: 'On Pipes &amp; Tobacco And Online Readings - Part I'
 date: '2016-01-08T10:24:16+00:00'
 author: syr3fx
 excerpt: 'A compilation on pipe tobacco and tobacco pipe links on the Web.'

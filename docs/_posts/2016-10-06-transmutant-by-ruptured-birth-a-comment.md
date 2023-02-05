@@ -1,6 +1,6 @@
 ---
 id: 5430
-title: 'Transmutant by Ruptured Birth &#8211; A Comment'
+title: 'Transmutant by Ruptured Birth - A Comment'
 date: '2016-10-06T00:20:36+00:00'
 author: syr3fx
 excerpt: 'A comment on the Transmutant album by Ruptured Birth (2016).'

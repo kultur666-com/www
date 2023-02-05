@@ -1,6 +1,6 @@
 ---
 id: 2944
-title: 'All Tomorrows &#8211; Undying Seasons (2015)'
+title: 'All Tomorrows - Undying Seasons (2015)'
 date: '2016-05-17T19:54:46+00:00'
 author: syr3fx
 excerpt: 'Undying Seasons by All Tomorrows from Sol Agnates album (2015).'

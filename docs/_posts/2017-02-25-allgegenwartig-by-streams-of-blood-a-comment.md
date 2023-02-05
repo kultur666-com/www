@@ -1,6 +1,6 @@
 ---
 id: 8846
-title: 'Allgegenwärtig by Streams of Blood &#8211; A Comment'
+title: 'Allgegenwärtig by Streams of Blood - A Comment'
 date: '2017-02-25T01:50:56+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Allgegenwärtig album by Streams of Blood (2017).'

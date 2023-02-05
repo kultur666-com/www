@@ -1,6 +1,6 @@
 ---
 id: 7506
-title: 'Exoplanets by The Vomiting Dinosaurs &#8211; A Comment'
+title: 'Exoplanets by The Vomiting Dinosaurs - A Comment'
 date: '2017-01-07T00:10:15+00:00'
 author: syr3fx
 excerpt: 'A Comment of the Exoplanets album by The Vomiting Dinosaurs (2017).'

@@ -1,6 +1,6 @@
 ---
 id: 3333
-title: 'Vehemence &#8211; A Dark Figure In The Distance (2015)'
+title: 'Vehemence - A Dark Figure In The Distance (2015)'
 date: '2016-06-27T00:19:38+00:00'
 author: syr3fx
 excerpt: 'Vehemence''s "A Dark Figure In The Distance" from "Forward Without Motion" album (2015).'

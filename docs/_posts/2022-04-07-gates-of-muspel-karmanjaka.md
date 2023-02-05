@@ -1,6 +1,6 @@
 ---
 id: 9250
-title: 'Gates of Muspel &#8211; Karmanjaka'
+title: 'Gates of Muspel - Karmanjaka'
 date: '2022-04-07T13:55:02+00:00'
 author: syr3fx
 layout: post

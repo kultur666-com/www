@@ -1,6 +1,6 @@
 ---
 id: 4848
-title: '&#8216;Evil Aggressors&#8217; by Lethal Shöck &#8211; A Comment'
+title: '&#8216;Evil Aggressors&#8217; by Lethal Shöck - A Comment'
 date: '2016-09-13T00:10:28+00:00'
 author: syr3fx
 excerpt: 'A comment on Lethal Shöck''s ''Evil Aggressors'' album (2016). '

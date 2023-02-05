@@ -1,6 +1,6 @@
 ---
 id: 4521
-title: 'Sisters Of Suffocation &#8211; Brutal Queen (2016)'
+title: 'Sisters Of Suffocation - Brutal Queen (2016)'
 date: '2016-08-27T00:10:58+00:00'
 author: syr3fx
 excerpt: 'Video of Brutal Queen by Sisters Of Suffocation (2016)'

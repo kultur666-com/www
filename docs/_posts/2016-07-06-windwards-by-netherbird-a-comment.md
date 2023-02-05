@@ -1,6 +1,6 @@
 ---
 id: 3417
-title: 'Windwards by Netherbird &#8211; A Comment'
+title: 'Windwards by Netherbird - A Comment'
 date: '2016-07-06T00:48:34+00:00'
 author: syr3fx
 excerpt: 'A comment on Netherbird''s Windwards single (2016).'

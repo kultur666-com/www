@@ -1,6 +1,6 @@
 ---
 id: 8927
-title: '&#8216;Butchering The Colossus&#8217; by Bear Mace &#8211; A Comment'
+title: '&#8216;Butchering The Colossus&#8217; by Bear Mace - A Comment'
 date: '2017-03-01T15:06:42+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Butchering The Colossus'' album by Bear Mace (2017).'

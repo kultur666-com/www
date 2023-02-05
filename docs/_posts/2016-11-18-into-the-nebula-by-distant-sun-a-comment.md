@@ -1,6 +1,6 @@
 ---
 id: 6652
-title: '&#8216;Into The Nebula&#8217; by Distant Sun &#8211; A Comment'
+title: '&#8216;Into The Nebula&#8217; by Distant Sun - A Comment'
 date: '2016-11-18T00:10:45+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Into The Nebula'' album by Distant Sun   (2016).'

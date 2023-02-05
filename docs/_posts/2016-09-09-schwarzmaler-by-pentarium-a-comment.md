@@ -1,6 +1,6 @@
 ---
 id: 4705
-title: 'Schwarzmaler by Pentarium &#8211; A Comment'
+title: 'Schwarzmaler by Pentarium - A Comment'
 date: '2016-09-09T00:10:45+00:00'
 author: syr3fx
 excerpt: 'A comment on the Schwarzmaler album by Pentarium (2016).'

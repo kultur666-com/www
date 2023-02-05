@@ -1,6 +1,6 @@
 ---
 id: 2642
-title: 'Babymetal &#8211; Gimme Chocolate!!'
+title: 'Babymetal - Gimme Chocolate!!'
 date: '2016-04-09T20:51:23+00:00'
 author: syr3fx
 excerpt: 'Song "Gimme Chocolate!!" by Baby Metal.'

@@ -1,6 +1,6 @@
 ---
 id: 3774
-title: 'Rape Crisis Actor by Crisis Actor &#8211; A Comment'
+title: 'Rape Crisis Actor by Crisis Actor - A Comment'
 date: '2016-08-08T00:10:37+00:00'
 author: syr3fx
 excerpt: 'A comment of Rape Crisis Actor by Crisis Actor (2016).'

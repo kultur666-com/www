@@ -1,6 +1,6 @@
 ---
 id: 3043
-title: 'Entrails &#8211; Epitome Of Death (2015)'
+title: 'Entrails - Epitome Of Death (2015)'
 date: '2016-05-31T15:20:47+00:00'
 author: syr3fx
 excerpt: 'Epitome Of Death song by Entrails (2015).'

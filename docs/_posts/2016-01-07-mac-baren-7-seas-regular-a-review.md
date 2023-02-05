@@ -1,6 +1,6 @@
 ---
 id: 815
-title: 'Mac Baren&#8217;s 7 Seas Regular &#8211; A Comment'
+title: 'Mac Baren&#8217;s 7 Seas Regular - A Comment'
 date: '2016-01-07T06:39:42+00:00'
 author: syr3fx
 excerpt: 'A comment of Mac Baren''s 7 Seas Regular.'

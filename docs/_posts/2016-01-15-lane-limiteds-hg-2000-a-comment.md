@@ -1,6 +1,6 @@
 ---
 id: 404
-title: 'Lane Limited&#8217;s HG-2000 &#8211; A Comment'
+title: 'Lane Limited&#8217;s HG-2000 - A Comment'
 date: '2016-01-15T00:12:05+00:00'
 author: syr3fx
 excerpt: 'A comment of Lane Limited''s HG-2000 pipe tobacco blend.'

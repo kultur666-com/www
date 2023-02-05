@@ -1,6 +1,6 @@
 ---
 id: 9204
-title: 'Siren Head &#8211; VORAATH'
+title: 'Siren Head - VORAATH'
 date: '2022-01-16T03:00:00+00:00'
 author: syr3fx
 layout: post

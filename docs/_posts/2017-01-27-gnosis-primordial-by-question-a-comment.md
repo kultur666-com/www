@@ -1,6 +1,6 @@
 ---
 id: 8143
-title: '&#8216;Gnosis Primordial&#8217; by Question &#8211; A Comment'
+title: '&#8216;Gnosis Primordial&#8217; by Question - A Comment'
 date: '2017-01-27T00:58:03+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Gnosis Primordial'' EP by Question (2017).'

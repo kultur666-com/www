@@ -1,6 +1,6 @@
 ---
 id: 827
-title: 'Sutliff&#8217;s Tobacco Galleria: Fox &amp; Hound &#8211; A Comment'
+title: 'Sutliff&#8217;s Tobacco Galleria: Fox &amp; Hound - A Comment'
 date: '2016-01-09T00:48:47+00:00'
 author: syr3fx
 excerpt: 'A comment of Sutliff''s Tobacco Galleria: Fox &amp; Hound.'

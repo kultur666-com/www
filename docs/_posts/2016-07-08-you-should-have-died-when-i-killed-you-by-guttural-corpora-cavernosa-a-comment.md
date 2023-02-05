@@ -1,6 +1,6 @@
 ---
 id: 3438
-title: '&#8220;You Should Have Died When I killed You&#8221; by Guttural Corpora Cavernosa &#8211; A Comment'
+title: '&#8220;You Should Have Died When I killed You&#8221; by Guttural Corpora Cavernosa - A Comment'
 date: '2016-07-08T12:12:08+00:00'
 author: syr3fx
 excerpt: 'A comment of "You Should Have Died When I killed You" album by Guttural Corpora Cavernosa (2016).'

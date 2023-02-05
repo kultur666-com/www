@@ -1,6 +1,6 @@
 ---
 id: 9212
-title: 'Lost Elegies &#8211; Primalfrost'
+title: 'Lost Elegies - Primalfrost'
 date: '2022-01-23T03:00:00+00:00'
 author: syr3fx
 layout: post

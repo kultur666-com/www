@@ -1,6 +1,6 @@
 ---
 id: 6730
-title: '&#8216;Madness Incarnate&#8217; by Nihilistinen Barbaarisuus &#8211; A Comment'
+title: '&#8216;Madness Incarnate&#8217; by Nihilistinen Barbaarisuus - A Comment'
 date: '2016-11-23T00:10:20+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Madness Incarnate'' album by Nihilistinen Barbaarisuus (2016).'

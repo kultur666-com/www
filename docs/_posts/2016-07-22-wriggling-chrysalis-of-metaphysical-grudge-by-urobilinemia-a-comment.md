@@ -1,6 +1,6 @@
 ---
 id: 3473
-title: '&#8216;Wriggling Chrysalis Of Metaphysical Grudge&#8217; by Urobilinemia &#8211; A Comment'
+title: '&#8216;Wriggling Chrysalis Of Metaphysical Grudge&#8217; by Urobilinemia - A Comment'
 date: '2016-07-22T00:20:15+00:00'
 author: syr3fx
 excerpt: 'A comment of ''Wriggling Chrysalis Of Metaphysical Grudge'' by Urobilinemia (2016).'

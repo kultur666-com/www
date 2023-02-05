@@ -1,6 +1,6 @@
 ---
 id: 8278
-title: 'Khonsu &#8211; Army of Me (DJ Citadin V Remix)'
+title: 'Khonsu - Army of Me (DJ Citadin V Remix)'
 date: '2017-01-31T05:09:58+00:00'
 author: syr3fx
 excerpt: 'Remix by DJ Citadin V of the song ''Army of Me'' by Khonsu from the album Traveller (2014).'

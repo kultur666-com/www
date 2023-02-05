@@ -1,6 +1,6 @@
 ---
 id: 3325
-title: 'Theoktony &#8211; Starvation (2015)'
+title: 'Theoktony - Starvation (2015)'
 date: '2016-06-22T20:36:18+00:00'
 author: syr3fx
 excerpt: 'Starvation by Theoktony from the Loss album (2015).'

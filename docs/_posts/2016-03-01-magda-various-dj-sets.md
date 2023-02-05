@@ -1,6 +1,6 @@
 ---
 id: 2273
-title: 'Magda &#8211; LIVE From DJ Mag HQ'
+title: 'Magda - LIVE From DJ Mag HQ'
 date: '2016-03-01T06:07:14+00:00'
 author: syr3fx
 excerpt: 'A Magda DJ Spin.'

@@ -1,6 +1,6 @@
 ---
 id: 8106
-title: '&#8216;Battle Through Time&#8217; by Undrask &#8211; A Comment'
+title: '&#8216;Battle Through Time&#8217; by Undrask - A Comment'
 date: '2017-01-27T00:18:55+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Battle Through Time'' album by Undrask (2017).'

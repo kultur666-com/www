@@ -1,6 +1,6 @@
 ---
 id: 9216
-title: 'Revenge At All Costs &#8211; Confess'
+title: 'Revenge At All Costs - Confess'
 date: '2022-01-21T03:00:00+00:00'
 author: syr3fx
 layout: post

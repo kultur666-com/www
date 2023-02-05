@@ -1,6 +1,6 @@
 ---
 id: 5391
-title: '&#8216;A Void Into The Fields Of Silence&#8217; by Spirit Of The Forest &#8211; A Comment'
+title: '&#8216;A Void Into The Fields Of Silence&#8217; by Spirit Of The Forest - A Comment'
 date: '2016-10-05T06:03:04+00:00'
 author: syr3fx
 excerpt: 'A comment on Spirit Of The Forest''s ''A Void Into The Fields Of Silence'' album (2016).'

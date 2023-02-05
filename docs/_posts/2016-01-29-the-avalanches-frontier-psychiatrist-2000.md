@@ -1,6 +1,6 @@
 ---
 id: 1811
-title: 'The Avalanches &#8211; Frontier Psychiatrist (2000)'
+title: 'The Avalanches - Frontier Psychiatrist (2000)'
 date: '2016-01-29T00:20:24+00:00'
 author: syr3fx
 excerpt: 'Video Frontier Psychiatrist by The Avalanches.'

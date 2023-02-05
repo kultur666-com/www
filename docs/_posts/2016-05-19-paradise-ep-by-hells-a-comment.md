@@ -1,6 +1,6 @@
 ---
 id: 2917
-title: 'Paradise (EP) by Hells &#8211; A Comment'
+title: 'Paradise (EP) by Hells - A Comment'
 date: '2016-05-19T10:49:51+00:00'
 author: syr3fx
 excerpt: 'A comment on Paradise EP by Hells.'

@@ -1,6 +1,6 @@
 ---
 id: 8737
-title: 'Reign by Sons Ov Omega &#8211; A Comment'
+title: 'Reign by Sons Ov Omega - A Comment'
 date: '2017-02-23T00:55:13+00:00'
 author: syr3fx
 excerpt: 'A Comment on the Reign album by Sons Ov Omega (2017).'

@@ -1,6 +1,6 @@
 ---
 id: 8513
-title: '&#8216;Execration Diatribes&#8217; by Pestifer &#8211; A Comment'
+title: '&#8216;Execration Diatribes&#8217; by Pestifer - A Comment'
 date: '2017-02-14T00:10:36+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Execration Diatribes'' album by Pestifer (2017).'

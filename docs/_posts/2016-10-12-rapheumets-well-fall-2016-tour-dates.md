@@ -1,6 +1,6 @@
 ---
 id: 5639
-title: 'Rapheumets Well &#8211; Fall 2016 Tour Dates'
+title: 'Rapheumets Well - Fall 2016 Tour Dates'
 date: '2016-10-12T00:10:53+00:00'
 author: syr3fx
 excerpt: 'Rapheumets Well - Fall 2016 Tour Dates'

@@ -1,6 +1,6 @@
 ---
 id: 7051
-title: '&#8216;Non Lucidum Tristitia&#8217; by Амезарак &#8211; A Comment'
+title: '&#8216;Non Lucidum Tristitia&#8217; by Амезарак - A Comment'
 date: '2016-11-29T00:20:54+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Non Lucidum Tristitia'' album by Амезарак (2016).'

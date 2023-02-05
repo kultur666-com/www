@@ -1,6 +1,6 @@
 ---
 id: 8428
-title: '&#8216;Time To Destroy&#8217; by Stormdeath &#8211; A Comment'
+title: '&#8216;Time To Destroy&#8217; by Stormdeath - A Comment'
 date: '2017-02-08T00:43:19+00:00'
 author: syr3fx
 excerpt: 'A Comment on the ''Time To Destroy'' album by Stormdeath (2016).'

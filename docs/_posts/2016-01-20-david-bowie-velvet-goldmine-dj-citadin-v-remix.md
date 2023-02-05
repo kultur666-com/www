@@ -1,6 +1,6 @@
 ---
 id: 1793
-title: 'David Bowie &#8211; Velvet Goldmine (DJ Citadin V Remix)'
+title: 'David Bowie - Velvet Goldmine (DJ Citadin V Remix)'
 date: '2016-01-20T22:51:47+00:00'
 author: syr3fx
 layout: post
