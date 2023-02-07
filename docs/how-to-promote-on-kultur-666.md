@@ -10,4 +10,6 @@ spay_email:
 permalink: /how-to-promote-on-kultur-666/
 ---
 
-<div class="is-layout-flex wp-block-buttons is-content-justification-center"><div class="wp-block-button">[Album Promo](https://form.jotform.com/213047570968059)</div><div class="wp-block-button">[Band Promo](https://form.jotform.com/213051021734036)</div><div class="wp-block-button">[Concert Promo](https://form.jotform.com/213050362741041)</div></div><div class="is-layout-flex wp-block-buttons is-content-justification-center"><div class="wp-block-button">[Promoter Registration](https://form.jotform.com/213050756136046)</div></div>
+[Band Promo](https://form.jotform.com/213051021734036)
+[Concert Promo](https://form.jotform.com/213050362741041)
+[Promoter Registration](https://form.jotform.com/213050756136046)
